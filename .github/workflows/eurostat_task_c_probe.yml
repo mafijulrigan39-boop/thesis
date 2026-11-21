@@ -1,0 +1,60 @@
+name: Eurostat Task C source probe
+on:
+  push:
+    paths:
+      - ".github/workflows/eurostat_task_c_probe.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Query official Comext filtered series and preserve response
+        shell: bash
+        run: |
+          python - <<'PY'
+          import csv, datetime, hashlib, json, os, pathlib, time, urllib.error, urllib.request
+          out=pathlib.Path("task_c_competitor_data/probe"); out.mkdir(parents=True,exist_ok=True)
+          base="https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/"
+          params="?format=SDMX-CSV&startPeriod=2025&endPeriod=2025"
+          keys=[
+           ("all_partners","A.EU27_2020..61091000.1.VALUE_IN_EUROS"),
+           ("bangladesh","A.EU27_2020.BD.61091000.1.VALUE_IN_EUROS"),
+           ("china","A.EU27_2020.CN.61091000.1.VALUE_IN_EUROS"),
+           ("extra_eu","A.EU27_2020.EXT_EU27_2020.61091000.1.VALUE_IN_EUROS")
+          ]
+          log=[]
+          for name,key in keys:
+           url=base+key+params
+           record={"request":name,"url":url,"started_utc":datetime.datetime.now(datetime.timezone.utc).isoformat()}
+           try:
+            req=urllib.request.Request(url,headers={"User-Agent":"MITB-Thesis-Academic-Eurostat-Validation/1.0","Accept":"text/csv,*/*"})
+            with urllib.request.urlopen(req,timeout=80) as resp:
+             b=resp.read(6000000)
+             record.update({"http_status":resp.status,"content_type":resp.headers.get("Content-Type"),"response_length":len(b),"sha256":hashlib.sha256(b).hexdigest(),"response_headers":{"Last-Modified":resp.headers.get("Last-Modified"),"ETag":resp.headers.get("ETag"),"Content-Length":resp.headers.get("Content-Length")}})
+             if resp.status==200 and (b"TIME_PERIOD" in b[:1000] or b"OBS_VALUE" in b[:1000]):
+              (out/(name+".csv")).write_bytes(b)
+              record["first_lines"]=b.decode("utf-8-sig","replace").splitlines()[:6]
+             else:
+              record["response_preview"]=b[:500].decode("utf-8","replace")
+           except Exception as e:
+            record.update({"error_type":type(e).__name__,"error":str(e)[:500]})
+           record["finished_utc"]=datetime.datetime.now(datetime.timezone.utc).isoformat()
+           log.append(record)
+          (out/"request_log.json").write_text(json.dumps(log,indent=2),encoding="utf-8")
+          print(json.dumps(log,indent=2))
+          PY
+      - name: Commit reproducible probe evidence
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_c_competitor_data/probe/
+          if ! git diff --staged --quiet; then
+            git commit -m "Record official Eurostat Task C connectivity evidence"
+            git push
+          fi

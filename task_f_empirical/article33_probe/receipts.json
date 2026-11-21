@@ -1,0 +1,175 @@
+[
+  {
+    "name": "chapters_2025",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020..61+62+63.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "retrieved_utc": "2026-11-21T07:54:43.692170+00:00",
+    "http_status": 200,
+    "sha256": "75b2dcdd0c2e680d74fd41445ba9aab6ce1ba3120001cfc3c24557ae897b8738",
+    "bytes": 61493,
+    "rows": 703,
+    "header": [
+      "DATAFLOW",
+      "LAST UPDATE",
+      "freq",
+      "reporter",
+      "partner",
+      "product",
+      "flow",
+      "indicators",
+      "TIME_PERIOD",
+      "OBS_VALUE"
+    ],
+    "products": [
+      "61",
+      "62",
+      "63"
+    ],
+    "bd": [
+      {
+        "product": "61",
+        "partner": "BD",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "11781042438"
+      },
+      {
+        "product": "62",
+        "partner": "BD",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "7698164307"
+      },
+      {
+        "product": "63",
+        "partner": "BD",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "386144445"
+      }
+    ],
+    "extra": [
+      {
+        "product": "61",
+        "partner": "EXT_EU27_2020",
+        "OBS_VALUE": "50364516835"
+      },
+      {
+        "product": "62",
+        "partner": "EXT_EU27_2020",
+        "OBS_VALUE": "45128474834"
+      },
+      {
+        "product": "63",
+        "partner": "EXT_EU27_2020",
+        "OBS_VALUE": "12637122588"
+      }
+    ]
+  },
+  {
+    "name": "chapters_bd_2025",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020.BD.61+62+63.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "retrieved_utc": "2026-11-21T07:54:44.704196+00:00",
+    "http_status": 200,
+    "sha256": "51931c76c8de7c469c37bf3ec8a710ffd810f6ff84d947e2e59b340ac1d988bb",
+    "bytes": 363,
+    "rows": 3,
+    "header": [
+      "DATAFLOW",
+      "LAST UPDATE",
+      "freq",
+      "reporter",
+      "partner",
+      "product",
+      "flow",
+      "indicators",
+      "TIME_PERIOD",
+      "OBS_VALUE"
+    ],
+    "products": [
+      "61",
+      "62",
+      "63"
+    ],
+    "bd": [
+      {
+        "product": "61",
+        "partner": "BD",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "11781042438"
+      },
+      {
+        "product": "62",
+        "partner": "BD",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "7698164307"
+      },
+      {
+        "product": "63",
+        "partner": "BD",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "386144445"
+      }
+    ],
+    "extra": []
+  },
+  {
+    "name": "chapters_2023",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020..61+62+63.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2023&endPeriod=2023",
+    "retrieved_utc": "2026-11-21T07:54:45.385965+00:00",
+    "http_status": 200,
+    "sha256": "57a67740ad7b4b9a20890d798719a02efe8696465918f27af154bfb3099133dd",
+    "bytes": 61984,
+    "rows": 709,
+    "header": [
+      "DATAFLOW",
+      "LAST UPDATE",
+      "freq",
+      "reporter",
+      "partner",
+      "product",
+      "flow",
+      "indicators",
+      "TIME_PERIOD",
+      "OBS_VALUE"
+    ],
+    "products": [
+      "61",
+      "62",
+      "63"
+    ],
+    "bd": [
+      {
+        "product": "61",
+        "partner": "BD",
+        "TIME_PERIOD": "2023",
+        "OBS_VALUE": "10669973325"
+      },
+      {
+        "product": "62",
+        "partner": "BD",
+        "TIME_PERIOD": "2023",
+        "OBS_VALUE": "6779849358"
+      },
+      {
+        "product": "63",
+        "partner": "BD",
+        "TIME_PERIOD": "2023",
+        "OBS_VALUE": "341003323"
+      }
+    ],
+    "extra": [
+      {
+        "product": "61",
+        "partner": "EXT_EU27_2020",
+        "OBS_VALUE": "44023945537"
+      },
+      {
+        "product": "62",
+        "partner": "EXT_EU27_2020",
+        "OBS_VALUE": "41755160931"
+      },
+      {
+        "product": "63",
+        "partner": "EXT_EU27_2020",
+        "OBS_VALUE": "10808667300"
+      }
+    ]
+  }
+]

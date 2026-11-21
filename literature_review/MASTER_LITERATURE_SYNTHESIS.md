@@ -21,7 +21,7 @@
 
 ### 1.1 Comparative advantage and the meaning of export competitiveness
 
-Balassa (1965, DOI 10.1111/j.1467-9957.1965.tb00050.x) popularized revealed comparative advantage (RCA) as a trade-share index. France's [CORRECTION: French, Scott] published article (2017, DOI 10.1016/j.jinteco.2017.02.002) shows that different RCA measures answer different questions and do not generically equal productivity. For a Bangladesh-only EU import-market dataset, the **EU product market share** is defensible, but classic Balassa RCA against total world exports is **not directly computable** without a consistent world exporter×product benchmark.
+Balassa (1965, DOI 10.1111/j.1467-9957.1965.tb00050.x) popularized revealed comparative advantage (RCA) as a trade-share index. Scott French's published article (2017, DOI 10.1016/j.jinteco.2017.02.002) shows that different RCA measures answer different questions and do not generically equal productivity. For a Bangladesh-only EU import-market dataset, the **EU product market share** is defensible, but classic Balassa RCA against total world exports is **not directly computable** without a consistent world exporter×product benchmark.
 
 Krugman (1980) explains differentiated products and increasing returns, while Melitz (2003, DOI 10.1111/1468-0262.00467) makes exporter productivity heterogeneity central to export participation. These supply plausible mechanisms, not variables or identified firm effects in country-level Comext data. Avoid claiming the research directly measures firm productivity, domestic value added, unit labour cost, buyer relationships, or profitability.
 

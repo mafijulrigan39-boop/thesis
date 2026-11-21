@@ -12,3 +12,14 @@ Central MITB thesis repository on Bangladesh's post-LDC graduation EU market-acc
 - [Article 33 official denominator tests](task_f_empirical/article33/)
 
 **Research-status caution:** 2025 cross-sectional computations and static 2026 tariff-source scenarios have been run, but the historical harmonized CN8 product growth and future legally payable post-EBA tariffs are not certified. See the v20 report in the archive.
+
+## Publication-oriented thesis literature and methods
+
+- [Integrated literature review (33 scholarly readings)](literature_review/README.md)
+- [Theoretical and empirical literature synthesis](literature_review/MASTER_LITERATURE_SYNTHESIS.md)
+- [Publication-oriented methodology and statistical strategy](literature_review/METHODS_AND_STATISTICAL_DESIGN.md)
+- [Policy and legal source timeline](literature_review/POLICY_LEGAL_SOURCES.md)
+- [Research novelty and supervisor review brief](literature_review/NOVELTY_AND_SUPERVISOR_BRIEF.md)
+- [Original MITB report-writing protocol](report_writing/README.md)
+
+Research-status notice: 2025 cross-sectional evidence only certified; post-EBA effects not observed; future rates conditional; paper final approval pending.

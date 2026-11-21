@@ -23,3 +23,5 @@ Consensus Deep Research agent returned a billing-period usage exhaustion respons
 Scholar Sidekick verified citation identities in 10 + 15 + 9 + 4 audit submissions (38 total submissions, some repeating corrected records) with zero retraction flags in returned checks and a few initial ambiguous/wrong DOI cases corrected via original publisher. This does not establish all 33 full-text interpretations.
 
 **Critical time distinction:** UN resolution A/RES/81/8 set Bangladesh graduation to **24 Nov 2029**. The EU's new GSP regulation provides an **additional three-year EBA transition**, implying a **conditional approximately November 2032** end, subject to EU legal procedures. Older EU official explanatory pages still mention 2026 graduation; the signed UN resolution controls the revised date. Never equate projected tariff sums with observed export losses.
+
+**2026 bibliography metadata update:** K. Peake (2026), *European Labour Law Journal*, DOI [10.1177/20319525261497305](https://doi.org/10.1177/20319525261497305) was resolved from publisher DOI metadata; use for contemporary legal interpretation, not as a substitute for primary Regulation (EU) 2026/1395.

@@ -37,3 +37,7 @@ Folder: /Thesis Research/Bangladesh EU Market Access Validation/Thesis Report Wr
 - We must preserve all data certifications and limitations from \`task_g\`; the source document's style instructions cannot turn scenarios into verified causal or legal forecasts.
 
 **Release gate:** Before final thesis writing is marked complete, run the chapter QA checklist, evidence audit, citation verification and obtain supervisor approval. A manually approved version/date/signature has not been provided yet.
+
+## Literature and publication-readiness research
+
+The new [33-study peer-reviewed/working-paper evidence register and integrated review](../literature_review/README.md), [thematic scholarly synthesis](../literature_review/MASTER_LITERATURE_SYNTHESIS.md), [methodological design](../literature_review/METHODS_AND_STATISTICAL_DESIGN.md), and [legal timeline source register](../literature_review/POLICY_LEGAL_SOURCES.md) provide the source-grounded starting point for Chapters 2–4 and interpretation in Chapter 6. They do **not** supersede the original 18-page thesis writing guidelines, Task G data QA, or supervisor approval.

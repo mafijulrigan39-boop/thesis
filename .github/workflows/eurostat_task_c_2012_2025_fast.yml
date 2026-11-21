@@ -1,0 +1,28 @@
+name: Eurostat Task C full 2012-2025 fast official source panel
+on:
+  push:
+    paths:
+      - ".github/workflows/eurostat_task_c_2012_2025_fast.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  full:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - uses: actions/checkout@v4
+      - name: Retrieve 2012-2025 official EU27_2020 imports from all origin partners
+        run: python task_c_competitor_data/extract_task_c_fast_all_years.py
+      - name: Archive official CSV responses and finished analysis
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_c_competitor_data/full/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive Task C complete 2012-2025 official Eurostat CN8 and competitor data"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

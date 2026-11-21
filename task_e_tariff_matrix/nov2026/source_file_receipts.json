@@ -1,0 +1,92 @@
+[
+  {
+    "filename": "Duties Import 01-99.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/d0b85541-ed40-4f11-81c3-d245b15adc1d/content",
+    "downloaded_utc": "2026-11-21T07:41:34.447292+00:00",
+    "bytes": 8299061,
+    "sha256": "89865ebad02ce9d601e060025f4d709bdac4e008d2657c503f34f7efe019d3e2",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Geographical areas composition.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/e8a814f1-7ca2-4c0b-a34a-b8d82d0eeeeb/content",
+    "downloaded_utc": "2026-11-21T07:41:35.611257+00:00",
+    "bytes": 142645,
+    "sha256": "c954658f3f9922d4115c3635d48e27344754d57fb252fada76bdbc86e6caf812",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Measure exclusions.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/215b5316-d9f4-46ca-a6d4-1eb1355eae4d/content",
+    "downloaded_utc": "2026-11-21T07:41:38.573653+00:00",
+    "bytes": 1394404,
+    "sha256": "8905b84789015edb0bfddb990214d2c535dd723402354ac150728a11a00bc78a",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Measure conditions.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/dcf72a54-9a49-4d57-b8fa-a641e889faf9/content",
+    "downloaded_utc": "2026-11-21T07:41:43.841630+00:00",
+    "bytes": 3821896,
+    "sha256": "2c31f655a7ed19704246f457b3fb81137ab539879fb3ac88076b95931c6fac40",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Nomenclature EN.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/41fc5fcb-88b0-4153-9d30-0bc0b01b3fde/content",
+    "downloaded_utc": "2026-11-21T07:41:45.952582+00:00",
+    "bytes": 1301954,
+    "sha256": "aee62e8b83da6cb8bb7605d7bce9a9ed13dc7055c956020173ed316415898ed0",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Declarable codes.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/adb9dd82-8089-4c78-8ae7-bd36eced8de8/content",
+    "downloaded_utc": "2026-11-21T07:41:47.246197+00:00",
+    "bytes": 589371,
+    "sha256": "56c63bfa579543b47287f3a202539caa567a68169d77a642201fad997303f75e",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Legal basis.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/6edb3f45-4c2e-4137-b567-e112fd4fa464/content",
+    "downloaded_utc": "2026-11-21T07:41:47.954451+00:00",
+    "bytes": 123131,
+    "sha256": "8b9d3a5370a728f65162bd1ef1a48901012bc7a8229b0da020fd986e2dd2551a",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Geographical areas description.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/acbd49e1-0b7a-47e3-8509-534db940f0bb/content",
+    "downloaded_utc": "2026-11-21T07:41:48.812101+00:00",
+    "bytes": 250722,
+    "sha256": "8a619c021144b7765d324b19ce38908392ec4aa341cfabcb66d56190816e1eea",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  },
+  {
+    "filename": "Measure footnotes.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/ef9e8bb1-1553-4889-b638-d37855f0c74a/content",
+    "downloaded_utc": "2026-11-21T07:41:56.113126+00:00",
+    "bytes": 5683286,
+    "sha256": "761adb80947f8d8f0925adb28a14ae3c0bd36daa1ba304b68aafa4fe0dd6ab92",
+    "source": "European Commission DG TAXUD CIRCABC TARIC public monthly extraction",
+    "reference_date": "2026-11-01",
+    "used_cached_copy": false
+  }
+]

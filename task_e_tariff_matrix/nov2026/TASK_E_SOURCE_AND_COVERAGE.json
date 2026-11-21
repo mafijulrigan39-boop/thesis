@@ -1,0 +1,179 @@
+{
+  "created_utc": "2026-11-21T07:42:11.132657+00:00",
+  "official_source_reference_date": "2026-11-01",
+  "source_month": "2026-11",
+  "source_files": 9,
+  "cn8_requested": 200,
+  "cn8_with_2026_taric_leaf": 200,
+  "taric10_leaf_lines": 321,
+  "taric10_origin_rows": 2247,
+  "raw_relevant_active_duty_rows": 2997,
+  "candidate_origin_tariff_measures": 16202,
+  "sample_origin_group_memberships": 106,
+  "types": [
+    {
+      "type_code": "142",
+      "type": "Tariff preference",
+      "raw_rows": 1890
+    },
+    {
+      "type_code": "143",
+      "type": "Preferential tariff quota",
+      "raw_rows": 178
+    },
+    {
+      "type_code": "103",
+      "type": "Third country duty",
+      "raw_rows": 111
+    },
+    {
+      "type_code": "474",
+      "type": "Entry into free circulation (quantitative limitation)",
+      "raw_rows": 94
+    },
+    {
+      "type_code": "117",
+      "type": "Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",
+      "raw_rows": 74
+    },
+    {
+      "type_code": "106",
+      "type": "Customs Union Duty",
+      "raw_rows": 55
+    },
+    {
+      "type_code": "728",
+      "type": "Import control on luxury goods",
+      "raw_rows": 51
+    },
+    {
+      "type_code": "122",
+      "type": "Non preferential tariff quota",
+      "raw_rows": 49
+    },
+    {
+      "type_code": "762",
+      "type": "Import control",
+      "raw_rows": 47
+    },
+    {
+      "type_code": "711",
+      "type": "Import control on restricted goods and technologies",
+      "raw_rows": 46
+    },
+    {
+      "type_code": "109",
+      "type": "Supplementary unit",
+      "raw_rows": 42
+    },
+    {
+      "type_code": "552",
+      "type": "Definitive anti-dumping duty",
+      "raw_rows": 34
+    },
+    {
+      "type_code": "710",
+      "type": "Import control - CITES",
+      "raw_rows": 31
+    },
+    {
+      "type_code": "760",
+      "type": "Import control",
+      "raw_rows": 30
+    },
+    {
+      "type_code": "745",
+      "type": "Import control on cat and dog fur",
+      "raw_rows": 30
+    },
+    {
+      "type_code": "465",
+      "type": "Restriction on entry into free circulation",
+      "raw_rows": 28
+    },
+    {
+      "type_code": "277",
+      "type": "Import prohibition",
+      "raw_rows": 25
+    },
+    {
+      "type_code": "746",
+      "type": "Import control on seal products",
+      "raw_rows": 22
+    },
+    {
+      "type_code": "800",
+      "type": "Union handling fee",
+      "raw_rows": 20
+    },
+    {
+      "type_code": "107",
+      "type": "Low-value consignment customs duty",
+      "raw_rows": 20
+    },
+    {
+      "type_code": "110",
+      "type": "Supplementary unit import",
+      "raw_rows": 18
+    },
+    {
+      "type_code": "112",
+      "type": "Autonomous tariff suspension",
+      "raw_rows": 11
+    },
+    {
+      "type_code": "410",
+      "type": "Veterinary control",
+      "raw_rows": 10
+    },
+    {
+      "type_code": "119",
+      "type": "Airworthiness tariff suspension",
+      "raw_rows": 9
+    },
+    {
+      "type_code": "475",
+      "type": "Restriction on entry into free circulation",
+      "raw_rows": 8
+    },
+    {
+      "type_code": "482",
+      "type": "Declaration of subheading submitted to legal restrictions (net weight/supplementary unit)",
+      "raw_rows": 8
+    },
+    {
+      "type_code": "695",
+      "type": "Additional duties",
+      "raw_rows": 6
+    },
+    {
+      "type_code": "738",
+      "type": "Import/export restriction - Common Military List (CML) goods",
+      "raw_rows": 6
+    },
+    {
+      "type_code": "731",
+      "type": "Import control",
+      "raw_rows": 6
+    },
+    {
+      "type_code": "724",
+      "type": "Import control of fluorinated greenhouse gases",
+      "raw_rows": 4
+    }
+  ],
+  "unique_simple_mfn_taric10_country_rows": 2177,
+  "unique_simple_preference_taric10_country_rows": 1493,
+  "cn8_origin_simple_mfn": 1372,
+  "cn8_origin_simple_pref": 929,
+  "limitations": [
+    "Reference date 1 Nov 2026, not 21 Nov; daily updates not merged",
+    "CN8 2025 trade codes mapped to November 2026 valid TARIC10 leaf where possible, 2025 validity not separately recertified",
+    "TARIC codes may inherit parent measures; selected with hierarchy and exact measure group",
+    "Country-of-origin eligibility requires proof of origin; actual preference utilisation not observed",
+    "Future Standard GSP/GSP+ rates under 2026/1395 not certified as applied Bangladesh rates",
+    "MFN and preference candidates do not include customs valuation, VAT, contingent charges, anti-dumping, quotas or proof-of-origin determination unless independently verified",
+    "Complex duty expressions, multiple tariff measures, additional codes, quotas and conditions are not assigned a numeric advalorem rate",
+    "Exact rules of origin for 200 products are not yet audited"
+  ]
+}

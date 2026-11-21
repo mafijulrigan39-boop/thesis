@@ -1,0 +1,15 @@
+{
+  "verified_at_utc": "2026-11-21T08:00:51.635281+00:00",
+  "passed": true,
+  "issues": [],
+  "source_inputs_verified_sha256": 11,
+  "product_shares_recomputed": 200,
+  "competitor_origin_pairs_verified": 1200,
+  "tariff_exposure_scenario_sensitivity_rows_recomputed": 40,
+  "article33_annual_source_response_sha_verified": 14,
+  "article33_2025_37_share_pct": "48.70990071767591708810953116",
+  "article33_2025_6_share_pct": "18.37171016279951844090836490",
+  "CN8_growth_certified": false,
+  "future_2032_rates_certified": false,
+  "important_policy": "Never call static tariff duty-equivalent cost lost export revenue or legal future duty."
+}

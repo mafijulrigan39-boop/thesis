@@ -1,0 +1,20 @@
+{
+  "prepared_at": "2026-11-17",
+  "scope": "Preliminary public-data validation for Bangladesh-EU market access thesis direction",
+  "status": "Partial validation only; no full panel or line-level tariff schedule downloaded",
+  "trade_snapshot": {
+    "source": "WITS pages presenting UN Comtrade data",
+    "year": 2024,
+    "currency": "US$ thousands",
+    "coverage": "EU aggregate imports, Chapters 61-62, ten selected HS-6 apparel product lines"
+  },
+  "important_caveat": "The 2024 global market shares are not the Article 33 legal denominator. That statutory test is EU imports from all GSP beneficiaries for whole S-11b (Chapters 61-63).",
+  "files": [
+    "bangladesh_eu_trade_preliminary_validation.xlsx",
+    "eu_imports_selected_HS6_2024.csv",
+    "eu_imports_chapters_61_62_2024.csv",
+    "hs610910_partner_sample_2024.csv",
+    "eu_gsp_legal_rules.csv",
+    "data_validation_audit_memo.md"
+  ]
+}

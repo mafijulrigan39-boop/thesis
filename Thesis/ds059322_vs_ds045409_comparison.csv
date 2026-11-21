@@ -1,0 +1,15 @@
+year,ds059322_cn8_rows,ds045409_reported_cn8_rows,row_count_difference,ds059322_cn8_sum_eur,ds045409_reported_cn8_sum_eur,cn8_sum_difference_eur,codex_reported_total_eur,ds045409_reported_total_eur,reported_total_difference_eur,interpretation
+2012,1480,1482,-2,8186942161,8186962160,-19999,8190980243,8190980243,0,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2013,1548,1551,-3,9113287140,9113304068,-16928,9115978459,9115978458,1,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2014,1570,1574,-4,10418891392,10419000337,-108945,10421299379,10421299379,0,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2015,1632,1635,-3,12710351692,12710410629,-58937,12715949830,12715949829,1,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2016,1639,1642,-3,13775900951,13776027170,-126219,13779755619,13779755619,0,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2017,1687,1692,-5,14248189646,14248264592,-74946,14251416207,14251416204,3,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2018,1792,1798,-6,15199003676,15199083229,-79553,15201621962,15201621963,-1,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2019,1828,1835,-7,16289349186,16289487304,-138118,16291646246,16291646245,1,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2020,1851,1856,-5,13520013340,13520169329,-155989,13532808957,13532808960,-3,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2021,2400,2405,-5,15734009564,15734144431,-134867,15735974326,15735974328,-2,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2022,2589,2592,-3,23986230411,23986304014,-73603,23990994617,23990994619,-2,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2023,2635,2641,-6,18940758006,18940922701,-164695,18944474058,18944474058,0,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2024,2534,2541,-7,19920661506,19920851710,-190204,19925531672,19925531672,0,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled
+2025,2595,2602,-7,21238163196,21238324681,-161485,21244359364,21244359365,-1,DS-059322 procedure T versus DS-045409; extraction definitions and source vintage not independently reconciled

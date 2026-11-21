@@ -1,0 +1,16 @@
+Execution environment test — 17 November 2026
+
+Attempted a direct filtered Eurostat Comext DS-045409 request:
+GET https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409
+with dimensions freq=A, reporter=EU27_2020, partner=BD, product=61091000, flow=1, indicators=VALUE_IN_EUROS, time=2024.
+
+Result: requests.ConnectionError caused by urllib3 NameResolutionError: Failed to resolve ec.europa.eu ([Errno -3] Temporary failure in name resolution).
+
+Consequences:
+- No 2012–2025 raw Comext panel was downloaded in this session.
+- No 100–200 CN8 universe has been generated from the complete annual Bangladesh-origin series.
+- No annual all-origin competitor matrix or product-year market share panel has been produced.
+- No complete Section S-11b 61–63 by-origin denominator series has been downloaded.
+- No WITS tariff API/TARIC raw tariff file was retrieved or parsed in this session.
+
+Completed partial evidence remains clearly labelled as such in the workbook, CSV extracts and integrated research memo.

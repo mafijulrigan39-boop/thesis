@@ -1,0 +1,4 @@
+﻿reporter,flow,year,hs_chapter,description,eu_imports_value_1000_usd,bangladesh_value_1000_usd,bangladesh_share_of_world_imports,source_url,data_status
+European Union,Imports,2024,61,"Articles of apparel and clothing accessories, knitted or crocheted",48024222.26,11949257.0,0.24881729339222827,https://wits.worldbank.org/trade/comtrade/en/country/EUN/year/2024/tradeflow/Imports/partner/ALL/product/61,WITS/UN Comtrade snapshot
+European Union,Imports,2024,62,"Articles of apparel and clothing accessories, not knitted or crocheted",44545413.93,7835487.14,0.17589885127822405,https://wits.worldbank.org/trade/comtrade/en/country/EUN/year/2024/tradeflow/Imports/partner/ALL/product/62,WITS/UN Comtrade snapshot
+European Union,Imports,2024,61+62,Combined Chapter 61 and 62,92569636.19,19784744.14,0.21372822616901765,Computed from two chapter rows,Chapter 63 excluded

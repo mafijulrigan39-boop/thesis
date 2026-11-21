@@ -1,0 +1,43 @@
+{
+  "created_utc": "2026-11-21T07:56:50.257609+00:00",
+  "official_data_requests": 14,
+  "hash_verified_source_files": 14,
+  "source_rows": 9670,
+  "expected_annual_screens": 14,
+  "computed_screens": 14,
+  "complete": true,
+  "gsp_2027_roster_size": 64,
+  "primary_roster_source": "EU 2026/1395 Annex I column C, Official Journal pp.35-41",
+  "article33_legal_source": "https://eur-lex.europa.eu/eli/reg/2026/1395/oj/eng",
+  "BD_2025": {
+    "year": 2025,
+    "bd_S11b_eur": "19865351190",
+    "extraEU_all_origins_S11b_eur": "108130114257",
+    "gsp_beneficiaries_S11b_eur_2027_roster": "40782984357",
+    "gsp_excluding_full_withdrawal_BY_eur": "40767437749",
+    "BD_share_of_2027_GSP_roster_percent": "48.70990071767591708810953116",
+    "BD_share_of_GSP_excluding_BY_percent": "48.72847617333342162700262961",
+    "BD_share_of_extraEU_all_origins_percent": "18.37171016279951844090836490",
+    "country_origin_residual_eur": "-694751660",
+    "BD_GSP_share_if_all_positive_residual_GSP_percent": "48.70990071767591708810953116",
+    "threshold_37_status": "ABOVE_37",
+    "residual_sensitivity_status": "ABOVE_37",
+    "threshold_6_exception_applicable_if_no_EBA": "False",
+    "current_EBA_exception": true,
+    "actual_article33_safeguard_2025": "INAPPLICABLE_TO_BD_WHILE_EBA",
+    "roster_year": "2027_AS_BACKCAST_REFERENCE",
+    "legal_interpretation": "COUNTERFACTUAL_NUMERICAL_SCREEN_NO_IMPLEMENTING_ACT",
+    "source_trade_dataset": "DS-045409",
+    "reference_law": "EU_2026_1395_Article33_AnnexIV"
+  },
+  "correct_37_percent_denominator": "all GSP beneficiary origins under the stated roster, not BD own world totals or only competitor six",
+  "correct_6_percent_denominator": "official extraEU aggregate all origin EU imports Chapters61-63",
+  "limits": [
+    "The 2027 Annex I beneficiary roster is backcast onto earlier trade observations; it is not the exact roster for earlier years.",
+    "Annex I includes Belarus despite Annex II full withdrawal; we report a BY-exclusion sensitivity.",
+    "Missing partner-origin records are not imputed zeros. The aggregate-minus-named residual is audited.",
+    "EBA status exempts Bangladesh from Art33 automatic safeguard until a legally effective eligibility change.",
+    "Art33 removal requires implementing act (not automatic consequence of arithmetic), with legal start date.",
+    "Trade observations are EU imports using reported trade values, not preference utilisation."
+  ]
+}

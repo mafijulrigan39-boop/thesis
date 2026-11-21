@@ -6,7 +6,7 @@
 |---|---|
 | [2.1 Thematic Review of Key Concepts](2_1_THEMATIC_REVIEW_OF_KEY_CONCEPTS.md) | First APA-cited draft, grounded in saved literature synthesis and checked primary sources, 2026-11-21 |
 | [2.2 Empirical Studies and Prior Findings](2_2_EMPIRICAL_STUDIES_AND_PRIOR_FINDINGS.md) | First cited critical comparative draft; six thematic strands, 11-study evidence table, November 2026 working-paper addendum |
-| 2.3 Identification of Research Gap | Pending conclusion informed by 2.1–2.2 |
+| [2.3 Identification of Research Gap](2_3_IDENTIFICATION_OF_RESEARCH_GAP.md) | First APA-cited synthesis with six research-gap dimensions and contribution matrix, 2026-11-21 |
 
 **Scope guardrails:** 2.1 provides critical conceptual synthesis, not Chapter 3's full theoretical model or Chapter 4's reproducible formulas. The 2025 selected top-200 CN8 cohort and 2026 tariff reference date are the research scope; no unexecuted causal impact estimators or unverified historical harmonization may be claimed.
 

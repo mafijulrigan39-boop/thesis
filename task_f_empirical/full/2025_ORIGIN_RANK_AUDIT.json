@@ -1,0 +1,173 @@
+{
+  "source": "Official DS-045409 Task C 2025 all partner values",
+  "200_products": 200,
+  "origin_count": 209,
+  "BD_rank_in_all_named_nonEU_origins": 2,
+  "BD_eur_2025": "20789281101",
+  "sum_200_extraEU_denominators_eur": "137346619291",
+  "sum_all_named_countries_eur": "136202215510",
+  "residual_eur": "1144403781",
+  "leading_20_origins": [
+    {
+      "origin_rank": 1,
+      "origin": "CN",
+      "2025_total_value_eur_in_200_product_markets": "43320980794",
+      "observed_product_lines": 200,
+      "share_of_sum_published_extraEU_product_denominators_percent": "31.54135210435334078105830791",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 2,
+      "origin": "BD",
+      "2025_total_value_eur_in_200_product_markets": "20789281101",
+      "observed_product_lines": 200,
+      "share_of_sum_published_extraEU_product_denominators_percent": "15.13636171630346969484330968",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 3,
+      "origin": "VN",
+      "2025_total_value_eur_in_200_product_markets": "12185983505",
+      "observed_product_lines": 198,
+      "share_of_sum_published_extraEU_product_denominators_percent": "8.872430619629032802678247612",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 4,
+      "origin": "TR",
+      "2025_total_value_eur_in_200_product_markets": "9507992734",
+      "observed_product_lines": 200,
+      "share_of_sum_published_extraEU_product_denominators_percent": "6.922625968576014551507669552",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 5,
+      "origin": "IN",
+      "2025_total_value_eur_in_200_product_markets": "7646409012",
+      "observed_product_lines": 200,
+      "share_of_sum_published_extraEU_product_denominators_percent": "5.567234964698582243751574016",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 6,
+      "origin": "PK",
+      "2025_total_value_eur_in_200_product_markets": "5442772155",
+      "observed_product_lines": 198,
+      "share_of_sum_published_extraEU_product_denominators_percent": "3.962800237163647479268336293",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 7,
+      "origin": "KH",
+      "2025_total_value_eur_in_200_product_markets": "5407539988",
+      "observed_product_lines": 190,
+      "share_of_sum_published_extraEU_product_denominators_percent": "3.937148228266833896903944436",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 8,
+      "origin": "MA",
+      "2025_total_value_eur_in_200_product_markets": "2932832479",
+      "observed_product_lines": 194,
+      "share_of_sum_published_extraEU_product_denominators_percent": "2.135351051332489255248763180",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 9,
+      "origin": "GB",
+      "2025_total_value_eur_in_200_product_markets": "2808175982",
+      "observed_product_lines": 199,
+      "share_of_sum_published_extraEU_product_denominators_percent": "2.044590537791280857832672753",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 10,
+      "origin": "ID",
+      "2025_total_value_eur_in_200_product_markets": "2731754812",
+      "observed_product_lines": 195,
+      "share_of_sum_published_extraEU_product_denominators_percent": "1.988949437635707025653170651",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 11,
+      "origin": "TN",
+      "2025_total_value_eur_in_200_product_markets": "2647972630",
+      "observed_product_lines": 195,
+      "share_of_sum_published_extraEU_product_denominators_percent": "1.927948895771266647128469946",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 12,
+      "origin": "MM",
+      "2025_total_value_eur_in_200_product_markets": "2396513302",
+      "observed_product_lines": 185,
+      "share_of_sum_published_extraEU_product_denominators_percent": "1.744865155306402116864900650",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 13,
+      "origin": "US",
+      "2025_total_value_eur_in_200_product_markets": "2269611172",
+      "observed_product_lines": 200,
+      "share_of_sum_published_extraEU_product_denominators_percent": "1.652469630279951322198431148",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 14,
+      "origin": "CH",
+      "2025_total_value_eur_in_200_product_markets": "1791391841",
+      "observed_product_lines": 196,
+      "share_of_sum_published_extraEU_product_denominators_percent": "1.304285354999914207535206714",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 15,
+      "origin": "LK",
+      "2025_total_value_eur_in_200_product_markets": "1347797910",
+      "observed_product_lines": 194,
+      "share_of_sum_published_extraEU_product_denominators_percent": "0.9813113107242807963058361726",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 16,
+      "origin": "EC",
+      "2025_total_value_eur_in_200_product_markets": "1286735526",
+      "observed_product_lines": 140,
+      "share_of_sum_published_extraEU_product_denominators_percent": "0.9368527107855189443098995193",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 17,
+      "origin": "TH",
+      "2025_total_value_eur_in_200_product_markets": "847703378",
+      "observed_product_lines": 197,
+      "share_of_sum_published_extraEU_product_denominators_percent": "0.6172000318434834623307786882",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 18,
+      "origin": "EG",
+      "2025_total_value_eur_in_200_product_markets": "755478324",
+      "observed_product_lines": 193,
+      "share_of_sum_published_extraEU_product_denominators_percent": "0.5500523623368898695639901260",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 19,
+      "origin": "BR",
+      "2025_total_value_eur_in_200_product_markets": "708540373",
+      "observed_product_lines": 195,
+      "share_of_sum_published_extraEU_product_denominators_percent": "0.5158775488305222372479225642",
+      "no_reported_row_is_not_assumed_zero": true
+    },
+    {
+      "origin_rank": 20,
+      "origin": "AL",
+      "2025_total_value_eur_in_200_product_markets": "564496786",
+      "observed_product_lines": 187,
+      "share_of_sum_published_extraEU_product_denominators_percent": "0.4110015877449341360650761007",
+      "no_reported_row_is_not_assumed_zero": true
+    }
+  ],
+  "limitation": "Ranks named-country origins only; country residual and trade scope remain flagged."
+}

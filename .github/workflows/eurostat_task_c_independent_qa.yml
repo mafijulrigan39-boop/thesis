@@ -24,3 +24,4 @@ jobs:
             git commit -m "Save independent Task C official data validation and supplier concentration"
             git pull --rebase origin main
             git push origin HEAD:main
+          fi

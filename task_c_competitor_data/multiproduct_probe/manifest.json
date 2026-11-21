@@ -1,0 +1,66 @@
+[
+  {
+    "name": "2_codes",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020..61091000+61103099.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "requested_utc": "2026-11-21T07:00:31.494943+00:00",
+    "codes_requested": [
+      "61091000",
+      "61103099"
+    ],
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "length": 34310,
+    "sha256": "923e2be9905c9f945f59d90624209ffc753b17470fb1c6458a64854a887a2267",
+    "header": "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+    "sample": [
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AD,61091000,1,VALUE_IN_EUROS,2025,53258",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AD,61103099,1,VALUE_IN_EUROS,2025,73267",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AE,61091000,1,VALUE_IN_EUROS,2025,4303202"
+    ],
+    "row_count": 369,
+    "distinct_products": [
+      "61091000",
+      "61103099"
+    ]
+  },
+  {
+    "name": "10_codes",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020..61091000+61103099+61102099+62034231+61102091+61046200+62034235+62046231+61051000+62052000.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "requested_utc": "2026-11-21T07:00:32.417107+00:00",
+    "codes_requested": [
+      "61091000",
+      "61103099",
+      "61102099",
+      "62034231",
+      "61102091",
+      "61046200",
+      "62034235",
+      "62046231",
+      "61051000",
+      "62052000"
+    ],
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "length": 154631,
+    "sha256": "cdcc696bf4b96656ea868c57d611b72b42c8cd727dbc1fcf563ed627da275b39",
+    "header": "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+    "sample": [
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AD,61046200,1,VALUE_IN_EUROS,2025,379974",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AD,61051000,1,VALUE_IN_EUROS,2025,32652",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AD,61091000,1,VALUE_IN_EUROS,2025,53258"
+    ],
+    "row_count": 1668,
+    "distinct_products": [
+      "61046200",
+      "61051000",
+      "61091000",
+      "61102091",
+      "61102099",
+      "61103099",
+      "62034231",
+      "62034235",
+      "62046231",
+      "62052000"
+    ]
+  }
+]

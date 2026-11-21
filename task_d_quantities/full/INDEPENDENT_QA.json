@@ -1,0 +1,20 @@
+{
+  "qa_utc": "2026-11-21T07:29:38.897255+00:00",
+  "passed": true,
+  "issues": [],
+  "raw_files_authenticated": 14,
+  "raw_quantity_records": 537945,
+  "seven_origin_rows": 19600,
+  "valid_eur_per_kg": 18582,
+  "excluded_rows": 1018,
+  "exclusion_breakdown": {
+    "VALID_EUR_PER_KG": 18582,
+    "NO_REPORTED_TRADE_VALUE": 1016,
+    "ZERO_NET_MASS": 2
+  },
+  "supp_raw_rows": 13618,
+  "2025_relative_pairs": 1200,
+  "2025_valid_relative_pairs": 1186,
+  "historical_restriction": "2012-2024 code meanings require official CN8 concordance; no raw-code longitudinal growth conclusions",
+  "supplementary_restriction": "Supplementary quantity unit mapping unverified, so no EUR per supplementary unit values are certified"
+}

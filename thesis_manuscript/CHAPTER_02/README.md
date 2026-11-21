@@ -20,3 +20,10 @@
 - [Thesis writing protocol](../../report_writing/MASTER_WRITING_PROTOCOL.md)
 
 **Supervisor approval:** Pending.
+
+## Consolidated manuscript and audit
+
+- [Complete Chapter 2 — reviewed first draft](CHAPTER_02_COMPLETE_REVIEWED.md), with 24 unique citations consolidated to a single APA bibliography.
+- [Chapter 2 academic and editorial audit](CHAPTER_02_EDITORIAL_AUDIT.md), documenting remaining full-text verification and supervisor-approval gates.
+
+**Status:** Drafting and structural review completed; not yet final scholarly/source-proofed submission.

@@ -74,7 +74,7 @@ Baumgartner, C., Srhoj, S., & Walde, J. (2023). Harmonization of product classif
 
 Bekkers, E., & Cariola, G. (2025). The impact of LDC graduation on trade: A quantitative assessment. *The Journal of International Trade & Economic Development, 34*(3), 397–427. https://doi.org/10.1080/09638199.2024.2323661
 
-Borchert, I. (2009). Trade diversion under selective preferential market access. *Canadian Journal of Economics/Revue canadienne d'économie, 42*(4), 1390–1410. https://doi.org/10.1111/j.1540-5982.2009.01549.x
+Borchert, I. (2009). Trade diversion under selective preferential market access. *Canadian Journal of Economics/Revue canadienne d'économique, 42*(4), 1390–1410. https://doi.org/10.1111/j.1540-5982.2009.01549.x
 
 Brenton, P. (2003). *Integrating the least developed countries into the world trading system: The current impact of EU preferences under everything but arms* (Policy Research Working Paper No. 3018). World Bank. https://doi.org/10.1596/1813-9450-3018
 

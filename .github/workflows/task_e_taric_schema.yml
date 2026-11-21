@@ -1,0 +1,28 @@
+name: Task E official TARIC November 2026 spreadsheet field audit
+on:
+  push:
+    paths:
+      - ".github/workflows/task_e_taric_schema.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  schema:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and inspect source spreadsheets from DG TAXUD CIRCABC
+        run: python task_e_tariff_matrix/probe_taric_xlsx_schema.py
+      - name: Preserve source receipts and field schemas
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_e_tariff_matrix/official_2026_11/SOURCE_PROBE_RECEIPTS.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Capture official November 2026 TARIC source document receipts and schema"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

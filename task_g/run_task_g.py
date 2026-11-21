@@ -100,6 +100,28 @@ def main():
  for pos in range(5,-1,-1):
   idx=six[pos];minq=min(minq,6*tests[idx]["p_value"]/(pos+1))
   tests[idx]["q_value"]=minq
+ # Sensitivity: partial-rank association after removing HS2 chapter fixed effects.
+ # This is NOT a causal model; many small HS2 groups have no rate variation.
+ rank_share=ranks([N(r["bangladesh_share_extraEU_pct_2025"]) for r in q])
+ rank_tariff=ranks([N(r["mfn_2026_reference_pct"]) for r in q])
+ hs2_groups={}
+ for i,r in enumerate(q):hs2_groups.setdefault(r["hs2"],[]).append(i)
+ share_res=rank_share[:];rate_res=rank_tariff[:]
+ for indices in hs2_groups.values():
+  mx=mean([rank_share[i] for i in indices]);my=mean([rank_tariff[i] for i in indices])
+  for i in indices:share_res[i]-=mx;rate_res[i]-=my
+ adjusted_rho=pearson(share_res,rate_res)
+ rng=random.Random(SEED+3);adjusted_hits=0
+ for _ in range(9999):
+  shuffled=rate_res[:]
+  for indices in hs2_groups.values():
+   sh=[shuffled[i] for i in indices];rng.shuffle(sh)
+   for i,vv in zip(indices,sh):shuffled[i]=vv
+  if abs(pearson(share_res,shuffled))>=abs(adjusted_rho)-1e-12:adjusted_hits+=1
+ adjusted_p=(adjusted_hits+1)/10000
+ tests.append(dict(h="H2_HS2_ADJUSTED",test="post-hoc within-HS2 partial-rank permutation, two-sided",
+     n=len(q),effect=adjusted_rho,p_value=adjusted_p,q_value="",interval="",
+     interpretation="sector-adjusted exploratory sensitivity; NOT confirmatory or causal"))
  emit("HYPOTHESIS_TESTS.csv",tests,["h","test","n","effect","p_value","q_value","interval","interpretation"])
  robustness=[]
  def put(kind,case,n_,value,unit,note):robustness.append(dict(kind=kind,case=case,n=n_,value=value,unit=unit,note=note))
@@ -177,6 +199,8 @@ def main():
  "historical_product_growth_certified":False,"future_tariffs_certified":False,
  "supervisor_scope_approval":"PENDING",
  "statistical_limits":"post-hoc exploratory associations; nonrandom top-200 CN8; no causal identification"}
+ result["H2_within_HS2_partial_rank_rho"]=adjusted_rho
+ result["H2_within_HS2_permutation_p"]=adjusted_p
  (OUT/"QA_SUMMARY.json").write_text(json.dumps(result,indent=2)+"\n")
  print(json.dumps(result,indent=2))
  print("TASK_G_OUTPUT_FILES:",",".join(sorted(p.name for p in OUT.iterdir())))

@@ -21,3 +21,5 @@ Other files in this folder: HYPOTHESES.md, BIBLIOGRAPHY_AUDIT.md, SOURCE_AND_MIS
 ### Alternate-year raw-code observations
 
 The independently verified source table has a 200-row *design grid* for each year, not 200 real observations. The validation runner additionally exports YEAR_BY_YEAR_MISSINGNESS.csv: 2012 valid 187, missing Bangladesh values 3, missing extraEU totals 10; 2023 valid 200; 2024 valid 199 and missing Bangladesh value 1; 2025 native valid 200. The 2012–2024 CN8 meanings are **not source-harmonized** and cannot justify product-growth trends. This is coverage robustness only.
+
+**H2 post-hoc sector robustness:** The executable QA also estimates a within-HS2 partial rank association by demeaning ranked product share and ranked tariff candidate within each HS2 and permuting tariffs within chapters. The original pooled H2 p-value is not interpreted as a robust independent association if this adjustment fails.

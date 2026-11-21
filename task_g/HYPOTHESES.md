@@ -19,3 +19,5 @@ H1 and H2 are related and exploratory. If the supervisor wants formal confirmato
 The public DU MITB 2023–24 curriculum confirms a 3-credit Project Paper and Viva Voce and courses in statistics/research methods; it does not set any explicit compulsory t-test/regression hypothesis rubric. Obtain supervisor-specific instructions on tests, citation style and project format before claiming academic approval.
 
 Curriculum: https://ssl.du.ac.bd/fontView/images/syllabus/1761544555LastUpdatedMITBSyllebus%282023-2024%29.pdf
+
+**Added post-hoc H2 robustness:** Within-HS2 categorical partial-rank correlation (demean pooled midranks within each HS2 chapter), 9,999 two-sided within-chapter permutations; report separately from pooled H2 and do not treat the unadjusted positive association as robust if this result is null. This sensitivity is additionally post-hoc and was added only after inspecting H2.

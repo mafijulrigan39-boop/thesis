@@ -1,0 +1,487 @@
+{
+  "snapshot_date": "2026-11-21",
+  "source_folder": "/Thesis Research/Bangladesh EU Market Access Validation/Integrated Research Pack",
+  "repository": "mafijulrigan39-boop/thesis",
+  "visibility": "public",
+  "file_count": 67,
+  "source_count_by_type": {
+    "md": 22,
+    "py": 5,
+    "csv": 18,
+    "xlsx": 9,
+    "zip": 12,
+    "docx": 1
+  },
+  "records": [
+    {
+      "name": "TaskF_Empirical_Dashboard_v20_2026-11-21.xlsx",
+      "size_bytes": 26584,
+      "original_library_file_id": "libfile_028fb735c2f48191b03997a210b912f7",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "TASK_F_README_START_HERE_v20_2026-11-21.md",
+      "size_bytes": 2316,
+      "original_library_file_id": "libfile_f3e7d40fe038819198c9457242a3b306",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/TASK_F_README_START_HERE_v20_2026-11-21.md"
+    },
+    {
+      "name": "TASK_F_EMPIRICAL_RESEARCH_REPORT_v20_2026-11-21.md",
+      "size_bytes": 13876,
+      "original_library_file_id": "libfile_c37dbfb24d808191a0279e41a15afb3e",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/TASK_F_EMPIRICAL_RESEARCH_REPORT_v20_2026-11-21.md"
+    },
+    {
+      "name": "BD_EU_TaskF_Empirical_Analysis_v20_2026-11-21.zip",
+      "size_bytes": 44374,
+      "original_library_file_id": "libfile_582a6890a36c81919e04393d0c3eed04",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "TASK_E_VALIDATION_REPORT_v19_2026-11-21.md",
+      "size_bytes": 12672,
+      "original_library_file_id": "libfile_e1b543c537ec8191a04b20d970b7f7a4",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/TASK_E_VALIDATION_REPORT_v19_2026-11-21.md"
+    },
+    {
+      "name": "TASK_E_SOURCE_AND_DATA_INDEX_v19_2026-11-21.csv",
+      "size_bytes": 2232,
+      "original_library_file_id": "libfile_e973e197b2408191badaecc4fd51bc7d",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/TASK_E_SOURCE_AND_DATA_INDEX_v19_2026-11-21.csv"
+    },
+    {
+      "name": "BD_EU_TaskE_Official_TARIC_Tariff_Matrix_Audit_v19_2026-11-21.zip",
+      "size_bytes": 6948,
+      "original_library_file_id": "libfile_b37c436bdfcc819186e460183cfbdcd4",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "BD_EU_TaskE_Official_TARIC_Tariff_and_GSP_Audit_v18_2026-11-21.md",
+      "size_bytes": 11946,
+      "original_library_file_id": "libfile_883d50a440ac8191916c8605d08e8409",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/BD_EU_TaskE_Official_TARIC_Tariff_and_GSP_Audit_v18_2026-11-21.md"
+    },
+    {
+      "name": "Task_D_Official_Quantities_Unit_Values_Validation_v16_2026-11-21.md",
+      "size_bytes": 8334,
+      "original_library_file_id": "libfile_9f4824038f2c8191aa322bc61b608096",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/Task_D_Official_Quantities_Unit_Values_Validation_v16_2026-11-21.md"
+    },
+    {
+      "name": "TaskC_EU_Competitor_Validation_Summary_v15_2026-11-21.xlsx",
+      "size_bytes": 8430,
+      "original_library_file_id": "libfile_e8f112da5ae48191ba1da96a3cff0d5a",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "TASK_C_OFFICIAL_COMPETITOR_DATA_FINAL_VALIDATION_v15_2026-11-21.md",
+      "size_bytes": 9901,
+      "original_library_file_id": "libfile_42ced610877c819193ca117f8bead325",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/TASK_C_OFFICIAL_COMPETITOR_DATA_FINAL_VALIDATION_v15_2026-11-21.md"
+    },
+    {
+      "name": "BD_EU_TaskC_Validated_Competitor_Methods_v15_2026-11-21.zip",
+      "size_bytes": 50369,
+      "original_library_file_id": "libfile_15dbfe1902c88191bd8995a4f5576fd3",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "TaskB_create_missing_safe_harmonization_v13.py",
+      "size_bytes": 9154,
+      "original_library_file_id": "libfile_0434664b34748191bb402be9c2e46730",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/scripts/TaskB_create_missing_safe_harmonization_v13.py"
+    },
+    {
+      "name": "TaskB_official_classification_27_SOURCE_RECEIPT_REGISTER_v13.csv",
+      "size_bytes": 7727,
+      "original_library_file_id": "libfile_0c1f40b36ea481919b149e7189e7c45e",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/TaskB_official_classification_27_SOURCE_RECEIPT_REGISTER_v13.csv"
+    },
+    {
+      "name": "TaskB_top20_nonexact_MANUAL_REVIEW_QUEUE_v13.csv",
+      "size_bytes": 5117,
+      "original_library_file_id": "libfile_0608828a01e88191b8402243ccc5fa4e",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/TaskB_top20_nonexact_MANUAL_REVIEW_QUEUE_v13.csv"
+    },
+    {
+      "name": "DS059322_observed_vs_absent_CODE_VALIDITY_UNKNOWN_v13.csv",
+      "size_bytes": 4681292,
+      "original_library_file_id": "libfile_f0efc383d66c8191b691d6fc0b64e346",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "TaskB_top200_2025_longitudinal_DECISION_REGISTER_v13.csv",
+      "size_bytes": 39630,
+      "original_library_file_id": "libfile_48d231b3d5d081919e3515a545855b4d",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/TaskB_top200_2025_longitudinal_DECISION_REGISTER_v13.csv"
+    },
+    {
+      "name": "TASK_B_MISSINGNESS_PROVENANCE_COMPLEX_GROUP_REVIEW_v13_2026-11-21.md",
+      "size_bytes": 10049,
+      "original_library_file_id": "libfile_74c311bde1448191bdeff9fc5f1ae22f",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/TASK_B_MISSINGNESS_PROVENANCE_COMPLEX_GROUP_REVIEW_v13_2026-11-21.md"
+    },
+    {
+      "name": "BD_EU_Thesis_TaskB_Missingness_Provenance_GroupReview_v13_2026-11-21.zip",
+      "size_bytes": 330361,
+      "original_library_file_id": "libfile_3ed889393f00819180eee9ce5ea363e9",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "TaskB_GitHub_Independent_Audit_v12_2026-11-21.md",
+      "size_bytes": 7783,
+      "original_library_file_id": "libfile_04dbe819ad8c819188bd41a8f83c4c13",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/TaskB_GitHub_Independent_Audit_v12_2026-11-21.md"
+    },
+    {
+      "name": "TaskB_177_Candidate_Product_Codes_PROVISIONAL_v12.csv",
+      "size_bytes": 74260,
+      "original_library_file_id": "libfile_f1d6bb93fe748191a4626d3a2e7f0441",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/TaskB_177_Candidate_Product_Codes_PROVISIONAL_v12.csv"
+    },
+    {
+      "name": "TaskB_2025_Top200_Classification_Flags_PROVISIONAL_v12.csv",
+      "size_bytes": 83560,
+      "original_library_file_id": "libfile_470cc39508c08191890b2f7c7a30c2b5",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/TaskB_2025_Top200_Classification_Flags_PROVISIONAL_v12.csv"
+    },
+    {
+      "name": "Bangladesh_EU_CN8_TaskB_GitHub_Independent_Audit_v12_2026-11-21.zip",
+      "size_bytes": 29594,
+      "original_library_file_id": "libfile_f85e32de9dd88191840ef4218239e6a1",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "TaskB_GitHub_Classification_Issue_Register_v11_2026-11-21.csv",
+      "size_bytes": 1190,
+      "original_library_file_id": "libfile_62598741f49c8191b8c8b9ac1dce133a",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/TaskB_GitHub_Classification_Issue_Register_v11_2026-11-21.csv"
+    },
+    {
+      "name": "TaskB_GitHub_Independent_Classification_Audit_v11_2026-11-21.md",
+      "size_bytes": 10109,
+      "original_library_file_id": "libfile_d8078d9757908191859ff7a713bc0820",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/TaskB_GitHub_Independent_Classification_Audit_v11_2026-11-21.md"
+    },
+    {
+      "name": "CN8_TaskB_certify_concordance_strict_v10.py",
+      "size_bytes": 11060,
+      "original_library_file_id": "libfile_74d6f921d294819196f5204be8651eae",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/scripts/CN8_TaskB_certify_concordance_strict_v10.py"
+    },
+    {
+      "name": "CN8_TaskB_27_source_file_requirements_v10.csv",
+      "size_bytes": 7543,
+      "original_library_file_id": "libfile_4a60247904ec81919dd079af30f4590b",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/CN8_TaskB_27_source_file_requirements_v10.csv"
+    },
+    {
+      "name": "CN8_TaskB_Top200_classification_risk_v10.csv",
+      "size_bytes": 25772,
+      "original_library_file_id": "libfile_9e2f7d287af48191a95cc1f953f2269c",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/CN8_TaskB_Top200_classification_risk_v10.csv"
+    },
+    {
+      "name": "CN8_TaskB_Findings_and_Limitations_v10_2026-11-21.md",
+      "size_bytes": 8003,
+      "original_library_file_id": "libfile_a11c298a6ad081919920d224676241ee",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/CN8_TaskB_Findings_and_Limitations_v10_2026-11-21.md"
+    },
+    {
+      "name": "CN8_TaskB_Classification_Audit_v10_2026-11-21.xlsx",
+      "size_bytes": 20503,
+      "original_library_file_id": "libfile_5ac39dfe1b508191b45766aed1542254",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "Bangladesh_EU_CN8_TaskB_Classification_Audit_v10_2026-11-21.zip",
+      "size_bytes": 124544,
+      "original_library_file_id": "libfile_fca48eccec608191b64325b9e397c31f",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "BD_EU_CN8_ten_code_comparison_v9_2026-11-21.csv",
+      "size_bytes": 442,
+      "original_library_file_id": "libfile_7ddb4bf77b2081918424d61ad054153c",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/BD_EU_CN8_ten_code_comparison_v9_2026-11-21.csv"
+    },
+    {
+      "name": "BD_EU_CN8_DS_comparison_qualified_addendum_v9_2026-11-21.md",
+      "size_bytes": 6194,
+      "original_library_file_id": "libfile_4f7fd1603b848191ab243a98564ca4b6",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/BD_EU_CN8_DS_comparison_qualified_addendum_v9_2026-11-21.md"
+    },
+    {
+      "name": "verify_raw_eurostat_v8_2026-11-21.py",
+      "size_bytes": 7824,
+      "original_library_file_id": "libfile_d823c041dd6c81918f8083af853d64c2",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/scripts/verify_raw_eurostat_v8_2026-11-21.py"
+    },
+    {
+      "name": "dg_trade_factsheet_vintage_comparison_v8.csv",
+      "size_bytes": 3582,
+      "original_library_file_id": "libfile_6c5367c4ec1c819191f900a52b1c9ac7",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/dg_trade_factsheet_vintage_comparison_v8.csv"
+    },
+    {
+      "name": "year_by_year_dataset_comparison_v8.csv",
+      "size_bytes": 5682,
+      "original_library_file_id": "libfile_0e40396a71b081919c8f30e4e81b0557",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/year_by_year_dataset_comparison_v8.csv"
+    },
+    {
+      "name": "AUTHENTICATION_FINDINGS_v8_2026-11-21.md",
+      "size_bytes": 12083,
+      "original_library_file_id": "libfile_93faed4580b08191b327be5d27410842",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/AUTHENTICATION_FINDINGS_v8_2026-11-21.md"
+    },
+    {
+      "name": "EU_Bangladesh_Comext_source_authentication_v8_2026-11-21.xlsx",
+      "size_bytes": 11601,
+      "original_library_file_id": "libfile_57c8722ab0608191a8eb29690b8831d1",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "BD_EU_Eurostat_Priority1_Authentication_v8_2026-11-21.zip",
+      "size_bytes": 215045,
+      "original_library_file_id": "libfile_ea9a0bd35e848191b8c1d3ef8e9fd947",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "cn8_product_year_matrix_missing_not_zero_v7.csv",
+      "size_bytes": 265114,
+      "original_library_file_id": "libfile_d20867078c14819192071c8c84cc379e",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "top_200_cn8_2025_UNHARMONIZED_v7.csv",
+      "size_bytes": 30920,
+      "original_library_file_id": "libfile_7c8f24b429bc8191b01a68867714457f",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/top_200_cn8_2025_UNHARMONIZED_v7.csv"
+    },
+    {
+      "name": "bangladesh_eu_cn8_real_data_verified_v7_2026-11-21.zip",
+      "size_bytes": 434549,
+      "original_library_file_id": "libfile_79bd137e4ca481918d49d3a84fe7645a",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "AUDIT_REPORT_ACTUAL_CN8_v7_2026-11-21.md",
+      "size_bytes": 8698,
+      "original_library_file_id": "libfile_d0376a151b3c8191a873e8c62927c9cf",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/AUDIT_REPORT_ACTUAL_CN8_v7_2026-11-21.md"
+    },
+    {
+      "name": "eu_imports_bangladesh_cn8_2012_2025_ORIGINAL_CODEX.csv",
+      "size_bytes": 1731439,
+      "original_library_file_id": "libfile_57060a523dd0819181fa0b46b2121d9a",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "Bangladesh_EU_CN8_RowLevel_Validation_v7_2026-11-21.xlsx",
+      "size_bytes": 56467,
+      "original_library_file_id": "libfile_51c7f32a71fc81919fca5aa24ddd5017",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "bangladesh_eu_cn8_independent_reconciliation_verification_2026-11-21.md",
+      "size_bytes": 6161,
+      "original_library_file_id": "libfile_063a208816008191bfd312b9c195d3cc",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/bangladesh_eu_cn8_independent_reconciliation_verification_2026-11-21.md"
+    },
+    {
+      "name": "bangladesh_eu_cn8_reconciliation_audit_2026-11-21.xlsx",
+      "size_bytes": 12283,
+      "original_library_file_id": "libfile_67b96c86a8b88191bcb455c11a70e728",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "independent_reconciliation_2026-11-21.csv",
+      "size_bytes": 3996,
+      "original_library_file_id": "libfile_4af7423c96d4819198be1dd9be92b775",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/independent_reconciliation_2026-11-21.csv"
+    },
+    {
+      "name": "EXECUTED_WORK_AND_BLOCKERS_v6_2026-11-21.md",
+      "size_bytes": 5578,
+      "original_library_file_id": "libfile_9a4184ac17688191b757d59b9c6d903a",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/EXECUTED_WORK_AND_BLOCKERS_v6_2026-11-21.md"
+    },
+    {
+      "name": "README_START_HERE_v6_2026-11-21.md",
+      "size_bytes": 9043,
+      "original_library_file_id": "libfile_858aaca8da2c8191a9aa0d03d456c172",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/README_START_HERE_v6_2026-11-21.md"
+    },
+    {
+      "name": "bangladesh_eu_mitb_thesis_pre_empirical_v6_2026-11-21.docx",
+      "size_bytes": 51151,
+      "original_library_file_id": "libfile_3d64cc6199048191816398b8fd613873",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "bd_eu_trade_research_audit_workbook_v6_2026-11-21.xlsx",
+      "size_bytes": 22507,
+      "original_library_file_id": "libfile_c346682463e08191b351b6f4778b2bb5",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "bangladesh_eu_thesis_v6_verified_process_package_2026-11-21.zip",
+      "size_bytes": 144263,
+      "original_library_file_id": "libfile_73f60bbfcd9481919d420ea0cc2e6b38",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "bd_eu_cn8_external_verification_2026-11-21.md",
+      "size_bytes": 6089,
+      "original_library_file_id": "libfile_9022ecb406a481919beba5e814c43da2",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/bd_eu_cn8_external_verification_2026-11-21.md"
+    },
+    {
+      "name": "codex_easy_comext_provisional_audit_2026-11-21.md",
+      "size_bytes": 4555,
+      "original_library_file_id": "libfile_3daac6a4b9d08191b8796d5389a516a1",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/codex_easy_comext_provisional_audit_2026-11-21.md"
+    },
+    {
+      "name": "README_eurostat_cn8_v4_2026-11-21.md",
+      "size_bytes": 4078,
+      "original_library_file_id": "libfile_8770243dae2c81919b68df35d4dd2b1e",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/README_eurostat_cn8_v4_2026-11-21.md"
+    },
+    {
+      "name": "eu_bd_cn8_extractor_v4_2026-11-21.zip",
+      "size_bytes": 8001,
+      "original_library_file_id": "libfile_07952f0e964c819187d5f0ba82f50eb1",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "eurostat_comext_bd_cn8_verified_v4_2026-11-21.py",
+      "size_bytes": 12323,
+      "original_library_file_id": "libfile_0cb5138cc9348191b0e4076218fabbe5",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/scripts/eurostat_comext_bd_cn8_verified_v4_2026-11-21.py"
+    },
+    {
+      "name": "source_log_v3.csv",
+      "size_bytes": 3830,
+      "original_library_file_id": "libfile_8d9d2e7b7830819180d0a979893207c8",
+      "transfer_status": "uploaded_parsed_csv_index_column_added",
+      "github_path": "research_archive/library_snapshot_2026-11-21/parsed_csv/source_log_v3.csv"
+    },
+    {
+      "name": "README_full_validation_pipeline_v3.md",
+      "size_bytes": 11587,
+      "original_library_file_id": "libfile_5702900a141c8191b2bb0e45762f4d51",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/README_full_validation_pipeline_v3.md"
+    },
+    {
+      "name": "run_full_validation_v3.py",
+      "size_bytes": 53686,
+      "original_library_file_id": "libfile_6dff811f4e448191bc7ed72e64628b58",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/scripts/run_full_validation_v3.py"
+    },
+    {
+      "name": "validation_report_v3_2026-11-17.md",
+      "size_bytes": 7671,
+      "original_library_file_id": "libfile_d35c1f4a42748191b762a69f981a0554",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/validation_report_v3_2026-11-17.md"
+    },
+    {
+      "name": "bangladesh_eu_trade_integrated_research_workbook_v3_2026-11-17.xlsx",
+      "size_bytes": 56388,
+      "original_library_file_id": "libfile_6b48266981188191b3d949770ccb60b3",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "bangladesh_eu_market_access_v3_research_update_2026-11-17.zip",
+      "size_bytes": 177024,
+      "original_library_file_id": "libfile_1ab05c7fa54481918e03034b0edea3e3",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "integrated_research_and_validation_report.md",
+      "size_bytes": 14477,
+      "original_library_file_id": "libfile_2af98e757ae88191a86bc683edacba96",
+      "transfer_status": "uploaded_text",
+      "github_path": "research_archive/library_snapshot_2026-11-21/reports/integrated_research_and_validation_report.md"
+    },
+    {
+      "name": "bangladesh_eu_trade_integrated_research_workbook.xlsx",
+      "size_bytes": 39412,
+      "original_library_file_id": "libfile_0dc665f3dd1c81918b9813cb01f9185a",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    },
+    {
+      "name": "bangladesh_eu_market_access_integrated_pack.zip",
+      "size_bytes": 77825,
+      "original_library_file_id": "libfile_e94545ca2c888191a404cc27f7f8d7f6",
+      "transfer_status": "not_uploaded_binary_or_large",
+      "github_path": null
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,14 @@
+index,description,github_url
+0,Original official Commission XLSX workbooks,https://github.com/mafijulrigan39-boop/thesis/tree/main/task_e_tariff_matrix/nov2026_taric/official_sources
+1,Original source SHA-256 receipts,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/official_source_receipts.csv
+2,"Full 16,202 source-measure records",https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/dated_taric10_origin_measure_evidence.csv
+3,"Dated 2,247 TARIC10 × origin rate candidates",https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/origin_taric10_regime_aware_duty_candidates_2026.csv
+4,"Dated 1,400 CN8 × origin rate candidates",https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/cn8_2026_origin_regime_aware_screen.csv
+5,2026 conditional GSP/GSP+ source templates,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/refined_v18/Bangladesh_EBA_StandardGSP_GSPplus_2026_source_templates.csv
+6,Matched 2025 Bangladesh trade values,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/TaskE_tariff_2026_join_2025_trade_values.csv
+7,Original legal measure conditions,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/measure_conditions_selected_original_source_rows.csv
+8,Original measure exclusions,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/measure_exclusions_selected_original_source_rows.csv
+9,Original measure footnotes,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/measure_footnotes_selected_original_source_rows.csv
+10,Source and candidate independent QA,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/INDEPENDENT_QA_AND_CROSSCHECK.json
+11,Second independent extraction QA,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/refined_v18/INDEPENDENT_TARIFF_QA.json
+12,Legal conditions audit QA,https://github.com/mafijulrigan39-boop/thesis/blob/main/task_e_tariff_matrix/nov2026_taric/LEGAL_CONDITIONS_PROVENANCE_AUDIT.json

@@ -1,0 +1,6 @@
+index,issue_id,severity,affected_output,confirmed_evidence,required_remediation,status
+0,E1,HIGH,cn8_validity_trade_panel.csv,105740 active-code years labelled VERIFIED_ZERO without explicit trade observations; 156 true observed zero-value rows,Preserve NO_REPORTED_OBSERVATION distinct from OBSERVED_ZERO; document official zero and confidentiality semantics,OPEN
+1,E2,HIGH,hcn8_group_year_trade.csv,16 2025 harmonized components span multiple HS2 chapters; 257 codes; EUR10669513,Exclude or manually review cross-chapter families for product-level trend and competitiveness,OPEN
+2,E3,HIGH,all_csv,Derived official-source labels present but 14 source files and 13 raw transition files and transformation code not archived,Provide source URLs timestamps hashes original files and reproducible generation script,OPEN
+3,E4,MEDIUM,cn8_2025_exact.csv,2025 valid CN8 EUR21238245136 differs from DS045409 all-numeric EUR21238324681 by EUR79545 auxiliary value,Track valid CN8 and Comext auxiliary values separately,OPEN
+4,E5,MEDIUM,all_csv,DS045409 27846 reported rows vs original DS059322 27780 rows and EUR1504488 gap,Retain dataset-vintage/procedure flags and reconcile source-file receipts,PARTIAL

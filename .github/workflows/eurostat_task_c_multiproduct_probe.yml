@@ -1,0 +1,58 @@
+name: Eurostat Task C multi-product API probe
+on:
+  push:
+    paths:
+      - ".github/workflows/eurostat_task_c_multiproduct_probe.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  multiproduct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Probe multi-product queries, save responses and request evidence
+        shell: bash
+        run: |
+          python - <<'PY'
+          import pathlib,urllib.request,urllib.error,json,hashlib,datetime,time,csv,io
+          out=pathlib.Path('task_c_competitor_data/multiproduct_probe');out.mkdir(parents=True,exist_ok=True)
+          base='https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/'
+          products=['61091000','61103099','61102099','62034231','61102091','61046200','62034235','62046231','61051000','62052000']
+          checks=[('2_codes',products[:2]),('10_codes',products)]
+          logs=[]
+          for name,codes in checks:
+            url=base+'A.EU27_2020..'+'+'.join(codes)+'.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025'
+            e={'name':name,'url':url,'requested_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'codes_requested':codes}
+            try:
+              req=urllib.request.Request(url,headers={'User-Agent':'MITB-Bangladesh-EU-Trade-Research/1.0'})
+              with urllib.request.urlopen(req,timeout=80) as resp:
+                data=resp.read(15_000_000)
+                e.update({'http_status':resp.status,'content_type':resp.headers.get('Content-Type'),'length':len(data),'sha256':hashlib.sha256(data).hexdigest()})
+              head=data.decode('utf-8-sig','replace').splitlines()
+              e['header']=head[0] if head else ''
+              e['sample']=head[1:4]
+              if 'OBS_VALUE' in e['header']:
+                parsed=list(csv.DictReader(io.StringIO(data.decode('utf-8-sig'))))
+                e['row_count']=len(parsed)
+                e['distinct_products']=sorted(set(r.get('product','') for r in parsed))
+                (out/(name+'.csv')).write_bytes(data)
+              else:e['preview']=data[:600].decode('utf-8','replace')
+            except Exception as exc:
+              e['error']=str(exc)[:500]
+            logs.append(e)
+          (out/'manifest.json').write_text(json.dumps(logs,indent=2))
+          print(json.dumps(logs,indent=2))
+          PY
+      - name: Commit verifiable source evidence
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_c_competitor_data/multiproduct_probe/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive Task C multi-product Eurostat API probe"
+            git push
+          fi

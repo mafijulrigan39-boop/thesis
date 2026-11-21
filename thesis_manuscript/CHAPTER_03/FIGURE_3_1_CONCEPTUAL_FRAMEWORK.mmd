@@ -1,0 +1,42 @@
+flowchart TB
+  T["THEORETICAL LENS<br/>Relative trade costs & preferential market access<br/>Observed competitiveness; GVC context"]
+
+  subgraph INPUTS["SOURCE EVIDENCE — DIFFERENT REFERENCE PERIODS"]
+    direction LR
+    O["A | OBSERVED TRADE (2025)<br/>EU27_2020, top-200 BD-origin CN8<br/>All-extra-EU product denominators<br/>Six comparison origins, net mass, HS2"]
+    P["B | TARIFF REFERENCES (1 NOV 2026)<br/>MFN and origin-specific rate candidates<br/>EBA/GSP/FTA/customs-union routes<br/>TARIC10 and eligibility qualifications"]
+    H["C | ARTICLE 33 SOURCE INPUTS<br/>EU HS61–63 imports, 2023–2025<br/>2027 GSP beneficiary roster backcast<br/>All-extra-EU section imports; EBA status"]
+  end
+
+  subgraph ASSESS["MEASURABLE OUTPUTS — NOT CAUSAL IMPACT ESTIMATES"]
+    direction LR
+    M["RQ1–RQ2 | OBSERVED POSITION<br/>Product market shares and basket HHI<br/>Six origin comparisons and EUR/kg<br/>H3 exploratory matched sign tests"]
+    R["RQ3–RQ4 | CONDITIONAL EXPOSURE<br/>MFN/preferential margin candidates (pp)<br/>H1/H2 exploratory tariff/share tests<br/>2025 fixed value × 2026 scenario rate gap"]
+    L["RQ5 | LEGAL NUMERICAL SCREEN<br/>37%: BD / covered GSP-origin imports<br/>6%: BD / all-extra-EU imports<br/>No actual safeguard inferred"]
+  end
+
+  Q["LEGAL / DATA QUALIFIERS<br/>Origin conditions; complex/missing rates;<br/>CN8 mapping; EBA exception; roster year"]
+  U["UNOBSERVED POST-EBA RESPONSES<br/>Supplier switching, tariff pass-through,<br/>volumes, wages, profits, quality, welfare<br/>NOT ESTIMATED OR IDENTIFIED"]
+
+  O -->|"computed from 2025 trade records"| M
+  O -->|"fixed 2025 import-value baseline"| R
+  P -->|"rate candidates used in defined calculations"| R
+  H -->|"ratio arithmetic"| L
+
+  Q -.->|"qualification, not observed use"| P
+  Q -.->|"legal applicability conditions"| L
+  T -.->|"conceptual explanation only"| M
+  T -.->|"relative trade-cost rationale"| R
+  R -.->|"possible response; not tested"| U
+
+  classDef theo fill:#e9eff5,stroke:#7792ac,color:#182f45,stroke-width:1.5px
+  classDef source fill:#f3f7fa,stroke:#8ba9bc,color:#172d3d,stroke-width:1px
+  classDef output fill:#eef7f4,stroke:#6b9c93,color:#173d39,stroke-width:1.2px
+  classDef legal fill:#fbf7ee,stroke:#b49c65,color:#624c27,stroke-width:1.2px
+  classDef caution fill:#f5f5f5,stroke:#9da3a8,color:#313d47,stroke-width:1px
+
+  class T theo
+  class O,P source
+  class H,L legal
+  class M,R output
+  class Q,U caution

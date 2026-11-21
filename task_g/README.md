@@ -17,3 +17,7 @@ H5: static tariff equivalent identity; arithmetic checks only.
 NOT preregistered; no causal or population-inferential claims from the purposively selected 200 codes. Supervisor should approve statistical expectations and writing scope before final thesis findings.
 
 Other files in this folder: HYPOTHESES.md, BIBLIOGRAPHY_AUDIT.md, SOURCE_AND_MISSING_DATA.md, SUPERVISOR_APPROVAL_FORM.md.
+
+### Alternate-year raw-code observations
+
+The independently verified source table has a 200-row *design grid* for each year, not 200 real observations. The validation runner additionally exports YEAR_BY_YEAR_MISSINGNESS.csv: 2012 valid 187, missing Bangladesh values 3, missing extraEU totals 10; 2023 valid 200; 2024 valid 199 and missing Bangladesh value 1; 2025 native valid 200. The 2012–2024 CN8 meanings are **not source-harmonized** and cannot justify product-growth trends. This is coverage robustness only.

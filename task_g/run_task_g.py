@@ -134,6 +134,26 @@ def main():
   cc=[r for r in c if r["origin"] in origins and N(r["competitor_2026_source_conditional_rate_pct"]) is not None]
   wavg=sum(N(r["bd_imports_eur_2025"])*N(r["bd_preference_margin_vs_origin_pp"]) for r in cc)/sum(N(r["bd_imports_eur_2025"]) for r in cc)
   put("SUPPLIER_GROUP",name,len(cc),wavg,"percentage_points","unequal rate coverage: comparability conditional")
+ # Alternate-year raw-code coverage audit. All 200 rows are a designed matrix, NOT 200 observed cells.
+ historic=data(ROOT/"task_c_competitor_data/full/product_year_bd_market_share_2012_2025.csv")
+ year_audit=[]
+ for year in (2012,2023,2024,2025):
+  sub=[r for r in historic if int(r["year"])==year]
+  assert len(sub)==200,"Expected fixed-2025-code extraction grid, not observed-row count"
+  vc=sum(r["status"]=="VALID" for r in sub)
+  miss_bd=sum(r["status"]=="MISSING_BANGLADESH_VALUE" for r in sub)
+  miss_all=sum(r["status"]=="MISSING_EXTRA_EU_TOTAL" for r in sub)
+  assert vc+miss_bd+miss_all==200,"Unknown missingness status"
+  for st in ("VALID","MISSING_BANGLADESH_VALUE","MISSING_EXTRA_EU_TOTAL"):
+   cnt=sum(r["status"]==st for r in sub)
+   put("FIXED_2025_CODE_YEAR_COVERAGE",str(year)+"_"+st,cnt,float(cnt)/2,"percent_of_200",
+       "Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero")
+  year_audit.append(dict(year=year,fixed_2025_code_grid_rows=200,
+     valid_value_and_denominator=vc,missing_bd_value=miss_bd,missing_extra_eu_total=miss_all,
+     historical_cn8_compatibility="2025_NATIVE" if year==2025 else "UNCERTIFIED"))
+ emit("YEAR_BY_YEAR_MISSINGNESS.csv",year_audit,
+      ["year","fixed_2025_code_grid_rows","valid_value_and_denominator",
+       "missing_bd_value","missing_extra_eu_total","historical_cn8_compatibility"])
  emit("ROBUSTNESS_RESULTS.csv",robustness,["kind","case","n","value","unit","note"])
  gaps=[
  ("M01","MFN rates",4,"131083237 EUR","No rate imputed"),

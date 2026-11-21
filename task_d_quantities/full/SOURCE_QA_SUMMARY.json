@@ -1,0 +1,31 @@
+{
+  "source_dataset": "DS-045409",
+  "dataset_last_update": "from response, see raw files",
+  "date_utc": "2026-11-21T07:29:03.695456+00:00",
+  "reporter": "EU27_2020",
+  "flow": "1",
+  "years": "2012-2025",
+  "product_scope": 200,
+  "origin_scope": [
+    "BD",
+    "CN",
+    "IN",
+    "VN",
+    "PK",
+    "KH",
+    "TR"
+  ],
+  "quantity_observations": 537945,
+  "quantity_requests": 14,
+  "successful_requests": 14,
+  "request_failures": [],
+  "seven_origin_expected": 19600,
+  "valid_eur_per_kg": 18582,
+  "invalid_or_unreported": 1018,
+  "supplementary_raw_observations": 13618,
+  "valid_2025_relative_pairs": 1186,
+  "relative_pairs_total": 1200,
+  "supp_unit_policy": "No supplementary unit-price calculated until matched units are documented",
+  "missing_policy": "Unreported is not zero",
+  "historical_policy": "Unharmonized CN8 across years: no raw-code CAGR or causal interpretation"
+}

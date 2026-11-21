@@ -1,0 +1,27 @@
+name: Task E retain original condition/exclusion/footnote rows
+on:
+  push:
+    paths:
+      - ".github/workflows/task_e_conditional_provenance.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  provenance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+      - name: Match original official legal condition data to each tariff measure
+        run: python task_e_tariff_matrix/audit_measure_conditions_detail.py
+      - name: Archive source-linked legal conditions and evidence
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_e_tariff_matrix/nov2026_taric/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive raw legal conditions and exceptions for 2026 TARIC measures"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

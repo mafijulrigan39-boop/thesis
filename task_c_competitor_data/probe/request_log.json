@@ -1,0 +1,82 @@
+[
+  {
+    "request": "all_partners",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020..61091000.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "started_utc": "2026-11-21T06:59:15.786830+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "response_length": 19830,
+    "sha256": "ace36e5dbdc40a57cd4ac609e3376b585e8a6bbab282bd2f882eedeffeffedbc",
+    "response_headers": {
+      "Last-Modified": null,
+      "ETag": null,
+      "Content-Length": null
+    },
+    "first_lines": [
+      "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AD,61091000,1,VALUE_IN_EUROS,2025,53258",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AE,61091000,1,VALUE_IN_EUROS,2025,4303202",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AF,61091000,1,VALUE_IN_EUROS,2025,34814",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AG,61091000,1,VALUE_IN_EUROS,2025,7543",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,AI,61091000,1,VALUE_IN_EUROS,2025,53"
+    ],
+    "finished_utc": "2026-11-21T06:59:16.583367+00:00"
+  },
+  {
+    "request": "bangladesh",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020.BD.61091000.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "started_utc": "2026-11-21T06:59:16.583389+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "response_length": 187,
+    "sha256": "8011b367e71f9d212717e81573d86ad937551f8c721b11a9fa39c522844a6d20",
+    "response_headers": {
+      "Last-Modified": null,
+      "ETag": null,
+      "Content-Length": "187"
+    },
+    "first_lines": [
+      "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,BD,61091000,1,VALUE_IN_EUROS,2025,3499230143"
+    ],
+    "finished_utc": "2026-11-21T06:59:17.085571+00:00"
+  },
+  {
+    "request": "china",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020.CN.61091000.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "started_utc": "2026-11-21T06:59:17.085590+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "response_length": 186,
+    "sha256": "da2adbf656ebc5d7e13065098d1aa5a104e2aad7ff39cd8e5a42de2e6a5add21",
+    "response_headers": {
+      "Last-Modified": null,
+      "ETag": null,
+      "Content-Length": "186"
+    },
+    "first_lines": [
+      "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,CN,61091000,1,VALUE_IN_EUROS,2025,413860151"
+    ],
+    "finished_utc": "2026-11-21T06:59:17.627151+00:00"
+  },
+  {
+    "request": "extra_eu",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020.EXT_EU27_2020.61091000.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "started_utc": "2026-11-21T06:59:17.627170+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "response_length": 198,
+    "sha256": "8455381c9b1a9cb6bd4c5a99ab71f85e01437608eba037940c7cf6704fd609b0",
+    "response_headers": {
+      "Last-Modified": null,
+      "ETag": null,
+      "Content-Length": "198"
+    },
+    "first_lines": [
+      "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+      "ESTAT:DS-045409(1.0),13/11/26 11:00:00,A,EU27_2020,EXT_EU27_2020,61091000,1,VALUE_IN_EUROS,2025,6864603305"
+    ],
+    "finished_utc": "2026-11-21T06:59:18.189634+00:00"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-21T07:56:50.257609+00:00",
+  "created_utc": "2026-11-21T07:58:55.749663+00:00",
   "official_data_requests": 14,
   "hash_verified_source_files": 14,
   "source_rows": 9670,
@@ -18,8 +18,8 @@
     "BD_share_of_2027_GSP_roster_percent": "48.70990071767591708810953116",
     "BD_share_of_GSP_excluding_BY_percent": "48.72847617333342162700262961",
     "BD_share_of_extraEU_all_origins_percent": "18.37171016279951844090836490",
-    "country_origin_residual_eur": "-694751660",
-    "BD_GSP_share_if_all_positive_residual_GSP_percent": "48.70990071767591708810953116",
+    "country_origin_residual_eur": "1296414223",
+    "BD_GSP_share_if_all_positive_residual_GSP_percent": "47.20920892496272935087182037",
     "threshold_37_status": "ABOVE_37",
     "residual_sensitivity_status": "ABOVE_37",
     "threshold_6_exception_applicable_if_no_EBA": "False",
@@ -35,7 +35,7 @@
   "limits": [
     "The 2027 Annex I beneficiary roster is backcast onto earlier trade observations; it is not the exact roster for earlier years.",
     "Annex I includes Belarus despite Annex II full withdrawal; we report a BY-exclusion sensitivity.",
-    "Missing partner-origin records are not imputed zeros. The aggregate-minus-named residual is audited.",
+    "Missing partner-origin records are not imputed zeros. The aggregate-minus-verified-country residual excludes non-country regional aggregate partner codes and is audited.",
     "EBA status exempts Bangladesh from Art33 automatic safeguard until a legally effective eligibility change.",
     "Art33 removal requires implementing act (not automatic consequence of arithmetic), with legal start date.",
     "Trade observations are EU imports using reported trade values, not preference utilisation."

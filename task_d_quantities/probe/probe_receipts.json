@@ -1,0 +1,197 @@
+[
+  {
+    "name": "bd_2025_allindicators",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020.BD.61091000.1.VALUE_IN_EUROS+QUANTITY_IN_100KG+SUPPLEMENTARY_QUANTITY?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "utc": "2026-11-21T07:25:28.183513+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "sha256": "5e2900ab64413ad6bb75098276a9a6a35c0b53c54d44a55bb3457d1d8f052e59",
+    "bytes": 392,
+    "row_count": 3,
+    "header": "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+    "indicators": {
+      "QUANTITY_IN_100KG": 1,
+      "SUPPLEMENTARY_QUANTITY": 1,
+      "VALUE_IN_EUROS": 1
+    },
+    "samples": [
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "BD",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "QUANTITY_IN_100KG",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "2950527.72"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "BD",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "SUPPLEMENTARY_QUANTITY",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "1913761686"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "BD",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "VALUE_IN_EUROS",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "3499230143"
+      }
+    ]
+  },
+  {
+    "name": "all_2025_quantities",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020..61091000+62034231.1.QUANTITY_IN_100KG+SUPPLEMENTARY_QUANTITY?format=SDMX-CSV&startPeriod=2025&endPeriod=2025",
+    "utc": "2026-11-21T07:25:28.845969+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "sha256": "5b75e677e64ec37d7d7620e70cbbf80c7f7e46b1ec362e04b7007f6de765d97f",
+    "bytes": 70388,
+    "row_count": 720,
+    "header": "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+    "indicators": {
+      "QUANTITY_IN_100KG": 360,
+      "SUPPLEMENTARY_QUANTITY": 360
+    },
+    "samples": [
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AD",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "QUANTITY_IN_100KG",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "31.45"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AD",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "SUPPLEMENTARY_QUANTITY",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "8504"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AD",
+        "product": "62034231",
+        "flow": "1",
+        "indicators": "QUANTITY_IN_100KG",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "5.01"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AD",
+        "product": "62034231",
+        "flow": "1",
+        "indicators": "SUPPLEMENTARY_QUANTITY",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "1856"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AE",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "QUANTITY_IN_100KG",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "595.78"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AE",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "SUPPLEMENTARY_QUANTITY",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "238033"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AE",
+        "product": "62034231",
+        "flow": "1",
+        "indicators": "QUANTITY_IN_100KG",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "2370.49"
+      },
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "AE",
+        "product": "62034231",
+        "flow": "1",
+        "indicators": "SUPPLEMENTARY_QUANTITY",
+        "TIME_PERIOD": "2025",
+        "OBS_VALUE": "327787"
+      }
+    ]
+  },
+  {
+    "name": "bd_2016_mass",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020.BD.61091000.1.QUANTITY_IN_100KG?format=SDMX-CSV&startPeriod=2016&endPeriod=2016",
+    "utc": "2026-11-21T07:25:29.784411+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.sdmx.data+csv;version=1.0.0",
+    "sha256": "1d44159c1b56fa1305ca47461ee1bf761be2c38cb62b737ac4bf3ffe76494eb9",
+    "bytes": 190,
+    "row_count": 1,
+    "header": "DATAFLOW,LAST UPDATE,freq,reporter,partner,product,flow,indicators,TIME_PERIOD,OBS_VALUE",
+    "indicators": {
+      "QUANTITY_IN_100KG": 1
+    },
+    "samples": [
+      {
+        "DATAFLOW": "ESTAT:DS-045409(1.0)",
+        "LAST UPDATE": "13/11/26 11:00:00",
+        "freq": "A",
+        "reporter": "EU27_2020",
+        "partner": "BD",
+        "product": "61091000",
+        "flow": "1",
+        "indicators": "QUANTITY_IN_100KG",
+        "TIME_PERIOD": "2016",
+        "OBS_VALUE": "2271362.09"
+      }
+    ]
+  }
+]

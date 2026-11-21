@@ -1,0 +1,52 @@
+name: Task E inspect official TARIC 2026-11 archive
+on:
+  push:
+    paths:
+      - ".github/workflows/task_e_taric_probe.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and inspect November EU TARIC bulk tables and preserve provenance
+        shell: bash
+        run: |
+          python - <<'PY'
+          import urllib.request,urllib.error,zipfile,io,hashlib,json,datetime,pathlib,os
+          dst=pathlib.Path("task_e_tariffs/probe");dst.mkdir(parents=True,exist_ok=True)
+          url="https://github.com/rousseauxy/taric-opendata/releases/download/eu-2026-11/eu-taric-2026-11.zip"
+          meta={"url":url,"requested_utc":datetime.datetime.now(datetime.timezone.utc).isoformat()}
+          try:
+            req=urllib.request.Request(url,headers={"User-Agent":"MITB-University-Thesis-EU-TARIC-Study/1.0"})
+            with urllib.request.urlopen(req,timeout=160) as res:
+              raw=res.read(230000000);meta["http_status"]=res.status;meta["content_type"]=res.headers.get("Content-Type")
+            meta["sha256"]=hashlib.sha256(raw).hexdigest();meta["bytes"]=len(raw)
+            z=zipfile.ZipFile(io.BytesIO(raw))
+            meta["entry_count"]=len(z.infolist())
+            meta["entries"]=[{"name":m.filename,"size":m.file_size,"compressed":m.compress_size} for m in z.infolist()]
+            for name in z.namelist()[:4]:
+              if name.lower().endswith(".zip"):
+                sub=z.read(name);inside=zipfile.ZipFile(io.BytesIO(sub))
+                meta.setdefault("inner_zips",[]).append({"name":name,"entries":[{"name":m.filename,"size":m.file_size} for m in inside.infolist()[:70]]})
+            print('TARIC zip entries',len(meta['entries']),flush=True)
+            print(json.dumps(meta["entries"][:120],indent=2),flush=True)
+          except Exception as e:
+            meta["error"]=type(e).__name__+": "+str(e)
+          (dst/"taric_archive_probe.json").write_text(json.dumps(meta,indent=2))
+          PY
+      - name: Commit evidence (not 143MB raw extract)
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_e_tariffs/probe/taric_archive_probe.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Record verified EU TARIC November 2026 raw archive contents"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

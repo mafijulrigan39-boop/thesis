@@ -50,6 +50,10 @@ flowchart TB
   class H,L legal
   class M,R output
   class Q,U caution
+
+%% Differentiate conditional and theoretical arrows visually (indices 4–8)
+linkStyle 4,5 stroke:#9e8153,stroke-width:1.5px,stroke-dasharray:2 4
+linkStyle 6,7,8 stroke:#697b90,stroke-width:1.5px,stroke-dasharray:9 5
 ```
 
 *Note.* **Solid arrows** connect source evidence to a directly calculated descriptive measure, exploratory contrast, or fixed-value accounting result; they do **not** indicate identified causal relationships. **Dotted arrows** indicate either legal or measurement qualifications, or explicitly labelled theoretical relationships that are not directly tested; the text on each arrow states its function. In the accompanying high-resolution figure, theoretical arrows are differentiated as **dashed**, while legal/measurement conditions remain dotted. An arrow from a tariff candidate or static exposure measure toward an unobserved response represents a plausible conceptual mechanism only and is **not** an empirical estimate. BD = Bangladesh; CN8 = eight-digit Combined Nomenclature; EBA = Everything But Arms; EU = European Union; GSP = Generalised Scheme of Preferences; HHI = Herfindahl–Hirschman index; HS2 = two-digit Harmonized System chapter; MFN = most-favoured-nation; pp = percentage points. *Source:* Author's analytical synthesis of the theoretical and measurement arguments in Anderson and van Wincoop (2003), Cipollina et al. (2017), French (2017), Sytsma (2021, 2022), and Gervais (2015), with trade variables defined from Eurostat (2025) and legal conditions from Regulation (EU) 2026/1395 (European Parliament & Council of the European Union, 2026). The figure is not adapted or reproduced from a pre-existing published diagram.

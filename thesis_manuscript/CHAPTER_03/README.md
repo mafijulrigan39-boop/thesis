@@ -21,3 +21,11 @@
 - [Full theory-to-execution research plan](../../report_writing/CHAPTER_03_THEORY_AND_RESEARCH_EXECUTION_PLAN.md)
 
 **Important:** 2025 core numerical analysis is independently QA-verified. 2026 tariff sources are source-dated candidates, 2027-roster Article 33 comparisons are illustrative, and post-EBA outcomes are unobserved. Sections 3.1–3.4 complete as cited first drafts; consolidated Chapter 3 and editorial audit follow. Supervisor approval remains pending.
+
+## Completed Chapter 3 and academic QA
+
+- [Complete Chapter 3 (four sections, one APA bibliography)](CHAPTER_03_COMPLETE_REVIEWED.md)
+- [Theory, diagram and bibliography audit](CHAPTER_03_EDITORIAL_AND_CITATION_AUDIT.md)
+- [Figure 3.1 editable Mermaid source](FIGURE_3_1_CONCEPTUAL_FRAMEWORK.mmd)
+
+**Editorial status:** Chapter 3 consolidated as a reviewed **first draft**; supervisor acceptance and complete full-text source proof remain outstanding. The single bibliography is provisional until merged into the complete thesis references.

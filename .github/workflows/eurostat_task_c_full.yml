@@ -1,0 +1,27 @@
+name: Eurostat Task C complete CN8 competitor extraction
+on:
+  push:
+    paths:
+      - ".github/workflows/eurostat_task_c_full.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download official Comext 2012-2025 200-product partner panel
+        run: python task_c_competitor_data/extract_task_c.py
+      - name: Preserve official requests, data and audit outputs in thesis repo
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_c_competitor_data/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive Eurostat DS-045409 2012-2025 competitors and denominators"
+            git push
+          fi

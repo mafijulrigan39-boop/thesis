@@ -16,6 +16,7 @@ A=pathlib.Path("task_f_empirical/article33")
 B=pathlib.Path("cn8_harmonization_2012_2025")
 ORIGINS=['BD','CN','IN','VN','PK','KH','TR']
 COMP=['CN','IN','VN','PK','KH','TR']
+CHAPTERS=['61','62','63']
 D0=Decimal(0)
 def utc():return datetime.datetime.now(datetime.timezone.utc).isoformat()
 def rd(path):

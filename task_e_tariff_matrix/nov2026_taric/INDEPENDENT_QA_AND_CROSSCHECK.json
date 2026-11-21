@@ -1,0 +1,80 @@
+{
+  "audit_utc": "2026-11-21T07:46:21.325290+00:00",
+  "passed": true,
+  "issues": [],
+  "reference_date": "2026-11-01",
+  "official_CIRCABC_XLSX_hashes_verified": 9,
+  "independent_Cn8_origin_candidate_rate_comparisons": 1400,
+  "rate_agreements": 1400,
+  "consistent_numeric_candidates": 1383,
+  "uncertified_or_complex": 17,
+  "source_bangladesh_2026_eba_zero_candidates": 200,
+  "by_origin": {
+    "BD": {
+      "numeric_candidate": 200,
+      "zero": 200,
+      "TARIFF_PREFERENCE_CANDIDATE": 200
+    },
+    "CN": {
+      "numeric_candidate": 196,
+      "positive": 193,
+      "MFN_FALLBACK_CANDIDATE": 196,
+      "unresolved": 4,
+      "NOT_VERIFIED": 4,
+      "zero": 3
+    },
+    "IN": {
+      "numeric_candidate": 196,
+      "positive": 183,
+      "TARIFF_PREFERENCE_CANDIDATE": 184,
+      "MFN_FALLBACK_CANDIDATE": 12,
+      "unresolved": 4,
+      "NOT_VERIFIED": 4,
+      "zero": 13
+    },
+    "VN": {
+      "numeric_candidate": 193,
+      "zero": 164,
+      "TARIFF_PREFERENCE_CANDIDATE": 192,
+      "positive": 29,
+      "unresolved": 7,
+      "NOT_VERIFIED": 7,
+      "MFN_FALLBACK_CANDIDATE": 1
+    },
+    "PK": {
+      "numeric_candidate": 199,
+      "zero": 196,
+      "TARIFF_PREFERENCE_CANDIDATE": 197,
+      "positive": 3,
+      "unresolved": 1,
+      "NOT_VERIFIED": 1,
+      "MFN_FALLBACK_CANDIDATE": 2
+    },
+    "KH": {
+      "numeric_candidate": 200,
+      "positive": 48,
+      "MFN_FALLBACK_CANDIDATE": 48,
+      "zero": 152,
+      "TARIFF_PREFERENCE_CANDIDATE": 152
+    },
+    "TR": {
+      "numeric_candidate": 199,
+      "zero": 199,
+      "CUSTOMS_UNION_DUTY_CANDIDATE": 193,
+      "TARIFF_PREFERENCE_CANDIDATE": 4,
+      "unresolved": 1,
+      "NOT_VERIFIED": 1,
+      "MFN_FALLBACK_CANDIDATE": 2
+    }
+  },
+  "matched_2025_trade_values": 200,
+  "limitations": [
+    "2025 trade basket joined to 2026-11-01 tariff snapshot, not 2025 applied rates",
+    "Country-of-origin preference entitlement and actual utilization not independently verified",
+    "T\u00fcrkiye customs-union treatment requires A.TR free-circulation verification",
+    "GSP+ and Standard GSP 2027+ Bangladesh scenario rates remain legally unverified",
+    "No automatic substitution for 17 unresolved origin-product rate candidates",
+    "Conditional/specific/compound duties and other charges remain separate",
+    "2025-2026 CN8 validity and product-level rules of origin require final independent audit."
+  ]
+}

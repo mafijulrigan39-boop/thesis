@@ -1,0 +1,29 @@
+{
+  "qa_timestamp_utc": "2026-11-21T07:46:02.339234+00:00",
+  "passed": true,
+  "issues": [],
+  "official_circabc_source_xlsx_sha_verified": 9,
+  "unique_taric10_leaf_count": 321,
+  "unique_origin_taric10_records": 2247,
+  "tariff_measure_evidence_records": 16202,
+  "cn8_origin_record_count": 1400,
+  "conditional_scenario_rows": 963,
+  "uniform_simple_2026_candidate_cn8_by_origin": {
+    "BD": 200,
+    "CN": 196,
+    "IN": 196,
+    "KH": 200,
+    "PK": 199,
+    "TR": 199,
+    "VN": 193
+  },
+  "2026_scheme_template_available_taric10": {
+    "EBA_2026_RECORD": 321,
+    "STANDARD_GSP_2026_TEMPLATE": 277,
+    "GSP_PLUS_2026_TEMPLATE": 315
+  },
+  "GSP_plus_2027_BD_future_rate_is_verified": false,
+  "future_year_effective_rate_is_certified": false,
+  "product_specific_RoO_complete": false,
+  "scope_limit": "Nov 1 2026 TARIC snapshot plus source-linked 2026 GSP templates; no future-duty guarantee"
+}

@@ -12,7 +12,7 @@ The general objective of this study is to assess Bangladesh's prospective market
 
 To achieve the general objective, the study establishes the following specific objectives:
 
-1. **To examine the product-level structure and concentration of Bangladesh's exports to the European Union**, using the 200 highest-value Combined Nomenclature eight-digit (CN8) product lines in 2025, with particular emphasis on export values, product and sectoral concentration, and Bangladesh's share of individual EU import markets.
+1. **To examine the product-level structure and concentration of EU imports originating in Bangladesh**, using the 200 highest-value Combined Nomenclature eight-digit (CN8) product lines in 2025, with particular emphasis on export values, product and sectoral concentration, and Bangladesh's share of individual EU import markets.
 
 2. **To assess Bangladesh's relative export competitiveness against major supplying countries in the EU market**, namely China, India, Viet Nam, Pakistan, Cambodia, and Türkiye, by comparing matched product-level import values, EU market shares, and customs unit values where valid and comparable quantity data are available.
 

@@ -8,10 +8,17 @@
 | [1.4 Research Questions and Hypotheses](1_4_RESEARCH_QUESTIONS_AND_HYPOTHESES.md) | First cited draft; five aligned research questions, H1–H3 exploratory | 2026-11-21 |
 | [1.5 Significance of the Study](1_5_SIGNIFICANCE_OF_THE_STUDY.md) | First referenced draft; five dimensions of significance | 2026-11-21 |
 | [1.6 Scope and Brief Limitations](1_6_SCOPE_AND_BRIEF_LIMITATIONS.md) | First cited draft; geographic/product/temporal/legal scope and limitations | 2026-11-21 |
-| 1.7 Organization of the Study | Not drafted | — |
+| [1.7 Organization of the Study](1_7_ORGANIZATION_OF_THE_STUDY.md) | First draft; seven-chapter outline aligned | 2026-11-21 |
 
 The authoritative section-level content rules are in [report_writing](../../report_writing/MASTER_WRITING_PROTOCOL.md). Paper evidence comes from [literature_review](../../literature_review/) and executed data/QA from [task_g](../../task_g/).
 
 **Methodological constraint:** Do not disclose own empirical results in Chapter 1.2, overclaim novelty, assume EBA automatically ends in 2029, or claim the 2025 sample yields observed causal trade losses.
 
 **Bibliography:** Each subsection temporarily includes its own cited-reference list for standalone review. Deduplicate all entries into a single APA reference list after Chapter 7 is fully compiled. Neither subsection has yet received formal supervisor approval.
+
+## Consolidated chapter and editorial audit
+
+- [Chapter 1 — consolidated reviewed draft](CHAPTER_01_COMPLETE_REVIEWED.md): Sections 1.1–1.7 in continuous reading order, one deduplicated APA reference list (18 unique sources).
+- [Chapter 1 — editorial and citation audit](CHAPTER_01_EDITORIAL_AUDIT.md): source checks, consistency corrections and unresolved academic gates.
+
+**Stage:** complete first draft; supervisor validation and final peer/APA checks pending.

@@ -1,0 +1,27 @@
+name: Task E identify actual preferential versus customs union tariffs
+on:
+  push:
+    paths:
+      - ".github/workflows/task_e_regime_aware.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  classify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Distinguish GSP preferences, customs-union free-circulation candidates, and MFN
+        run: python task_e_tariff_matrix/create_regime_aware_screen.py
+      - name: Save independently categorized tariff analysis
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_e_tariff_matrix/nov2026_taric/
+          if ! git diff --staged --quiet; then
+            git commit -m "Add Task E 2026 source-backed customs-union/FTA/EBA/GSP tariff channels"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

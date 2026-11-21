@@ -1,0 +1,30 @@
+name: Task E official November 2026 TARIC origin tariffs
+on:
+  push:
+    paths:
+      - ".github/workflows/task_e_taric_full_matrix.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download nine official EU TARIC spreadsheets and build no-imputation matrix
+        shell: bash
+        run: |
+          python task_e_tariff_matrix/build_task_e_verified_matrix.py
+      - name: Archive official source files, receipts, and matrix
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_e_tariff_matrix/nov2026_taric/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive EU official TARIC source files and provenance checked duty-measure matrix"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

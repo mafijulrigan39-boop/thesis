@@ -1,0 +1,26 @@
+{
+  "qa_utc": "2026-11-21T07:13:13.429025+00:00",
+  "source": "Official EUROSTAT DS-045409 archived raw responses",
+  "passed": true,
+  "issues": [],
+  "source_archive_hashes_verified": 14,
+  "raw_unique_origin_product_year_records": 312194,
+  "seven_origin_panel_rows": 19600,
+  "market_share_total": 2800,
+  "valid_share_rows": 2686,
+  "ineligible_share_rows": 114,
+  "top5_nonEU_suppliers_rows": 1000,
+  "2025_total_bd_value_selected_products_eur": "20789281101",
+  "2025_total_extraEU_product_values_sum_eur": "137346619291",
+  "2025_supplier_hhi_products": 200,
+  "products_with_negative_country_sum_residual": 0,
+  "positive_country_sum_residual": 200,
+  "near_reconciled_within_0_1_percent": 37,
+  "analysis_warnings": [
+    "No unreported observation is treated as zero",
+    "CN8 2012-2024 longitudinal comparability awaits Task B official concordance",
+    "Country-origin HHI is provisional where national-origin values do not reconcile to published extraEU aggregates",
+    "Selection covers only leading 2025 Bangladesh CN8 products, not every EU CN8 trade product",
+    "ExtraEU shares use publisher-provided EXT_EU27_2020 aggregate rather than summed individual origin values"
+  ]
+}

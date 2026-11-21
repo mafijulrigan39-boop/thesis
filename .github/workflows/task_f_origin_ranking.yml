@@ -1,0 +1,28 @@
+name: Task F rank all actual nonEU suppliers across 2025 top200 markets
+on:
+  push:
+    paths:
+      - ".github/workflows/task_f_origin_ranking.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rank source-backed nonEU origin suppliers (all partner codes screened)
+        run: python task_f_empirical/rank_2025_all_origins.py
+      - name: Archive independent ranking and residual
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_f_empirical/full/2025_all_nonEU_origin_rank_selected200.csv task_f_empirical/full/2025_ORIGIN_RANK_AUDIT.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive Task F named-country nonEU supplier positions in 2025"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

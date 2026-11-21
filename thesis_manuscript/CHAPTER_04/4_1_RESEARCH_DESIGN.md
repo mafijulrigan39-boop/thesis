@@ -58,9 +58,9 @@ An ordinary cross-sectional regression of 2025 market share on 2026 duty candida
 
 ### 4.1.6 Role of Legal Documents, Exclusion of Unused Methods, and Research Integrity
 
-Official legislation and administrative guidance are essential inputs because they define what counts as a legally available tariff candidate, an eligible beneficiary, or a safeguard-related numerical condition. However, **using legal documents to establish documentary facts is not equivalent to conducting an independent qualitative research strand**. The present study does not use research interviews, focus groups, an ethnographic case study, survey questionnaires, or thematic coding of participant narratives. It therefore does **not** claim a mixed-methods design. A separate qualitative component could provide future insight into exporter decision-making, but introducing one here without actually collecting and analysing such evidence would misrepresent the methods employed (Creswell & Creswell, 2018).
+Official legislation and administrative guidance are essential inputs because they define legally available tariff candidates, eligible beneficiaries, and safeguard conditions. To make those rules traceable, Section 4.2 incorporates a **bounded directed documentary-content analysis with deductive thematic categories**, supported by an article-level coding ledger. Its categories classify scheme eligibility, origin requirements, transition periods, applicable denominators and legal exceptions. This is a **supporting legal-interpretation procedure embedded in the quantitative design**, not a separately sampled participant-based qualitative research strand or a balanced mixed-methods study. The present research does not include interviews, focus groups, exporter case studies, survey questionnaires, or thematic coding of participant narratives. The documentary analysis must not be mistaken for evidence about exporters' experiences or unobserved future responses (Bowen, 2009; Hsieh & Shannon, 2005; Creswell & Creswell, 2018).
 
-For similar reasons, structural equation modelling (SEM), survey-scale reliability assessment, and a causal multivariate regression are not included merely because they appear as examples in the institutional methodology outline. These techniques address other types of questions and require appropriate data structures, measurement instruments, or identifying conditions. Section 4.2 will state the non-applicability of qualitative data-collection procedures under the adopted design; Section 4.3 will explain the **descriptive statistics and exploratory permutation, correlation, and matched-sign procedures that were actually implemented**. Sections 4.4 and 4.5 will identify the full sample construction, primary source files, data exclusions, algorithmic steps, and independent verification checks.
+For similar reasons, structural equation modelling (SEM), survey-scale reliability assessment, and a causal multivariate regression are not included merely because they appear as examples in the institutional methodology outline. These techniques address other types of questions and require appropriate data structures, measurement instruments, or identifying conditions. Section 4.2 documents the deductive coding of official legal-policy sources and explains why interviews and qualitative participant methods are not used; Section 4.3 will explain the **descriptive statistics and exploratory permutation, correlation, and matched-sign procedures that were actually implemented**. Sections 4.4 and 4.5 will identify the full sample construction, primary source files, data exclusions, algorithmic steps, and independent verification checks.
 
 ### 4.1.7 Reliability, Reproducibility, and Research Validity
 
@@ -80,11 +80,15 @@ Athey, S., & Imbens, G. W. (2017). The state of applied econometrics: Causality 
 
 Baumgartner, C., Srhoj, S., & Walde, J. (2023). Harmonization of product classifications: A consistent time series of economic trade activities. *Jahrbücher für Nationalökonomie und Statistik, 243*(6), 643–662. https://doi.org/10.1515/jbnst-2022-0034
 
+Bowen, G. A. (2009). Document analysis as a qualitative research method. *Qualitative Research Journal, 9*(2), 27–40. https://doi.org/10.3316/QRJ0902027
+
 Bekkers, E., & Cariola, G. (2025). The impact of LDC graduation on trade: A quantitative assessment. *The Journal of International Trade & Economic Development, 34*(3), 397–427. https://doi.org/10.1080/09638199.2024.2323661
 
 Cipollina, M., Laborde Debucquet, D., & Salvatici, L. (2017). The tide that does not raise all boats: An assessment of EU preferential trade policies. *Review of World Economics, 153*(1), 199–231. https://doi.org/10.1007/s10290-016-0270-0
 
 Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
+
+Hsieh, H.-F., & Shannon, S. E. (2005). Three approaches to qualitative content analysis. *Qualitative Health Research, 15*(9), 1277–1288. https://doi.org/10.1177/1049732305276687
 
 European Parliament, & Council of the European Union. (2026). *Regulation (EU) 2026/1395 of 17 June 2026 on applying a generalised scheme of tariff preferences and repealing Regulation (EU) No 978/2012*. *Official Journal of the European Union*. https://eur-lex.europa.eu/eli/reg/2026/1395/oj/eng
 

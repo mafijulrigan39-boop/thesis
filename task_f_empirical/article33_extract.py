@@ -8,6 +8,7 @@ No zeros imputed for unreported partner rows; all-origin denominators are offici
 import pathlib,csv,io,gzip,urllib.request,hashlib,datetime,json,time,decimal
 from decimal import Decimal
 from collections import Counter,defaultdict
+import importlib.util
 ROOT=pathlib.Path("task_f_empirical/article33")
 SRC="https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/"
 ACT="https://eur-lex.europa.eu/eli/reg/2026/1395/oj/eng"
@@ -17,7 +18,11 @@ GSP27=set("AF AO BD BF BI BJ BO BT BY CD CF CG CK CV DJ ER ET FM GM GN GW HT IN 
 EBA=set("AF AO BD BF BI BJ BT CD CF DJ ER ET GM GN GW HT KH KI KM LA LR LS MG ML MM MR MW MZ NE NP RW SB SD SL SN SO SS ST TD TG TL TV TZ UG YE ZM".split())
 TRANS_GSP_PLUS=set("BO CV KG LK MN PH PK UZ".split())
 # EU countries have no place in the extra-EU origin denominator.
-EU=set("AT BE BG HR CY CZ DK EE FI FR DE EL HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE".split())
+EU=set("AT BE BG HR CY CZ DK EE FI FR DE EL HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE GR".split())
+# Reuse the independently vetted two-letter country-code roster from Task C's audit.
+spec=importlib.util.spec_from_file_location('task_c_country_audit','task_c_competitor_data/qa_task_c_full.py')
+mod=importlib.util.module_from_spec(spec);spec.loader.exec_module(mod)
+ISO2=mod.ISO
 def utc():return datetime.datetime.now(datetime.timezone.utc).isoformat()
 def h(raw):return hashlib.sha256(raw).hexdigest()
 def write(name,cols,rows):
@@ -65,7 +70,7 @@ def main():
    long.append({"year":year,"chapter":r["product"],"origin":r["partner"],"value_eur":r["OBS_VALUE"]})
   data={(r["product"],r["partner"]):Decimal(r["OBS_VALUE"]) for r in rows}
   assert len(data)==len(rows),"Duplicated chapter origin key"
-  countries={o for chap,o in data if len(o)==2 and o.isalpha() and o not in EU}
+  countries={o for chap,o in data if o in ISO2 and o not in EU}
   total_gsp=Decimal(0);total_gsp_noBY=Decimal(0);total_all=Decimal(0);total_bd=Decimal(0)
   details=[]
   for chap in CHAPTERS:
@@ -133,7 +138,7 @@ def main():
  "correct_6_percent_denominator":"official extraEU aggregate all origin EU imports Chapters61-63",
  "limits":["The 2027 Annex I beneficiary roster is backcast onto earlier trade observations; it is not the exact roster for earlier years.",
  "Annex I includes Belarus despite Annex II full withdrawal; we report a BY-exclusion sensitivity.",
- "Missing partner-origin records are not imputed zeros. The aggregate-minus-named residual is audited.",
+ "Missing partner-origin records are not imputed zeros. The aggregate-minus-verified-country residual excludes non-country regional aggregate partner codes and is audited.",
  "EBA status exempts Bangladesh from Art33 automatic safeguard until a legally effective eligibility change.",
  "Art33 removal requires implementing act (not automatic consequence of arithmetic), with legal start date.",
  "Trade observations are EU imports using reported trade values, not preference utilisation." ]}

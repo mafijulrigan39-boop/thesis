@@ -1,0 +1,106 @@
+{
+  "url": "https://github.com/rousseauxy/taric-opendata/releases/download/eu-2026-11/eu-taric-2026-11.zip",
+  "requested_utc": "2026-11-21T07:38:43.666354+00:00",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "sha256": "f7691571381b109a8d4684686bc230a6f5b2161440fdb5814f3f924fd7e6a0ca",
+  "bytes": 143618075,
+  "entry_count": 19,
+  "entries": [
+    {
+      "name": "Additional codes descriptions.xlsx",
+      "size": 2018806,
+      "compressed": 1549122
+    },
+    {
+      "name": "Geographical areas composition.xlsx",
+      "size": 142645,
+      "compressed": 131582
+    },
+    {
+      "name": "Duties Export 01-99.xlsx",
+      "size": 1086708,
+      "compressed": 962560
+    },
+    {
+      "name": "CCT Exchange rates.xlsx",
+      "size": 59599,
+      "compressed": 49080
+    },
+    {
+      "name": "Box 44 codes of the SAD.xlsx",
+      "size": 1224170,
+      "compressed": 1190760
+    },
+    {
+      "name": "Nomenclature EN.xlsx",
+      "size": 1301954,
+      "compressed": 1281255
+    },
+    {
+      "name": "Nomenclature footnotes.xlsx",
+      "size": 28979,
+      "compressed": 20211
+    },
+    {
+      "name": "Measure conditions.xlsx",
+      "size": 3821896,
+      "compressed": 2360589
+    },
+    {
+      "name": "Measure footnotes.xlsx",
+      "size": 5683286,
+      "compressed": 4703781
+    },
+    {
+      "name": "Nomenclature FR.xlsx",
+      "size": 1344820,
+      "compressed": 1324508
+    },
+    {
+      "name": "Declarable codes.xlsx",
+      "size": 589371,
+      "compressed": 322683
+    },
+    {
+      "name": "Taric measures 20261104.xlsx",
+      "size": 70509968,
+      "compressed": 54285477
+    },
+    {
+      "name": "Measure exclusions.xlsx",
+      "size": 1394404,
+      "compressed": 1196068
+    },
+    {
+      "name": "Nomenclature DE.xlsx",
+      "size": 1328708,
+      "compressed": 1308012
+    },
+    {
+      "name": "Taric measures 20261111.xlsx",
+      "size": 77111000,
+      "compressed": 59822973
+    },
+    {
+      "name": "Geographical areas description.xlsx",
+      "size": 250722,
+      "compressed": 217977
+    },
+    {
+      "name": "Legal basis.xlsx",
+      "size": 123131,
+      "compressed": 120268
+    },
+    {
+      "name": "Duties Import 01-99.xlsx",
+      "size": 8299061,
+      "compressed": 7152496
+    },
+    {
+      "name": "Footnotes descriptions.xlsx",
+      "size": 5986591,
+      "compressed": 5616251
+    }
+  ]
+}

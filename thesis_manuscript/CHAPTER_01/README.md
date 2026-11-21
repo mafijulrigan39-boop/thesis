@@ -5,7 +5,7 @@
 | [1.1 Background of the Study](1_1_BACKGROUND_OF_THE_STUDY.md) | First cited draft saved | 2026-11-21 |
 | [1.2 Problem Statement and Research Gap](1_2_PROBLEM_STATEMENT_AND_RESEARCH_GAP.md) | First cited draft saved | 2026-11-21 |
 | [1.3 Research Objectives](1_3_RESEARCH_OBJECTIVES.md) | First draft aligned to executed data and legal scenarios | 2026-11-21 |
-| 1.4 Research Questions or Hypotheses | Not drafted | — |
+| [1.4 Research Questions and Hypotheses](1_4_RESEARCH_QUESTIONS_AND_HYPOTHESES.md) | First cited draft; five aligned research questions, H1–H3 exploratory | 2026-11-21 |
 | 1.5 Significance of the Study | Not drafted | — |
 | 1.6 Scope and Brief Limitations | Not drafted | — |
 | 1.7 Organization of the Study | Not drafted | — |

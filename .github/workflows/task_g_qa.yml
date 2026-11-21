@@ -1,0 +1,25 @@
+name: Task G independent robustness, citations and freeze QA
+on:
+  push:
+    paths:
+      - 'task_g/**'
+      - '.github/workflows/task_g_qa.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  task-g:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify 11 source hashes and run 2025 robustness tests
+        run: python task_g/run_task_g.py
+      - name: Archive Task G executed results
+        uses: actions/upload-artifact@v4
+        with:
+          name: TaskG-Executed-QA-Tables
+          path: task_g/out/*
+          if-no-files-found: error

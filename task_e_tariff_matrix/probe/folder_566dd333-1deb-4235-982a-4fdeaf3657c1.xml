@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:cmisra="http://docs.oasis-open.org/ns/cmis/restatom/200908/" xmlns:cmis="http://docs.oasis-open.org/ns/cmis/core/200908/" xmlns:alf="http://www.alfresco.org" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<author><name>geninna</name></author>
+<generator version="4.2.0 (r63893-b12)">Alfresco (Community)</generator>
+<icon>https://circabc.europa.eu/images/logo/AlfrescoLogo16.ico</icon>
+<id>urn:uuid:566dd333-1deb-4235-982a-4fdeaf3657c1-children</id>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<link rel="self" href="https://circabc.europa.eu/service/api/node/workspace/SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1/children"/>
+<link rel="via" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/64db9d0f-e7c9-4084-afe9-f47e70e53c10/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1/tree" type="application/atom+xml;type=feed"/>
+<link rel="first" href="https://circabc.europa.eu/service/api/node/workspace/SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1/children?pageNo=1&amp;pageSize=-1&amp;guest=&amp;format=atomfeed" type="application/atom+xml;type=feed"/>
+<link rel="last" href="https://circabc.europa.eu/service/api/node/workspace/SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1/children?pageNo=1&amp;pageSize=-1&amp;guest=&amp;format=atomfeed" type="application/atom+xml;type=feed"/>
+<title>2026 Children</title>
+<updated>2026-11-02T10:45:20.115+01:00</updated>
+<opensearch:totalResults>11</opensearch:totalResults>
+<opensearch:startIndex>0</opensearch:startIndex>
+<opensearch:itemsPerPage>-1</opensearch:itemsPerPage>
+<cmisra:numItems>11</cmisra:numItems>
+<entry>
+<author><name>geninna</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/content"/><id>urn:uuid:0e413ff8-94e6-470b-86e8-4bd3627edcbf</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/0e413ff8-94e6-470b-86e8-4bd3627edcbf/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2025-12-23T13:18:56.432+01:00</published>
+<summary>01 - January</summary>
+<title>01 - January</title>
+<updated>2025-12-31T09:32:54.017+01:00</updated>
+<app:edited>2025-12-31T09:32:54.017+01:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/0e413ff8-94e6-470b-86e8-4bd3627edcbf</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/01 - January</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2025-12-23T13:18:56.432+01:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>01 - January</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2025-12-31T09:32:54.017+01:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>01 - January</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>01 - January</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n002r4v8</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/content"/><id>urn:uuid:422c1f1c-113b-45db-a571-f8d7ad5ee002</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/422c1f1c-113b-45db-a571-f8d7ad5ee002/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-02-01T12:31:39.244+01:00</published>
+<summary>02 - February</summary>
+<title>02 - February</title>
+<updated>2026-02-02T12:59:54.495+01:00</updated>
+<app:edited>2026-02-02T12:59:54.495+01:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/422c1f1c-113b-45db-a571-f8d7ad5ee002</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/02 - February</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>n002r4v8</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n002r4v8</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-02-01T12:31:39.244+01:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>02 - February</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-02-02T12:59:54.495+01:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>02 - February</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>02 - February</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n002r4v8</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/content"/><id>urn:uuid:1e6a536a-501c-4301-ad89-aa105777569d</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1e6a536a-501c-4301-ad89-aa105777569d/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-03-02T08:27:43.308+01:00</published>
+<summary>03 - March</summary>
+<title>03 - March</title>
+<updated>2026-03-02T08:28:49.449+01:00</updated>
+<app:edited>2026-03-02T08:28:49.449+01:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/1e6a536a-501c-4301-ad89-aa105777569d</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/03 - March</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>n002r4v8</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n002r4v8</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-03-02T08:27:43.308+01:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>03 - March</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-03-02T08:28:49.449+01:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>03 - March</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>03 - March</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n002r4v8</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/content"/><id>urn:uuid:1c76b49b-fcad-4904-be71-9708a63df505</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/1c76b49b-fcad-4904-be71-9708a63df505/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-03-02T09:15:43.076+01:00</published>
+<summary>04 - April</summary>
+<title>04 - April</title>
+<updated>2026-04-03T08:14:22.660+02:00</updated>
+<app:edited>2026-04-03T08:14:22.660+02:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/1c76b49b-fcad-4904-be71-9708a63df505</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/04 - April</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>n002r4v8</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n002r4v8</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-03-02T09:15:43.076+01:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>04 - April</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-04-03T08:14:22.660+02:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>04 - April</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>04 - April</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n00lij00</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/content"/><id>urn:uuid:2148dfe4-37c3-4a6b-9f63-3ebf06f279f8</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-04-01T10:32:57.789+02:00</published>
+<summary>05 - May</summary>
+<title>05 - May</title>
+<updated>2026-05-04T12:54:09.564+02:00</updated>
+<app:edited>2026-05-04T12:54:09.564+02:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/2148dfe4-37c3-4a6b-9f63-3ebf06f279f8</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/05 - May</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n00lij00</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-04-01T10:32:57.789+02:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>05 - May</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-05-04T12:54:09.564+02:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:appliedAspects>P:cd:bproperties</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>05 - May</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+<cmis:propertyString propertyDefinitionId="cd:security_ranking" displayName="Security ranking" queryName="cd:security_ranking"><cmis:value>NORMAL</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cd:expiration_date" displayName="Expiration date" queryName="cd:expiration_date"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>05 - May</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n00l1qk5</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/content"/><id>urn:uuid:bd4ac0e9-9e09-4776-8adb-7250be7064b3</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bd4ac0e9-9e09-4776-8adb-7250be7064b3/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-06-01T12:27:53.374+02:00</published>
+<summary>06 - June</summary>
+<title>06 - June</title>
+<updated>2026-06-05T12:27:59.494+02:00</updated>
+<app:edited>2026-06-05T12:27:59.494+02:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/bd4ac0e9-9e09-4776-8adb-7250be7064b3</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/06 - June</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n00l1qk5</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-06-01T12:27:53.374+02:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>06 - June</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-06-05T12:27:59.494+02:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:appliedAspects>P:cd:bproperties</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>06 - June</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+<cmis:propertyString propertyDefinitionId="cd:security_ranking" displayName="Security ranking" queryName="cd:security_ranking"><cmis:value>NORMAL</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cd:expiration_date" displayName="Expiration date" queryName="cd:expiration_date"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>06 - June</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n00lij00</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/content"/><id>urn:uuid:f4068bbd-660c-4e0b-9675-f19933161719</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/f4068bbd-660c-4e0b-9675-f19933161719/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-07-01T11:19:11.509+02:00</published>
+<summary>07 - July</summary>
+<title>07 - July</title>
+<updated>2026-08-03T15:15:12.728+02:00</updated>
+<app:edited>2026-08-03T15:15:12.728+02:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/f4068bbd-660c-4e0b-9675-f19933161719</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/07 - July</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n00lij00</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-07-01T11:19:11.509+02:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>07 - July</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-08-03T15:15:12.728+02:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:appliedAspects>P:cd:bproperties</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>07 - July</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+<cmis:propertyString propertyDefinitionId="cd:security_ranking" displayName="Security ranking" queryName="cd:security_ranking"><cmis:value>NORMAL</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cd:expiration_date" displayName="Expiration date" queryName="cd:expiration_date"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>07 - July</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n00l1qk5</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/content"/><id>urn:uuid:7d7872d3-1f44-40b6-9c4f-072e3f0fde5d</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-08-03T08:58:12.419+02:00</published>
+<summary>08 - August</summary>
+<title>08 - August</title>
+<updated>2026-08-03T15:56:34.586+02:00</updated>
+<app:edited>2026-08-03T15:56:34.586+02:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/7d7872d3-1f44-40b6-9c4f-072e3f0fde5d</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/08 - August</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n00l1qk5</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-08-03T08:58:12.419+02:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>08 - August</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-08-03T15:56:34.586+02:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:appliedAspects>P:cd:bproperties</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>08 - August</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+<cmis:propertyString propertyDefinitionId="cd:security_ranking" displayName="Security ranking" queryName="cd:security_ranking"><cmis:value>NORMAL</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cd:expiration_date" displayName="Expiration date" queryName="cd:expiration_date"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>08 - August</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n00l1qk5</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/content"/><id>urn:uuid:bfb38aac-8ce7-4562-90bb-15b30cab14be</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/bfb38aac-8ce7-4562-90bb-15b30cab14be/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-09-01T08:19:54.682+02:00</published>
+<summary>09 - September</summary>
+<title>09 - September</title>
+<updated>2026-10-05T15:25:34.037+02:00</updated>
+<app:edited>2026-10-05T15:25:34.037+02:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/bfb38aac-8ce7-4562-90bb-15b30cab14be</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/09 - September</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n00l1qk5</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-09-01T08:19:54.682+02:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>09 - September</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-10-05T15:25:34.037+02:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:appliedAspects>P:cd:bproperties</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>09 - September</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+<cmis:propertyString propertyDefinitionId="cd:security_ranking" displayName="Security ranking" queryName="cd:security_ranking"><cmis:value>NORMAL</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cd:expiration_date" displayName="Expiration date" queryName="cd:expiration_date"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>09 - September</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n00l1qk5</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/content"/><id>urn:uuid:42ac4443-5aa0-44ed-9122-4430b38fd18b</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/42ac4443-5aa0-44ed-9122-4430b38fd18b/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-10-01T09:14:46.567+02:00</published>
+<summary></summary>
+<title>10 - October</title>
+<updated>2026-10-06T12:17:27.375+02:00</updated>
+<app:edited>2026-10-06T12:17:27.375+02:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/42ac4443-5aa0-44ed-9122-4430b38fd18b</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/10 - October</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>geninna</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n00l1qk5</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-10-01T09:14:46.567+02:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>10 - October</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-10-06T12:17:27.375+02:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:appliedAspects>P:cd:bproperties</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"><cmis:value>10 - October</cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"><cmis:value></cmis:value></cmis:propertyString>
+<cmis:propertyString propertyDefinitionId="cd:security_ranking" displayName="Security ranking" queryName="cd:security_ranking"><cmis:value>NORMAL</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cd:expiration_date" displayName="Expiration date" queryName="cd:expiration_date"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>10 - October</cmisra:pathSegment>
+</entry>
+<entry>
+<author><name>n00lij00</name></author>
+<content src="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/content"/><id>urn:uuid:e8082cdc-fa7f-4adb-882b-f0039bbe7a98</id>
+<link rel="self" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98"/>
+<link rel="edit" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/allowableactions"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/relationships" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/rels"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/policies" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/pols"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/acl"/>
+<link rel="up" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/566dd333-1deb-4235-982a-4fdeaf3657c1" type="application/atom+xml;type=entry"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/children" type="application/atom+xml;type=feed"/>
+<link rel="down" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/descendants" type="application/cmistree+xml"/>
+<link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="https://circabc.europa.eu/service/cmis/s/workspace:SpacesStore/i/e8082cdc-fa7f-4adb-882b-f0039bbe7a98/tree" type="application/atom+xml;type=feed"/>
+<link rel="describedby" href="https://circabc.europa.eu/service/cmis/type/cmis:folder"/>
+<link rel="service" href="https://circabc.europa.eu/service/cmis"/>
+<published>2026-11-02T10:45:19.939+01:00</published>
+<summary>11 - November</summary>
+<title>11 - November</title>
+<updated>2026-11-11T17:27:25.275+01:00</updated>
+<app:edited>2026-11-11T17:27:25.275+01:00</app:edited>
+<alf:icon>https://circabc.europa.eu/images/icons/space-icon-default-16.gif</alf:icon>
+<cmisra:object>
+<cmis:properties>
+<cmis:propertyId propertyDefinitionId="cmis:objectId" displayName="Object Id" queryName="cmis:objectId"><cmis:value>workspace://SpacesStore/e8082cdc-fa7f-4adb-882b-f0039bbe7a98</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:path" displayName="Path" queryName="cmis:path"><cmis:value>/CircaBC/Taxation &amp; Customs Union/Taric and Quota Data &amp; Information/Library/TARIC data/2026/11 - November</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="alfcmis:nodeRef" displayName="Alfresco Node Ref" queryName="alfcmis:nodeRef"/>
+<cmis:propertyId propertyDefinitionId="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Object Types Ids" queryName="cmis:allowedChildObjectTypeIds"/>
+<cmis:propertyString propertyDefinitionId="cmis:lastModifiedBy" displayName="Last Modified By" queryName="cmis:lastModifiedBy"><cmis:value>n00lij00</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:secondaryObjectTypeIds" displayName="Secondary Object Type Ids" queryName="cmis:secondaryObjectTypeIds"/>
+<cmis:propertyId propertyDefinitionId="cmis:objectTypeId" displayName="Object Type Id" queryName="cmis:objectTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyString propertyDefinitionId="cmis:description" displayName="Description" queryName="cmis:description"/>
+<cmis:propertyString propertyDefinitionId="cmis:createdBy" displayName="Created by" queryName="cmis:createdBy"><cmis:value>n00lij00</cmis:value></cmis:propertyString>
+<cmis:propertyId propertyDefinitionId="cmis:baseTypeId" displayName="Base Type Id" queryName="cmis:baseTypeId"><cmis:value>cmis:folder</cmis:value></cmis:propertyId>
+<cmis:propertyId propertyDefinitionId="cmis:parentId" displayName="Parent Id" queryName="cmis:parentId"><cmis:value>workspace://SpacesStore/566dd333-1deb-4235-982a-4fdeaf3657c1</cmis:value></cmis:propertyId>
+<cmis:propertyDateTime propertyDefinitionId="cmis:creationDate" displayName="Creation Date" queryName="cmis:creationDate"><cmis:value>2026-11-02T10:45:19.939+01:00</cmis:value></cmis:propertyDateTime>
+<cmis:propertyString propertyDefinitionId="cmis:changeToken" displayName="Change token" queryName="cmis:changeToken"/>
+<cmis:propertyString propertyDefinitionId="cmis:name" displayName="Name" queryName="cmis:name"><cmis:value>11 - November</cmis:value></cmis:propertyString>
+<cmis:propertyDateTime propertyDefinitionId="cmis:lastModificationDate" displayName="Last Modified Date" queryName="cmis:lastModificationDate"><cmis:value>2026-11-11T17:27:25.275+01:00</cmis:value></cmis:propertyDateTime>
+<alf:aspects>
+<alf:appliedAspects>P:sys:localized</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circabcManagement</alf:appliedAspects>
+<alf:appliedAspects>P:ci:circaLibrary</alf:appliedAspects>
+<alf:appliedAspects>P:cm:titled</alf:appliedAspects>
+<alf:properties>
+<cmis:propertyString propertyDefinitionId="ci:igRootNodeIdArchived" displayName="ci:igRootNodeIdArchived" queryName="ci:igRootNodeIdArchived"/>
+<cmis:propertyString propertyDefinitionId="ci:circaLibraryGroupMembers" displayName="ci:circaLibraryGroupMembers" queryName="ci:circaLibraryGroupMembers"/>
+<cmis:propertyString propertyDefinitionId="cm:title" displayName="Title" queryName="cm:title"/>
+<cmis:propertyString propertyDefinitionId="cm:description" displayName="Description" queryName="cm:description"/>
+</alf:properties>
+</alf:aspects>
+</cmis:properties>
+</cmisra:object>
+<cmisra:pathSegment>11 - November</cmisra:pathSegment>
+</entry>
+</feed>

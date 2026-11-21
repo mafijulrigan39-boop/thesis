@@ -1,0 +1,175 @@
+{
+  "timestamp_utc": "2026-11-21T07:37:57.016934+00:00",
+  "folder_root": "64db9d0f-e7c9-4084-afe9-f47e70e53c10",
+  "years": [
+    {
+      "title": "2025",
+      "id": "cbdfb137-3447-4bb3-ac33-a93b908f0e4f",
+      "mime": null
+    },
+    {
+      "title": "2026",
+      "id": "566dd333-1deb-4235-982a-4fdeaf3657c1",
+      "mime": null
+    }
+  ],
+  "months": [
+    {
+      "title": "01 - January",
+      "id": "0e413ff8-94e6-470b-86e8-4bd3627edcbf",
+      "mime": null
+    },
+    {
+      "title": "02 - February",
+      "id": "422c1f1c-113b-45db-a571-f8d7ad5ee002",
+      "mime": null
+    },
+    {
+      "title": "03 - March",
+      "id": "1e6a536a-501c-4301-ad89-aa105777569d",
+      "mime": null
+    },
+    {
+      "title": "04 - April",
+      "id": "1c76b49b-fcad-4904-be71-9708a63df505",
+      "mime": null
+    },
+    {
+      "title": "05 - May",
+      "id": "2148dfe4-37c3-4a6b-9f63-3ebf06f279f8",
+      "mime": null
+    },
+    {
+      "title": "06 - June",
+      "id": "bd4ac0e9-9e09-4776-8adb-7250be7064b3",
+      "mime": null
+    },
+    {
+      "title": "07 - July",
+      "id": "f4068bbd-660c-4e0b-9675-f19933161719",
+      "mime": null
+    },
+    {
+      "title": "08 - August",
+      "id": "7d7872d3-1f44-40b6-9c4f-072e3f0fde5d",
+      "mime": null
+    },
+    {
+      "title": "09 - September",
+      "id": "bfb38aac-8ce7-4562-90bb-15b30cab14be",
+      "mime": null
+    },
+    {
+      "title": "10 - October",
+      "id": "42ac4443-5aa0-44ed-9122-4430b38fd18b",
+      "mime": null
+    },
+    {
+      "title": "11 - November",
+      "id": "e8082cdc-fa7f-4adb-882b-f0039bbe7a98",
+      "mime": null
+    }
+  ],
+  "selected_month": {
+    "title": "11 - November",
+    "id": "e8082cdc-fa7f-4adb-882b-f0039bbe7a98",
+    "mime": null
+  },
+  "files": [
+    {
+      "title": "Additional codes descriptions.xlsx",
+      "id": "dbf77825-1d6d-43fa-a5d3-6ffe2e5a28c3",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Box 44 codes of the SAD.xlsx",
+      "id": "503716cd-361c-4dc5-9f77-0b5f012cd3db",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "CCT Exchange rates.xlsx",
+      "id": "2edb238d-c1c3-42ac-8e0c-402614aeb619",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Declarable codes.xlsx",
+      "id": "adb9dd82-8089-4c78-8ae7-bd36eced8de8",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Duties Export 01-99.xlsx",
+      "id": "9400f790-b8d4-4b76-9fdd-c7a35ceb9285",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Duties Import 01-99.xlsx",
+      "id": "d0b85541-ed40-4f11-81c3-d245b15adc1d",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Footnotes descriptions.xlsx",
+      "id": "f367749d-489f-4efd-b096-633c5520d55b",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Geographical areas composition.xlsx",
+      "id": "e8a814f1-7ca2-4c0b-a34a-b8d82d0eeeeb",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Geographical areas description.xlsx",
+      "id": "acbd49e1-0b7a-47e3-8509-534db940f0bb",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Legal basis.xlsx",
+      "id": "6edb3f45-4c2e-4137-b567-e112fd4fa464",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Measure conditions.xlsx",
+      "id": "dcf72a54-9a49-4d57-b8fa-a641e889faf9",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Measure exclusions.xlsx",
+      "id": "215b5316-d9f4-46ca-a6d4-1eb1355eae4d",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Measure footnotes.xlsx",
+      "id": "ef9e8bb1-1553-4889-b638-d37855f0c74a",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Nomenclature EN.xlsx",
+      "id": "41fc5fcb-88b0-4153-9d30-0bc0b01b3fde",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Nomenclature footnotes.xlsx",
+      "id": "ac52375f-244e-4652-b7d7-d7baf05b7dd5",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Nomenclature FR.xlsx",
+      "id": "8ebd82cf-b5be-497c-bed3-047598f38375",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Nomenclature DE.xlsx",
+      "id": "1e1fbf1b-c840-4de8-adc5-5ca2c37fcbb2",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Taric measures 20261104.xlsx",
+      "id": "8acbc481-e76f-42bc-9b2f-07962690810b",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "title": "Taric measures 20261111.xlsx",
+      "id": "96dbba77-c1f0-4c93-a35a-6d739129e0ce",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    }
+  ]
+}

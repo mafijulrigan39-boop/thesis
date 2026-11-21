@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-01",
+  "generated_utc": "2026-11-21T07:44:42.386002+00:00",
+  "taric10_origin_records": 2247,
+  "cn8_origin_records": 1400,
+  "route_counts": {
+    "TARIFF_PREFERENCE_CANDIDATE": 1493,
+    "MFN_FALLBACK_CANDIDATE": 416,
+    "CUSTOMS_UNION_DUTY_CANDIDATE": 306,
+    "NOT_VERIFIED_COMPLEX_CONFLICT_OR_MISSING": 32
+  },
+  "cn8_coverage": {
+    "CONSISTENT_ALL_LEAVES_CONDITIONAL": 1383,
+    "NOT_UNIQUE_OR_COMPLEX_CANNOT_AGGREGATE": 17
+  },
+  "by_origin": {
+    "BD": {
+      "CONSISTENT_ALL_LEAVES_CONDITIONAL": 200
+    },
+    "CN": {
+      "CONSISTENT_ALL_LEAVES_CONDITIONAL": 196,
+      "NOT_UNIQUE_OR_COMPLEX_CANNOT_AGGREGATE": 4
+    },
+    "IN": {
+      "CONSISTENT_ALL_LEAVES_CONDITIONAL": 196,
+      "NOT_UNIQUE_OR_COMPLEX_CANNOT_AGGREGATE": 4
+    },
+    "VN": {
+      "CONSISTENT_ALL_LEAVES_CONDITIONAL": 193,
+      "NOT_UNIQUE_OR_COMPLEX_CANNOT_AGGREGATE": 7
+    },
+    "PK": {
+      "CONSISTENT_ALL_LEAVES_CONDITIONAL": 199,
+      "NOT_UNIQUE_OR_COMPLEX_CANNOT_AGGREGATE": 1
+    },
+    "KH": {
+      "CONSISTENT_ALL_LEAVES_CONDITIONAL": 200
+    },
+    "TR": {
+      "CONSISTENT_ALL_LEAVES_CONDITIONAL": 199,
+      "NOT_UNIQUE_OR_COMPLEX_CANNOT_AGGREGATE": 1
+    }
+  },
+  "warnings": [
+    "T\u00fcrkiye 106 customs union duty is NOT equal to preferential origin measure 142 and depends on A.TR free circulation.",
+    "A current 2026 preference is only a candidate, not automatically utilized.",
+    "Complex, specific, compound, conditional duties do not acquire a numeric ad valorem by assumption.",
+    "November 2026 source only; do not infer a 2027 legal rate from older GSP schedules.",
+    "Product continuity from 2025 CN8 to 2026 TARIC is not yet source-certified against 2025 code lists."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "protocol_version": "1.0",
+  "adopted_date": "2026-11-21",
+  "source_type": "user-supplied MITB thesis report writing guideline",
+  "authority": "18-page supplied PDF; text transcript corroborating",
+  "source_library_folder": "/Thesis Research/Bangladesh EU Market Access Validation/Thesis Report Writing Guidelines",
+  "sources": [
+    {
+      "filename": "Thesis Guidelines - Original 18-page PDF.pdf",
+      "pages": 18,
+      "sha256": "7f72a277979128e580a70d3d1123bf23a696f078b9485a3af2b72f6c9154a2c0",
+      "coverage": "main 7-chapter outline pp1-2; detailed Chapters 1-4 pp3-18"
+    },
+    {
+      "filename": "Thesis Guidelines - Accompanying Text.txt",
+      "sha256": "26c6eda83f672cdae8858f29002b5b099d6301a45637d5fb89140879192d2ba3",
+      "relationship": "~99.91% normalized character similarity to PDF; primary PDF controls"
+    }
+  ],
+  "open_ambiguities": [
+    "seven-chapter overview conflicts with five-chapter generic example on PDF p10",
+    "10 References and 11 In-text Citation Rules are guideline outline labels, not explicit thesis chapter numbers",
+    "detailed content stops at Chapter4 section4.5",
+    "no APA edition or page design/word limit specified",
+    "optional methodology examples not evidence methods were run",
+    "supervisor-approved report scope not supplied"
+  ],
+  "project_research_sources": [
+    "task_g/README.md",
+    "task_g/HYPOTHESES.md",
+    "task_g/verified_results/QA_SUMMARY.json"
+  ],
+  "supervisor_approved": false
+}

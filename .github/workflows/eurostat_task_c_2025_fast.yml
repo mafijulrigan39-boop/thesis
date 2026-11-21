@@ -1,0 +1,74 @@
+name: Eurostat Task C fast 2025 complete products
+on:
+  push:
+    paths:
+      - ".github/workflows/eurostat_task_c_2025_fast.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract2025:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Retrieve 2025 all-origin values for 200 leading Bangladesh CN8 products
+        run: |
+          python - <<'PY'
+          import pathlib,csv,io,gzip,hashlib,json,datetime,urllib.request,urllib.error,time
+          root=pathlib.Path("task_c_competitor_data/quick2025");root.mkdir(parents=True,exist_ok=True)
+          with open("cn8_harmonization_2012_2025/cn8_2025_exact.csv",newline="",encoding="utf-8-sig") as f: rows=list(csv.DictReader(f))
+          products=[r['PRODUCT'] for r in sorted((x for x in rows if int(x['OBS_VALUE_EUR'])>0),key=lambda x:-int(x['OBS_VALUE_EUR']))[:200]]
+          base='https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/data/DS-045409/A.EU27_2020..'
+          store={};receipts=[];bad=[]
+          def query(codes,depth=0):
+            key='+'.join(codes)
+            url=base+key+'.1.VALUE_IN_EUROS?format=SDMX-CSV&startPeriod=2025&endPeriod=2025'
+            try:
+              req=urllib.request.Request(url,headers={'User-Agent':'MITB-Academic-Competitor-Data/1.0'})
+              with urllib.request.urlopen(req,timeout=90) as r:raw=r.read(100000000);status=r.status
+              parsed=list(csv.DictReader(io.StringIO(raw.decode('utf-8-sig'))))
+              assert parsed and {'partner','product','OBS_VALUE','TIME_PERIOD'}.issubset(parsed[0])
+              for row in parsed:
+                assert row['product'] in codes and row['TIME_PERIOD']=='2025' and row['reporter']=='EU27_2020'
+                k=(row['product'],row['partner'])
+                assert k not in store
+                store[k]=int(row['OBS_VALUE'])
+              receipts.append({'url':url,'http_status':status,'codes':len(codes),'rows':len(parsed),'sha256':hashlib.sha256(raw).hexdigest(),'bytes':len(raw),'utc':datetime.datetime.now(datetime.timezone.utc).isoformat()})
+              (root/f'response_{len(receipts):02d}.csv.gz').write_bytes(gzip.compress(raw,compresslevel=6))
+              print('ok',len(codes),'codes',len(parsed),'rows',flush=True)
+            except Exception as e:
+              if len(codes)>10:
+                middle=len(codes)//2
+                print('split',len(codes),str(e)[:150],flush=True)
+                query(codes[:middle],depth+1);query(codes[middle:],depth+1)
+              else:
+                bad.append({'codes':codes,'url':url,'error':str(e)[:300]})
+          query(products)
+          countries=['BD','CN','IN','VN','PK','KH','TR']
+          def write(name,fields,records):
+            with (root/name).open('w',newline='') as f:w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows(records)
+          shares=[];panel=[]
+          for p in products:
+            ext=store.get((p,'EXT_EU27_2020'));bd=store.get((p,'BD'))
+            valid=ext is not None and ext>0 and bd is not None and bd<=ext
+            shares.append({'cn8':p,'bd_eur':bd if bd is not None else '', 'extra_eu_eur':ext if ext is not None else '', 'share_pct':(100*bd/ext) if valid else '','status':'VALID' if valid else 'MISSING_OR_BAD_DENOMINATOR'})
+            for o in countries:
+              v=store.get((p,o))
+              panel.append({'year':2025,'cn8':p,'origin':o,'value_eur':v if v is not None else '', 'status':'OBSERVED' if v is not None else 'NO_REPORTED_RECORD'})
+          write('seven_origin_2025.csv',['year','cn8','origin','value_eur','status'],panel)
+          write('bd_market_share_2025.csv',['cn8','bd_eur','extra_eu_eur','share_pct','status'],shares)
+          (root/'receipts.json').write_text(json.dumps({'retrieved_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'requests':receipts,'errors':bad,'all_partner_values':len(store),'products':len(products),'valid_shares':sum(x['status']=='VALID' for x in shares),'source':'Eurostat Comext DS-045409'},indent=2))
+          if bad:raise RuntimeError('Source errors: '+str(bad)[:500])
+          PY
+      - name: Save captured official responses
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_c_competitor_data/quick2025/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive official Eurostat 2025 all-partner top200 extract"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

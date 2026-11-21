@@ -7,7 +7,7 @@
 | [1.3 Research Objectives](1_3_RESEARCH_OBJECTIVES.md) | First draft aligned to executed data and legal scenarios | 2026-11-21 |
 | [1.4 Research Questions and Hypotheses](1_4_RESEARCH_QUESTIONS_AND_HYPOTHESES.md) | First cited draft; five aligned research questions, H1–H3 exploratory | 2026-11-21 |
 | [1.5 Significance of the Study](1_5_SIGNIFICANCE_OF_THE_STUDY.md) | First referenced draft; five dimensions of significance | 2026-11-21 |
-| 1.6 Scope and Brief Limitations | Not drafted | — |
+| [1.6 Scope and Brief Limitations](1_6_SCOPE_AND_BRIEF_LIMITATIONS.md) | First cited draft; geographic/product/temporal/legal scope and limitations | 2026-11-21 |
 | 1.7 Organization of the Study | Not drafted | — |
 
 The authoritative section-level content rules are in [report_writing](../../report_writing/MASTER_WRITING_PROTOCOL.md). Paper evidence comes from [literature_review](../../literature_review/) and executed data/QA from [task_g](../../task_g/).

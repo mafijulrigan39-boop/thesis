@@ -1,0 +1,72 @@
+{
+  "created_utc": "2026-11-21T07:44:31.537481+00:00",
+  "reference_date": "2026-11-01",
+  "cn8": 200,
+  "taric10": 321,
+  "taric10_country": 2247,
+  "scheme_template_taric10": 963,
+  "cn8_country": 1400,
+  "by_origin": {
+    "BD": {
+      "cn8": 200,
+      "simple_mfn_cn8": 196,
+      "uniform_pref_cn8": 200,
+      "uniform_customs_union_cn8": 0,
+      "uniform_2026_candidate_cn8": 200
+    },
+    "CN": {
+      "cn8": 200,
+      "simple_mfn_cn8": 196,
+      "uniform_pref_cn8": 0,
+      "uniform_customs_union_cn8": 0,
+      "uniform_2026_candidate_cn8": 196
+    },
+    "IN": {
+      "cn8": 200,
+      "simple_mfn_cn8": 196,
+      "uniform_pref_cn8": 184,
+      "uniform_customs_union_cn8": 0,
+      "uniform_2026_candidate_cn8": 196
+    },
+    "VN": {
+      "cn8": 200,
+      "simple_mfn_cn8": 196,
+      "uniform_pref_cn8": 192,
+      "uniform_customs_union_cn8": 0,
+      "uniform_2026_candidate_cn8": 193
+    },
+    "PK": {
+      "cn8": 200,
+      "simple_mfn_cn8": 196,
+      "uniform_pref_cn8": 197,
+      "uniform_customs_union_cn8": 0,
+      "uniform_2026_candidate_cn8": 199
+    },
+    "KH": {
+      "cn8": 200,
+      "simple_mfn_cn8": 196,
+      "uniform_pref_cn8": 152,
+      "uniform_customs_union_cn8": 0,
+      "uniform_2026_candidate_cn8": 200
+    },
+    "TR": {
+      "cn8": 200,
+      "simple_mfn_cn8": 196,
+      "uniform_pref_cn8": 4,
+      "uniform_customs_union_cn8": 193,
+      "uniform_2026_candidate_cn8": 199
+    }
+  },
+  "official_source_root": "task_e_tariff_matrix/nov2026/official_source_xlsx",
+  "source_receipts": "task_e_tariff_matrix/nov2026/source_file_receipts.json",
+  "cautions": [
+    "Simple measure candidates are not legal opinion or paid effective rates",
+    "Turkey customs-union measures type 106 are recorded separately; they can require A.TR/free-circulation documentation",
+    "Cambodia EBA partially withdrawn: only measure-level source rates used; no universal EBA assumption",
+    "MFN expressions are not substituted for preferences where a tariff preference is conditional or ambiguous",
+    "2026 generic GSP and GSP+ template values are NOT automatically operative rates after 2027 for Bangladesh",
+    "Product-specific origin rules are not yet matched to 200 CN8 / 321 TARIC10 definitions",
+    "Additional anti-dumping, safeguard, quotas, suspensions, taxes, composition-based duties and exemptions are separately flagged",
+    "Snapshot reference 2026-11-01, not same-day TARIC and not a history of 2012-2025 duties"
+  ]
+}

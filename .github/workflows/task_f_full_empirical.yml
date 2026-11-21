@@ -26,3 +26,5 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+
+# Re-run after fixing historical chapter growth constant.

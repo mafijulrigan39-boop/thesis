@@ -1,0 +1,9 @@
+id,domain,count,quantity,decision
+M01,MFN rates,4,131083237 EUR,No rate imputed
+M02,historical CN code and crosswalk originals,27,14+13 files,Historical CN8 CAGR blocked
+M03,matched unit values,14,out of 1200,Exclude invalid EUR/kg pairs
+M04,conditional partner tariff candidates,17,out of 1200,No rate imputation
+M05,supplier HHI origin residual,163,out of 200,Supplier-origin HHI provisional
+M06,future Bangladesh GSP/ROO and utilisation,unknown,legal/process,Not forward payable tariff
+M07,applicable-year GSP roster,unknown,2027 roster backcast,Article33 numerical only
+M08,MITB supervisor signoff,pending,project paper,Not approved

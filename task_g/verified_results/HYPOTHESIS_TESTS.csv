@@ -1,0 +1,9 @@
+h,test,n,effect,p_value,q_value,interval,interpretation
+H1,one-sided permutation: mean 2026 MFN rate S11b > other,196,3.9394138755980856,0.0001,,"[2.398744019138757, 5.419736842105263]","exploratory tariff-rate gap, no impact identification"
+H2,two-sided permutation Spearman: 2025 market share vs 2026 MFN rate,196,0.18872981193964225,0.0087,,,"exploratory association, not causal"
+H3_CN,one-sided exact paired sign: BD EUR/kg < competitor,200,0.645,2.4864867396067483e-05,2.9837840875280978e-05,,"valid CN8 matched unit values, not equal product quality"
+H3_IN,one-sided exact paired sign: BD EUR/kg < competitor,200,0.77,4.085225233125462e-15,6.127837849688193e-15,,"valid CN8 matched unit values, not equal product quality"
+H3_VN,one-sided exact paired sign: BD EUR/kg < competitor,198,0.8636363636363636,4.323523458414495e-27,1.2970570375243485e-26,,"valid CN8 matched unit values, not equal product quality"
+H3_PK,one-sided exact paired sign: BD EUR/kg < competitor,198,0.48484848484848486,0.6905145005833516,0.6905145005833516,,"valid CN8 matched unit values, not equal product quality"
+H3_KH,one-sided exact paired sign: BD EUR/kg < competitor,190,0.7947368421052632,4.697865330153298e-17,9.395730660306595e-17,,"valid CN8 matched unit values, not equal product quality"
+H3_TR,one-sided exact paired sign: BD EUR/kg < competitor,200,0.895,9.734828677908877e-33,5.840897206745326e-32,,"valid CN8 matched unit values, not equal product quality"

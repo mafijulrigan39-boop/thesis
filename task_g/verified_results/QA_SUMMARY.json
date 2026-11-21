@@ -1,0 +1,23 @@
+{
+  "qa": "PASS_NUMERICAL_WITH_OPEN_ACADEMIC_GATES",
+  "source_sha256_passed": 11,
+  "product_lines": 200,
+  "bd_eur_2025": 20789281101,
+  "mfn_numeric_lines": 196,
+  "mfn_rate_missing_value_eur": 131083237,
+  "mfn_static_duty_equivalent_eur": 2443135906.98,
+  "H1_gap_pp": 3.9394138755980856,
+  "H1_p": 0.0001,
+  "H1_bootstrap_ci_pp": [
+    2.398744019138757,
+    5.419736842105263
+  ],
+  "H2_spearman_rho": 0.18872981193964225,
+  "H2_p": 0.0087,
+  "historical_product_growth_certified": false,
+  "future_tariffs_certified": false,
+  "supervisor_scope_approval": "PENDING",
+  "statistical_limits": "post-hoc exploratory associations; nonrandom top-200 CN8; no causal identification",
+  "evidence_run": "https://github.com/mafijulrigan39-boop/thesis/actions/runs/44884833114",
+  "frozen_source_commit": "acda0fd118b6ec019c5b37e34d07dc76e28fb878"
+}

@@ -1,0 +1,30 @@
+kind,case,n,value,unit,note
+YEAR_2027_ROSTER_BACKCAST,2023,,49.250267086850634,pct,not an actual-year legal finding
+YEAR_RESIDUAL_ALL_GSP,2023,,47.880411974793965,pct,positive country residual assigned wholly to GSP
+YEAR_2027_ROSTER_BACKCAST,2024,,49.22013534326767,pct,not an actual-year legal finding
+YEAR_RESIDUAL_ALL_GSP,2024,,47.84242142460272,pct,positive country residual assigned wholly to GSP
+YEAR_2027_ROSTER_BACKCAST,2025,,48.709900717675914,pct,not an actual-year legal finding
+YEAR_RESIDUAL_ALL_GSP,2025,,47.20920892496273,pct,positive country residual assigned wholly to GSP
+CLASSIFICATION_SECTOR,TOP200,200,2443135906.98,EUR,2025 values times Nov2026 conditional tariff rates; not losses
+CLASSIFICATION_SECTOR,2025_EXACT_1_TO_1,180,2279472482.525,EUR,2025 values times Nov2026 conditional tariff rates; not losses
+CLASSIFICATION_SECTOR,2025_COMPLEX_NONEXACT,20,163663424.455,EUR,2025 values times Nov2026 conditional tariff rates; not losses
+CLASSIFICATION_SECTOR,HS2_61_63,152,2335971310.0820003,EUR,2025 values times Nov2026 conditional tariff rates; not losses
+CLASSIFICATION_SECTOR,OTHER_HS2,48,107164596.898,EUR,2025 values times Nov2026 conditional tariff rates; not losses
+2026_SOURCE_TARIFF_SCENARIO,MFN_2026_SHOCK_IF_EBA_LOST,196,2443135906.98,EUR,different coverage across scenarios
+2026_SOURCE_TARIFF_SCENARIO,INDIA_2026_STANDARD_GSP_CHANNEL_PROXY_NOT_FUTURE_BD_RATE,184,1916058587.689,EUR,different coverage across scenarios
+2026_SOURCE_TARIFF_SCENARIO,PAKISTAN_2026_GSP_PLUS_CHANNEL_PROXY_NOT_FUTURE_BD_RATE,197,5239942.308,EUR,different coverage across scenarios
+2026_SOURCE_TARIFF_SCENARIO,S11B_STANDARD_GSP_ART7_20PCT_MFN_REDUCTION_2026_RATE_REFERENCE,152,1868777048.0656,EUR,different coverage across scenarios
+2026_SOURCE_TARIFF_SCENARIO,S11B_ART33_HYPOTHETICAL_MFN_AFTER_EBA_EXIT_AND_IMPLEMENTING_ACT,152,2335971310.082,EUR,different coverage across scenarios
+4_MISSING_RATE_STRESS,0pp,4,2443135906.98,EUR,hypothetical extra rate; NOT legal imputation
+4_MISSING_RATE_STRESS,5pp,4,2449690068.83,EUR,hypothetical extra rate; NOT legal imputation
+4_MISSING_RATE_STRESS,10pp,4,2456244230.68,EUR,hypothetical extra rate; NOT legal imputation
+4_MISSING_RATE_STRESS,15pp,4,2462798392.53,EUR,hypothetical extra rate; NOT legal imputation
+4_MISSING_RATE_STRESS,20pp,4,2469352554.38,EUR,hypothetical extra rate; NOT legal imputation
+SINGLE_ORIGIN,CN,196,11.826471617050052,percentage_points,"conditional 2026 margin, not utilisation"
+SINGLE_ORIGIN,IN,196,9.37791403068149,percentage_points,"conditional 2026 margin, not utilisation"
+SINGLE_ORIGIN,VN,193,0.20001088679115572,percentage_points,"conditional 2026 margin, not utilisation"
+SINGLE_ORIGIN,PK,199,0.02735974505765062,percentage_points,"conditional 2026 margin, not utilisation"
+SINGLE_ORIGIN,KH,200,3.94185901503627,percentage_points,"conditional 2026 margin, not utilisation"
+SINGLE_ORIGIN,TR,199,0.0,percentage_points,"conditional 2026 margin, not utilisation"
+SUPPLIER_GROUP,CN_IN,392,10.60219282386577,percentage_points,unequal rate coverage: comparability conditional
+SUPPLIER_GROUP,VN_PK_KH_TR,791,1.0482040540506214,percentage_points,unequal rate coverage: comparability conditional

@@ -18,6 +18,6 @@
   "future_tariffs_certified": false,
   "supervisor_scope_approval": "PENDING",
   "statistical_limits": "post-hoc exploratory associations; nonrandom top-200 CN8; no causal identification",
-  "evidence_run": "https://github.com/mafijulrigan39-boop/thesis/actions/runs/44884833114",
-  "frozen_source_commit": "acda0fd118b6ec019c5b37e34d07dc76e28fb878"
+  "H2_within_HS2_partial_rank_rho": -0.009587230562450057,
+  "H2_within_HS2_permutation_p": 0.843
 }

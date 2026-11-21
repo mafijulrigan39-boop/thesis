@@ -1,9 +1,7 @@
-# Executed Task G result tables
+# Task G — executed QA result tables (21 November 2026)
 
-These exact CSV tables were exported from the successful 21 Nov 2026 Task G GitHub Actions QA run, with the matching QA summary recorded from the workflow job log. All 11 Task F source-input SHA-256 digests passed. The 2025 top-200 cross-sectional dataset is frozen at commit acda0fd118b6ec019c5b37e34d07dc76e28fb878.
+These exact CSV tables and JSON summary correspond to successful GitHub Actions Run 44885066470: https://github.com/mafijulrigan39-boop/thesis/actions/runs/44885066470
 
-Reproducible script: ../run_task_g.py
+Reproducible script: ../run_task_g.py. Frozen source snapshot: acda0fd118b6ec019c5b37e34d07dc76e28fb878. All 11 original Task F source input SHA-256 hashes verified. Output includes 2023–2025 coverage, six origin sign tests, post-hoc HS2-adjusted H2 (permutation p=0.843), tariff and classification sensitivities, missingness, and source checks.
 
-Run evidence: https://github.com/mafijulrigan39-boop/thesis/actions/runs/44884833114
-
-Legal and academic caveats: **post-hoc tests; not causal; historical CN8 CAGR uncertified; future legal rates uncertified; supervisor approval pending**.
+**Academic status: numerical QA passed; historical CN8 product growth and future payable tariffs not certified; no causal results; supervisor scope approval pending.**

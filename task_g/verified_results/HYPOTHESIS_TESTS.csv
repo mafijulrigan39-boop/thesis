@@ -7,3 +7,4 @@ H3_VN,one-sided exact paired sign: BD EUR/kg < competitor,198,0.8636363636363636
 H3_PK,one-sided exact paired sign: BD EUR/kg < competitor,198,0.48484848484848486,0.6905145005833516,0.6905145005833516,,"valid CN8 matched unit values, not equal product quality"
 H3_KH,one-sided exact paired sign: BD EUR/kg < competitor,190,0.7947368421052632,4.697865330153298e-17,9.395730660306595e-17,,"valid CN8 matched unit values, not equal product quality"
 H3_TR,one-sided exact paired sign: BD EUR/kg < competitor,200,0.895,9.734828677908877e-33,5.840897206745326e-32,,"valid CN8 matched unit values, not equal product quality"
+H2_HS2_ADJUSTED,"post-hoc within-HS2 partial-rank permutation, two-sided",196,-0.009587230562450057,0.843,,,sector-adjusted exploratory sensitivity; NOT confirmatory or causal

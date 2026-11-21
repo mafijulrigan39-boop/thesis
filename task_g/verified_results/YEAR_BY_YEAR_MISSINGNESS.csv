@@ -1,0 +1,5 @@
+year,fixed_2025_code_grid_rows,valid_value_and_denominator,missing_bd_value,missing_extra_eu_total,historical_cn8_compatibility
+2012,200,187,3,10,UNCERTIFIED
+2023,200,200,0,0,UNCERTIFIED
+2024,200,199,1,0,UNCERTIFIED
+2025,200,200,0,0,2025_NATIVE

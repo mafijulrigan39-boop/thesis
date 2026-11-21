@@ -28,3 +28,15 @@ SINGLE_ORIGIN,KH,200,3.94185901503627,percentage_points,"conditional 2026 margin
 SINGLE_ORIGIN,TR,199,0.0,percentage_points,"conditional 2026 margin, not utilisation"
 SUPPLIER_GROUP,CN_IN,392,10.60219282386577,percentage_points,unequal rate coverage: comparability conditional
 SUPPLIER_GROUP,VN_PK_KH_TR,791,1.0482040540506214,percentage_points,unequal rate coverage: comparability conditional
+FIXED_2025_CODE_YEAR_COVERAGE,2012_VALID,187,93.5,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2012_MISSING_BANGLADESH_VALUE,3,1.5,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2012_MISSING_EXTRA_EU_TOTAL,10,5.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2023_VALID,200,100.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2023_MISSING_BANGLADESH_VALUE,0,0.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2023_MISSING_EXTRA_EU_TOTAL,0,0.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2024_VALID,199,99.5,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2024_MISSING_BANGLADESH_VALUE,1,0.5,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2024_MISSING_EXTRA_EU_TOTAL,0,0.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2025_VALID,200,100.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2025_MISSING_BANGLADESH_VALUE,0,0.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero
+FIXED_2025_CODE_YEAR_COVERAGE,2025_MISSING_EXTRA_EU_TOTAL,0,0.0,percent_of_200,Rectangular raw-code audit; 2012-2024 CN8 meaning NOT harmonized; missing is not zero

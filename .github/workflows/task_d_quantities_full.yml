@@ -1,0 +1,28 @@
+name: Task D Eurostat 2012-2025 official quantities and unit values
+on:
+  push:
+    paths:
+      - ".github/workflows/task_d_quantities_full.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Retrieve official annual quantities and construct seven-origin panel
+        run: python task_d_quantities/extract_task_d.py
+      - name: Preserve original quantity responses and audit outputs
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_d_quantities/full/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive Task D source quantity responses and auditable unit-value results"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

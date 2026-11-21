@@ -1,0 +1,28 @@
+name: Task F Article33 official EU 2012-2025 S11b all-beneficiary test
+on:
+  push:
+    paths:
+      - ".github/workflows/task_f_article33_full.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  article33:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Retrieve official all-partner Chapter 61-63 series and compute legal tests
+        run: python task_f_empirical/article33_extract.py
+      - name: Archive official provenance and safeguards arithmetic
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_f_empirical/article33/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive Task F official 2012-2025 Article33 all-beneficiary shares"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

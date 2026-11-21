@@ -1,0 +1,2291 @@
+[
+  {
+    "file": "Duties Import 01-99.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/d0b85541-ed40-4f11-81c3-d245b15adc1d/content",
+    "downloaded_utc": "2026-11-21T07:39:02.010713+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 8299061,
+    "sha256": "89865ebad02ce9d601e060025f4d709bdac4e008d2657c503f34f7efe019d3e2",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Goods code"
+              },
+              {
+                "ref": "B1",
+                "value": "Add code"
+              },
+              {
+                "ref": "C1",
+                "value": "Order No."
+              },
+              {
+                "ref": "D1",
+                "value": "Start date"
+              },
+              {
+                "ref": "E1",
+                "value": "End date"
+              },
+              {
+                "ref": "F1",
+                "value": "RED_IND"
+              },
+              {
+                "ref": "G1",
+                "value": "Origin"
+              },
+              {
+                "ref": "H1",
+                "value": "Measure type"
+              },
+              {
+                "ref": "I1",
+                "value": "Legal base"
+              },
+              {
+                "ref": "J1",
+                "value": "Duty"
+              },
+              {
+                "ref": "K1",
+                "value": "Origin code"
+              },
+              {
+                "ref": "L1",
+                "value": "Meas. type code"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B2",
+                "value": ""
+              },
+              {
+                "ref": "C2",
+                "value": ""
+              },
+              {
+                "ref": "D2",
+                "value": "01-01-2021"
+              },
+              {
+                "ref": "E2",
+                "value": ""
+              },
+              {
+                "ref": "F2",
+                "value": ""
+              },
+              {
+                "ref": "G2",
+                "value": "United Kingdom"
+              },
+              {
+                "ref": "H2",
+                "value": "Tariff preference"
+              },
+              {
+                "ref": "I2",
+                "value": "Decision 2253/20"
+              },
+              {
+                "ref": "J2",
+                "value": "0.000 % "
+              },
+              {
+                "ref": "K2",
+                "value": "GB"
+              },
+              {
+                "ref": "L2",
+                "value": "142"
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B3",
+                "value": ""
+              },
+              {
+                "ref": "C3",
+                "value": ""
+              },
+              {
+                "ref": "D3",
+                "value": "01-01-2022"
+              },
+              {
+                "ref": "E3",
+                "value": ""
+              },
+              {
+                "ref": "F3",
+                "value": ""
+              },
+              {
+                "ref": "G3",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "H3",
+                "value": "Import control of organic products"
+              },
+              {
+                "ref": "I3",
+                "value": "Regulation 2306/21"
+              },
+              {
+                "ref": "J3",
+                "value": "Cond:  B cert: C-644 (29):; B cert: Y-929 (29):; B (09):"
+              },
+              {
+                "ref": "K3",
+                "value": "1011"
+              },
+              {
+                "ref": "L3",
+                "value": "750"
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B4",
+                "value": ""
+              },
+              {
+                "ref": "C4",
+                "value": ""
+              },
+              {
+                "ref": "D4",
+                "value": "01-08-2020"
+              },
+              {
+                "ref": "E4",
+                "value": ""
+              },
+              {
+                "ref": "F4",
+                "value": ""
+              },
+              {
+                "ref": "G4",
+                "value": "Viet Nam"
+              },
+              {
+                "ref": "H4",
+                "value": "Tariff preference"
+              },
+              {
+                "ref": "I4",
+                "value": "Decision 0753/20"
+              },
+              {
+                "ref": "J4",
+                "value": "0.000 % "
+              },
+              {
+                "ref": "K4",
+                "value": "VN"
+              },
+              {
+                "ref": "L4",
+                "value": "142"
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B5",
+                "value": ""
+              },
+              {
+                "ref": "C5",
+                "value": ""
+              },
+              {
+                "ref": "D5",
+                "value": "01-11-2026"
+              },
+              {
+                "ref": "E5",
+                "value": ""
+              },
+              {
+                "ref": "F5",
+                "value": ""
+              },
+              {
+                "ref": "G5",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "H5",
+                "value": "Union handling fee"
+              },
+              {
+                "ref": "I5",
+                "value": "Regulation 2108/26"
+              },
+              {
+                "ref": "J5",
+                "value": "2.000 EUR "
+              },
+              {
+                "ref": "K5",
+                "value": "1011"
+              },
+              {
+                "ref": "L5",
+                "value": "800"
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B6",
+                "value": ""
+              },
+              {
+                "ref": "C6",
+                "value": ""
+              },
+              {
+                "ref": "D6",
+                "value": "20-07-2025"
+              },
+              {
+                "ref": "E6",
+                "value": ""
+              },
+              {
+                "ref": "F6",
+                "value": ""
+              },
+              {
+                "ref": "G6",
+                "value": "Russian Federation"
+              },
+              {
+                "ref": "H6",
+                "value": "Additional duties"
+              },
+              {
+                "ref": "I6",
+                "value": "Regulation 1227/25"
+              },
+              {
+                "ref": "J6",
+                "value": "50.000 % "
+              },
+              {
+                "ref": "K6",
+                "value": "RU"
+              },
+              {
+                "ref": "L6",
+                "value": "695"
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Geographical areas composition.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/e8a814f1-7ca2-4c0b-a34a-b8d82d0eeeeb/content",
+    "downloaded_utc": "2026-11-21T07:39:09.837334+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 142645,
+    "sha256": "c954658f3f9922d4115c3635d48e27344754d57fb252fada76bdbc86e6caf812",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Country group"
+              },
+              {
+                "ref": "B1",
+                "value": "Start date"
+              },
+              {
+                "ref": "C1",
+                "value": "Language"
+              },
+              {
+                "ref": "D1",
+                "value": "Abbrev."
+              },
+              {
+                "ref": "E1",
+                "value": "Country group descr."
+              },
+              {
+                "ref": "F1",
+                "value": "Member country"
+              },
+              {
+                "ref": "G1",
+                "value": "Abbrev."
+              },
+              {
+                "ref": "H1",
+                "value": "Description"
+              },
+              {
+                "ref": "I1",
+                "value": "Mbship start date"
+              },
+              {
+                "ref": "J1",
+                "value": "Mbship end date"
+              },
+              {
+                "ref": "K1",
+                "value": "End date"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "1005"
+              },
+              {
+                "ref": "B2",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "C2",
+                "value": "EN"
+              },
+              {
+                "ref": "D2",
+                "value": "SURV"
+              },
+              {
+                "ref": "E2",
+                "value": "Statistical surveillance"
+              },
+              {
+                "ref": "F2",
+                "value": "AD"
+              },
+              {
+                "ref": "G2",
+                "value": "AD"
+              },
+              {
+                "ref": "H2",
+                "value": "Andorra"
+              },
+              {
+                "ref": "I2",
+                "value": "01-06-2008"
+              },
+              {
+                "ref": "J2",
+                "value": ""
+              },
+              {
+                "ref": "K2",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "1005"
+              },
+              {
+                "ref": "B3",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "C3",
+                "value": "EN"
+              },
+              {
+                "ref": "D3",
+                "value": "SURV"
+              },
+              {
+                "ref": "E3",
+                "value": "Statistical surveillance"
+              },
+              {
+                "ref": "F3",
+                "value": "AE"
+              },
+              {
+                "ref": "G3",
+                "value": "AE"
+              },
+              {
+                "ref": "H3",
+                "value": "United Arab Emirates"
+              },
+              {
+                "ref": "I3",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "J3",
+                "value": ""
+              },
+              {
+                "ref": "K3",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "1005"
+              },
+              {
+                "ref": "B4",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "C4",
+                "value": "EN"
+              },
+              {
+                "ref": "D4",
+                "value": "SURV"
+              },
+              {
+                "ref": "E4",
+                "value": "Statistical surveillance"
+              },
+              {
+                "ref": "F4",
+                "value": "AF"
+              },
+              {
+                "ref": "G4",
+                "value": "AF"
+              },
+              {
+                "ref": "H4",
+                "value": "Afghanistan"
+              },
+              {
+                "ref": "I4",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "J4",
+                "value": ""
+              },
+              {
+                "ref": "K4",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "1005"
+              },
+              {
+                "ref": "B5",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "C5",
+                "value": "EN"
+              },
+              {
+                "ref": "D5",
+                "value": "SURV"
+              },
+              {
+                "ref": "E5",
+                "value": "Statistical surveillance"
+              },
+              {
+                "ref": "F5",
+                "value": "AG"
+              },
+              {
+                "ref": "G5",
+                "value": "AG"
+              },
+              {
+                "ref": "H5",
+                "value": "Antigua and Barbuda"
+              },
+              {
+                "ref": "I5",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "J5",
+                "value": ""
+              },
+              {
+                "ref": "K5",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "1005"
+              },
+              {
+                "ref": "B6",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "C6",
+                "value": "EN"
+              },
+              {
+                "ref": "D6",
+                "value": "SURV"
+              },
+              {
+                "ref": "E6",
+                "value": "Statistical surveillance"
+              },
+              {
+                "ref": "F6",
+                "value": "AI"
+              },
+              {
+                "ref": "G6",
+                "value": "AI"
+              },
+              {
+                "ref": "H6",
+                "value": "Anguilla"
+              },
+              {
+                "ref": "I6",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "J6",
+                "value": ""
+              },
+              {
+                "ref": "K6",
+                "value": ""
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Measure exclusions.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/215b5316-d9f4-46ca-a6d4-1eb1355eae4d/content",
+    "downloaded_utc": "2026-11-21T07:39:10.646587+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 1394404,
+    "sha256": "8905b84789015edb0bfddb990214d2c535dd723402354ac150728a11a00bc78a",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Goods code"
+              },
+              {
+                "ref": "B1",
+                "value": "Add code"
+              },
+              {
+                "ref": "C1",
+                "value": "Order No."
+              },
+              {
+                "ref": "D1",
+                "value": "Start date"
+              },
+              {
+                "ref": "E1",
+                "value": "End date"
+              },
+              {
+                "ref": "F1",
+                "value": "Origin"
+              },
+              {
+                "ref": "G1",
+                "value": "Measure type"
+              },
+              {
+                "ref": "H1",
+                "value": "Excluded country code"
+              },
+              {
+                "ref": "I1",
+                "value": "Origin code"
+              },
+              {
+                "ref": "J1",
+                "value": "Meas. type code"
+              },
+              {
+                "ref": "K1",
+                "value": "Excluded country"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B2",
+                "value": ""
+              },
+              {
+                "ref": "C2",
+                "value": ""
+              },
+              {
+                "ref": "D2",
+                "value": "01-01-2022"
+              },
+              {
+                "ref": "E2",
+                "value": ""
+              },
+              {
+                "ref": "F2",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "G2",
+                "value": "Import control of organic products"
+              },
+              {
+                "ref": "H2",
+                "value": "Liechtenstein"
+              },
+              {
+                "ref": "I2",
+                "value": "1011"
+              },
+              {
+                "ref": "J2",
+                "value": "750"
+              },
+              {
+                "ref": "K2",
+                "value": "LI"
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B3",
+                "value": ""
+              },
+              {
+                "ref": "C3",
+                "value": ""
+              },
+              {
+                "ref": "D3",
+                "value": "01-01-2022"
+              },
+              {
+                "ref": "E3",
+                "value": ""
+              },
+              {
+                "ref": "F3",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "G3",
+                "value": "Import control of organic products"
+              },
+              {
+                "ref": "H3",
+                "value": "Iceland"
+              },
+              {
+                "ref": "I3",
+                "value": "1011"
+              },
+              {
+                "ref": "J3",
+                "value": "750"
+              },
+              {
+                "ref": "K3",
+                "value": "IS"
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B4",
+                "value": ""
+              },
+              {
+                "ref": "C4",
+                "value": ""
+              },
+              {
+                "ref": "D4",
+                "value": "01-01-2022"
+              },
+              {
+                "ref": "E4",
+                "value": ""
+              },
+              {
+                "ref": "F4",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "G4",
+                "value": "Import control of organic products"
+              },
+              {
+                "ref": "H4",
+                "value": "Switzerland"
+              },
+              {
+                "ref": "I4",
+                "value": "1011"
+              },
+              {
+                "ref": "J4",
+                "value": "750"
+              },
+              {
+                "ref": "K4",
+                "value": "CH"
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B5",
+                "value": ""
+              },
+              {
+                "ref": "C5",
+                "value": ""
+              },
+              {
+                "ref": "D5",
+                "value": "01-01-2022"
+              },
+              {
+                "ref": "E5",
+                "value": ""
+              },
+              {
+                "ref": "F5",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "G5",
+                "value": "Import control of organic products"
+              },
+              {
+                "ref": "H5",
+                "value": "Norway"
+              },
+              {
+                "ref": "I5",
+                "value": "1011"
+              },
+              {
+                "ref": "J5",
+                "value": "750"
+              },
+              {
+                "ref": "K5",
+                "value": "NO"
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B6",
+                "value": ""
+              },
+              {
+                "ref": "C6",
+                "value": ""
+              },
+              {
+                "ref": "D6",
+                "value": "20-07-2025"
+              },
+              {
+                "ref": "E6",
+                "value": ""
+              },
+              {
+                "ref": "F6",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "G6",
+                "value": "Additional duties"
+              },
+              {
+                "ref": "H6",
+                "value": "Belarus"
+              },
+              {
+                "ref": "I6",
+                "value": "1011"
+              },
+              {
+                "ref": "J6",
+                "value": "695"
+              },
+              {
+                "ref": "K6",
+                "value": "BY"
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Measure conditions.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/dcf72a54-9a49-4d57-b8fa-a641e889faf9/content",
+    "downloaded_utc": "2026-11-21T07:39:12.582363+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 3821896,
+    "sha256": "2c31f655a7ed19704246f457b3fb81137ab539879fb3ac88076b95931c6fac40",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Goods code"
+              },
+              {
+                "ref": "B1",
+                "value": "Add code"
+              },
+              {
+                "ref": "C1",
+                "value": "Order No."
+              },
+              {
+                "ref": "D1",
+                "value": "Start date"
+              },
+              {
+                "ref": "E1",
+                "value": "End date"
+              },
+              {
+                "ref": "F1",
+                "value": "Origin code"
+              },
+              {
+                "ref": "G1",
+                "value": "Meas. type code"
+              },
+              {
+                "ref": "H1",
+                "value": "Meas. cond"
+              },
+              {
+                "ref": "I1",
+                "value": "Sequence"
+              },
+              {
+                "ref": "J1",
+                "value": "Certificate"
+              },
+              {
+                "ref": "K1",
+                "value": "Cond. amount"
+              },
+              {
+                "ref": "L1",
+                "value": "Mon. unit"
+              },
+              {
+                "ref": "M1",
+                "value": "Meas. unit"
+              },
+              {
+                "ref": "N1",
+                "value": "Meas. unit qual"
+              },
+              {
+                "ref": "O1",
+                "value": "Meas. action"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B2",
+                "value": ""
+              },
+              {
+                "ref": "C2",
+                "value": ""
+              },
+              {
+                "ref": "D2",
+                "value": "01-11-2026"
+              },
+              {
+                "ref": "E2",
+                "value": ""
+              },
+              {
+                "ref": "F2",
+                "value": "1011"
+              },
+              {
+                "ref": "G2",
+                "value": "800"
+              },
+              {
+                "ref": "H2",
+                "value": "B"
+              },
+              {
+                "ref": "I2",
+                "value": "1"
+              },
+              {
+                "ref": "J2",
+                "value": "Y126"
+              },
+              {
+                "ref": "K2",
+                "value": ""
+              },
+              {
+                "ref": "L2",
+                "value": ""
+              },
+              {
+                "ref": "M2",
+                "value": ""
+              },
+              {
+                "ref": "N2",
+                "value": ""
+              },
+              {
+                "ref": "O2",
+                "value": "27"
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B3",
+                "value": ""
+              },
+              {
+                "ref": "C3",
+                "value": ""
+              },
+              {
+                "ref": "D3",
+                "value": "01-11-2026"
+              },
+              {
+                "ref": "E3",
+                "value": ""
+              },
+              {
+                "ref": "F3",
+                "value": "1011"
+              },
+              {
+                "ref": "G3",
+                "value": "800"
+              },
+              {
+                "ref": "H3",
+                "value": "B"
+              },
+              {
+                "ref": "I3",
+                "value": "9"
+              },
+              {
+                "ref": "J3",
+                "value": ""
+              },
+              {
+                "ref": "K3",
+                "value": ""
+              },
+              {
+                "ref": "L3",
+                "value": ""
+              },
+              {
+                "ref": "M3",
+                "value": ""
+              },
+              {
+                "ref": "N3",
+                "value": ""
+              },
+              {
+                "ref": "O3",
+                "value": "07"
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "0101000000"
+              },
+              {
+                "ref": "B4",
+                "value": ""
+              },
+              {
+                "ref": "C4",
+                "value": ""
+              },
+              {
+                "ref": "D4",
+                "value": "01-01-2027"
+              },
+              {
+                "ref": "E4",
+                "value": ""
+              },
+              {
+                "ref": "F4",
+                "value": "GH"
+              },
+              {
+                "ref": "G4",
+                "value": "142"
+              },
+              {
+                "ref": "H4",
+                "value": "B"
+              },
+              {
+                "ref": "I4",
+                "value": "1"
+              },
+              {
+                "ref": "J4",
+                "value": "N864"
+              },
+              {
+                "ref": "K4",
+                "value": ""
+              },
+              {
+                "ref": "L4",
+                "value": ""
+              },
+              {
+                "ref": "M4",
+                "value": ""
+              },
+              {
+                "ref": "N4",
+                "value": ""
+              },
+              {
+                "ref": "O4",
+                "value": "27"
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "0101000000"
+              },
+              {
+                "ref": "B5",
+                "value": ""
+              },
+              {
+                "ref": "C5",
+                "value": ""
+              },
+              {
+                "ref": "D5",
+                "value": "01-01-2027"
+              },
+              {
+                "ref": "E5",
+                "value": ""
+              },
+              {
+                "ref": "F5",
+                "value": "GH"
+              },
+              {
+                "ref": "G5",
+                "value": "142"
+              },
+              {
+                "ref": "H5",
+                "value": "B"
+              },
+              {
+                "ref": "I5",
+                "value": "2"
+              },
+              {
+                "ref": "J5",
+                "value": "U162"
+              },
+              {
+                "ref": "K5",
+                "value": ""
+              },
+              {
+                "ref": "L5",
+                "value": ""
+              },
+              {
+                "ref": "M5",
+                "value": ""
+              },
+              {
+                "ref": "N5",
+                "value": ""
+              },
+              {
+                "ref": "O5",
+                "value": "27"
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "0101000000"
+              },
+              {
+                "ref": "B6",
+                "value": ""
+              },
+              {
+                "ref": "C6",
+                "value": ""
+              },
+              {
+                "ref": "D6",
+                "value": "01-01-2027"
+              },
+              {
+                "ref": "E6",
+                "value": ""
+              },
+              {
+                "ref": "F6",
+                "value": "GH"
+              },
+              {
+                "ref": "G6",
+                "value": "142"
+              },
+              {
+                "ref": "H6",
+                "value": "B"
+              },
+              {
+                "ref": "I6",
+                "value": "3"
+              },
+              {
+                "ref": "J6",
+                "value": "Y119"
+              },
+              {
+                "ref": "K6",
+                "value": ""
+              },
+              {
+                "ref": "L6",
+                "value": ""
+              },
+              {
+                "ref": "M6",
+                "value": ""
+              },
+              {
+                "ref": "N6",
+                "value": ""
+              },
+              {
+                "ref": "O6",
+                "value": "27"
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Nomenclature EN.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/41fc5fcb-88b0-4153-9d30-0bc0b01b3fde/content",
+    "downloaded_utc": "2026-11-21T07:39:16.642884+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 1301954,
+    "sha256": "aee62e8b83da6cb8bb7605d7bce9a9ed13dc7055c956020173ed316415898ed0",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Goods code"
+              },
+              {
+                "ref": "B1",
+                "value": "Start date"
+              },
+              {
+                "ref": "C1",
+                "value": "End date"
+              },
+              {
+                "ref": "D1",
+                "value": "Language"
+              },
+              {
+                "ref": "E1",
+                "value": "Hier. Pos."
+              },
+              {
+                "ref": "F1",
+                "value": "Indent"
+              },
+              {
+                "ref": "G1",
+                "value": "Description"
+              },
+              {
+                "ref": "H1",
+                "value": "Descr. start date"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "0100000000 80"
+              },
+              {
+                "ref": "B2",
+                "value": "31-12-1971"
+              },
+              {
+                "ref": "C2",
+                "value": ""
+              },
+              {
+                "ref": "D2",
+                "value": "EN"
+              },
+              {
+                "ref": "E2",
+                "value": "2"
+              },
+              {
+                "ref": "F2",
+                "value": ""
+              },
+              {
+                "ref": "G2",
+                "value": "LIVE ANIMALS"
+              },
+              {
+                "ref": "H2",
+                "value": "31-12-1971"
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "0101000000 80"
+              },
+              {
+                "ref": "B3",
+                "value": "01-01-1972"
+              },
+              {
+                "ref": "C3",
+                "value": ""
+              },
+              {
+                "ref": "D3",
+                "value": "EN"
+              },
+              {
+                "ref": "E3",
+                "value": "4"
+              },
+              {
+                "ref": "F3",
+                "value": ""
+              },
+              {
+                "ref": "G3",
+                "value": "Live horses, asses, mules and hinnies"
+              },
+              {
+                "ref": "H3",
+                "value": "01-01-1972"
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "0101210000 10"
+              },
+              {
+                "ref": "B4",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "C4",
+                "value": ""
+              },
+              {
+                "ref": "D4",
+                "value": "EN"
+              },
+              {
+                "ref": "E4",
+                "value": "6"
+              },
+              {
+                "ref": "F4",
+                "value": "- "
+              },
+              {
+                "ref": "G4",
+                "value": "Horses"
+              },
+              {
+                "ref": "H4",
+                "value": "01-01-2019"
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "0101210000 80"
+              },
+              {
+                "ref": "B5",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "C5",
+                "value": ""
+              },
+              {
+                "ref": "D5",
+                "value": "EN"
+              },
+              {
+                "ref": "E5",
+                "value": "6"
+              },
+              {
+                "ref": "F5",
+                "value": "- - "
+              },
+              {
+                "ref": "G5",
+                "value": "Pure-bred breeding animals"
+              },
+              {
+                "ref": "H5",
+                "value": "01-01-2019"
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "0101290000 80"
+              },
+              {
+                "ref": "B6",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "C6",
+                "value": ""
+              },
+              {
+                "ref": "D6",
+                "value": "EN"
+              },
+              {
+                "ref": "E6",
+                "value": "6"
+              },
+              {
+                "ref": "F6",
+                "value": "- - "
+              },
+              {
+                "ref": "G6",
+                "value": "Other"
+              },
+              {
+                "ref": "H6",
+                "value": "01-01-2021"
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Declarable codes.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/adb9dd82-8089-4c78-8ae7-bd36eced8de8/content",
+    "downloaded_utc": "2026-11-21T07:39:18.110240+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 589371,
+    "sha256": "56c63bfa579543b47287f3a202539caa567a68169d77a642201fad997303f75e",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Goods code"
+              },
+              {
+                "ref": "B1",
+                "value": "Start date"
+              },
+              {
+                "ref": "C1",
+                "value": "Decl. start date"
+              },
+              {
+                "ref": "D1",
+                "value": "IS_LEAF"
+              },
+              {
+                "ref": "E1",
+                "value": "End date"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "0100000000 80"
+              },
+              {
+                "ref": "B2",
+                "value": "31-12-1971"
+              },
+              {
+                "ref": "C2",
+                "value": "01-01-1972"
+              },
+              {
+                "ref": "D2",
+                "value": "0"
+              },
+              {
+                "ref": "E2",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "0101000000 80"
+              },
+              {
+                "ref": "B3",
+                "value": "01-01-1972"
+              },
+              {
+                "ref": "C3",
+                "value": "01-01-1972"
+              },
+              {
+                "ref": "D3",
+                "value": "0"
+              },
+              {
+                "ref": "E3",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "0101210000 10"
+              },
+              {
+                "ref": "B4",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "C4",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "D4",
+                "value": "0"
+              },
+              {
+                "ref": "E4",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "0101210000 80"
+              },
+              {
+                "ref": "B5",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "C5",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "D5",
+                "value": "1"
+              },
+              {
+                "ref": "E5",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "0101290000 80"
+              },
+              {
+                "ref": "B6",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "C6",
+                "value": "01-01-2012"
+              },
+              {
+                "ref": "D6",
+                "value": "0"
+              },
+              {
+                "ref": "E6",
+                "value": ""
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Legal basis.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/6edb3f45-4c2e-4137-b567-e112fd4fa464/content",
+    "downloaded_utc": "2026-11-21T07:39:19.049134+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 123131,
+    "sha256": "8b9d3a5370a728f65162bd1ef1a48901012bc7a8229b0da020fd986e2dd2551a",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Legal base"
+              },
+              {
+                "ref": "B1",
+                "value": "Off. Journal"
+              },
+              {
+                "ref": "C1",
+                "value": "Page"
+              },
+              {
+                "ref": "D1",
+                "value": "Publ. date"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "Decision 2253/20"
+              },
+              {
+                "ref": "B2",
+                "value": "L 444"
+              },
+              {
+                "ref": "C2",
+                "value": "11"
+              },
+              {
+                "ref": "D2",
+                "value": "31-12-2020"
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "Regulation 1344/11"
+              },
+              {
+                "ref": "B3",
+                "value": "L 349"
+              },
+              {
+                "ref": "C3",
+                "value": "1"
+              },
+              {
+                "ref": "D3",
+                "value": "31-12-2011"
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "Regulation 1264/10"
+              },
+              {
+                "ref": "B4",
+                "value": "L 347"
+              },
+              {
+                "ref": "C4",
+                "value": "1"
+              },
+              {
+                "ref": "D4",
+                "value": "31-12-2010"
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "Regulation 1265/10"
+              },
+              {
+                "ref": "B5",
+                "value": "L 347"
+              },
+              {
+                "ref": "C5",
+                "value": "9"
+              },
+              {
+                "ref": "D5",
+                "value": "31-12-2010"
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "Regulation 1238/10"
+              },
+              {
+                "ref": "B6",
+                "value": "L 348"
+              },
+              {
+                "ref": "C6",
+                "value": "36"
+              },
+              {
+                "ref": "D6",
+                "value": "31-12-2010"
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Geographical areas description.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/acbd49e1-0b7a-47e3-8509-534db940f0bb/content",
+    "downloaded_utc": "2026-11-21T07:39:19.666263+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 250722,
+    "sha256": "8a619c021144b7765d324b19ce38908392ec4aa341cfabcb66d56190816e1eea",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Or./Dest."
+              },
+              {
+                "ref": "B1",
+                "value": "Language"
+              },
+              {
+                "ref": "C1",
+                "value": "Abbrev."
+              },
+              {
+                "ref": "D1",
+                "value": "Description"
+              },
+              {
+                "ref": "E1",
+                "value": "Start date"
+              },
+              {
+                "ref": "F1",
+                "value": "Descr. start date"
+              },
+              {
+                "ref": "G1",
+                "value": "End date"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "1005"
+              },
+              {
+                "ref": "B2",
+                "value": "BG"
+              },
+              {
+                "ref": "C2",
+                "value": "SURV"
+              },
+              {
+                "ref": "D2",
+                "value": "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435"
+              },
+              {
+                "ref": "E2",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "F2",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "G2",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "1005"
+              },
+              {
+                "ref": "B3",
+                "value": "CS"
+              },
+              {
+                "ref": "C3",
+                "value": "SURV"
+              },
+              {
+                "ref": "D3",
+                "value": "Statistick\u00fd dohled"
+              },
+              {
+                "ref": "E3",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "F3",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "G3",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "1005"
+              },
+              {
+                "ref": "B4",
+                "value": "DA"
+              },
+              {
+                "ref": "C4",
+                "value": "SURV"
+              },
+              {
+                "ref": "D4",
+                "value": "Statistisk overv\u00e5gning"
+              },
+              {
+                "ref": "E4",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "F4",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "G4",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "1005"
+              },
+              {
+                "ref": "B5",
+                "value": "DE"
+              },
+              {
+                "ref": "C5",
+                "value": "SURV"
+              },
+              {
+                "ref": "D5",
+                "value": "Statistische \u00dcberwachung"
+              },
+              {
+                "ref": "E5",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "F5",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "G5",
+                "value": ""
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "1005"
+              },
+              {
+                "ref": "B6",
+                "value": "EL"
+              },
+              {
+                "ref": "C6",
+                "value": "SURV"
+              },
+              {
+                "ref": "D6",
+                "value": "\u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03b5\u03c0\u03b9\u03c4\u03ae\u03c1\u03b7\u03c3\u03b7"
+              },
+              {
+                "ref": "E6",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "F6",
+                "value": "01-01-2005"
+              },
+              {
+                "ref": "G6",
+                "value": ""
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  },
+  {
+    "file": "Measure footnotes.xlsx",
+    "source_url": "https://circabc.europa.eu/service/api/node/workspace/SpacesStore/ef9e8bb1-1553-4889-b638-d37855f0c74a/content",
+    "downloaded_utc": "2026-11-21T07:39:20.273098+00:00",
+    "http_status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; charset=UTF-8",
+    "bytes": 5683286,
+    "sha256": "761adb80947f8d8f0925adb28a14ae3c0bd36daa1ba304b68aafa4fe0dd6ab92",
+    "xlsx_schema": {
+      "xl_shared_strings_count": 0,
+      "sheets": [
+        {
+          "sheet_filename": "xl/worksheets/sheet1.xml",
+          "sample_rows": [
+            [
+              {
+                "ref": "A1",
+                "value": "Goods code"
+              },
+              {
+                "ref": "B1",
+                "value": "Add code"
+              },
+              {
+                "ref": "C1",
+                "value": "Order No."
+              },
+              {
+                "ref": "D1",
+                "value": "Origin code"
+              },
+              {
+                "ref": "E1",
+                "value": "Start date"
+              },
+              {
+                "ref": "F1",
+                "value": "End date"
+              },
+              {
+                "ref": "G1",
+                "value": "Meas. type code"
+              },
+              {
+                "ref": "H1",
+                "value": "Origin"
+              },
+              {
+                "ref": "I1",
+                "value": "Measure type"
+              },
+              {
+                "ref": "J1",
+                "value": "Footnote"
+              }
+            ],
+            [
+              {
+                "ref": "A2",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B2",
+                "value": ""
+              },
+              {
+                "ref": "C2",
+                "value": ""
+              },
+              {
+                "ref": "D2",
+                "value": "1011"
+              },
+              {
+                "ref": "E2",
+                "value": "01-01-2022"
+              },
+              {
+                "ref": "F2",
+                "value": ""
+              },
+              {
+                "ref": "G2",
+                "value": "750"
+              },
+              {
+                "ref": "H2",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "I2",
+                "value": "Import control of organic products"
+              },
+              {
+                "ref": "J2",
+                "value": "CD808"
+              }
+            ],
+            [
+              {
+                "ref": "A3",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B3",
+                "value": ""
+              },
+              {
+                "ref": "C3",
+                "value": ""
+              },
+              {
+                "ref": "D3",
+                "value": "BY"
+              },
+              {
+                "ref": "E3",
+                "value": "20-07-2025"
+              },
+              {
+                "ref": "F3",
+                "value": ""
+              },
+              {
+                "ref": "G3",
+                "value": "695"
+              },
+              {
+                "ref": "H3",
+                "value": "Belarus"
+              },
+              {
+                "ref": "I3",
+                "value": "Additional duties"
+              },
+              {
+                "ref": "J3",
+                "value": "TM01026"
+              }
+            ],
+            [
+              {
+                "ref": "A4",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B4",
+                "value": ""
+              },
+              {
+                "ref": "C4",
+                "value": ""
+              },
+              {
+                "ref": "D4",
+                "value": "RU"
+              },
+              {
+                "ref": "E4",
+                "value": "20-07-2025"
+              },
+              {
+                "ref": "F4",
+                "value": ""
+              },
+              {
+                "ref": "G4",
+                "value": "695"
+              },
+              {
+                "ref": "H4",
+                "value": "Russian Federation"
+              },
+              {
+                "ref": "I4",
+                "value": "Additional duties"
+              },
+              {
+                "ref": "J4",
+                "value": "TM01026"
+              }
+            ],
+            [
+              {
+                "ref": "A5",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B5",
+                "value": ""
+              },
+              {
+                "ref": "C5",
+                "value": ""
+              },
+              {
+                "ref": "D5",
+                "value": "1011"
+              },
+              {
+                "ref": "E5",
+                "value": "20-07-2025"
+              },
+              {
+                "ref": "F5",
+                "value": ""
+              },
+              {
+                "ref": "G5",
+                "value": "695"
+              },
+              {
+                "ref": "H5",
+                "value": "ERGA OMNES"
+              },
+              {
+                "ref": "I5",
+                "value": "Additional duties"
+              },
+              {
+                "ref": "J5",
+                "value": "TM01026"
+              }
+            ],
+            [
+              {
+                "ref": "A6",
+                "value": "0100000000"
+              },
+              {
+                "ref": "B6",
+                "value": ""
+              },
+              {
+                "ref": "C6",
+                "value": ""
+              },
+              {
+                "ref": "D6",
+                "value": "UA"
+              },
+              {
+                "ref": "E6",
+                "value": "24-06-2026"
+              },
+              {
+                "ref": "F6",
+                "value": ""
+              },
+              {
+                "ref": "G6",
+                "value": "762"
+              },
+              {
+                "ref": "H6",
+                "value": "Ukraine"
+              },
+              {
+                "ref": "I6",
+                "value": "Import control"
+              },
+              {
+                "ref": "J6",
+                "value": "CD860"
+              }
+            ]
+          ]
+        }
+      ],
+      "xlsx_members": 9
+    },
+    "locally_archived": true
+  }
+]

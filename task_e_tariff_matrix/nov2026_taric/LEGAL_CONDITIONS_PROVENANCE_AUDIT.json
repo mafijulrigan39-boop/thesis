@@ -1,0 +1,71 @@
+{
+  "utc": "2026-11-21T07:47:36.094850+00:00",
+  "reference_date": "2026-11-01",
+  "source": "Official EU DG TAXUD CIRCABC November 2026 raw XLSX",
+  "unique_applicable_measure_keys": 845,
+  "rows": [
+    {
+      "file": "Measure conditions.xlsx",
+      "original_raw_rows": 78097,
+      "matching_valid_source_rows": 452,
+      "column_names": [
+        "Goods code",
+        "Add code",
+        "Order No.",
+        "Start date",
+        "End date",
+        "Origin code",
+        "Meas. type code",
+        "Meas. cond",
+        "Sequence",
+        "Certificate",
+        "Cond. amount",
+        "Mon. unit",
+        "Meas. unit",
+        "Meas. unit qual",
+        "Meas. action"
+      ]
+    },
+    {
+      "file": "Measure exclusions.xlsx",
+      "original_raw_rows": 32398,
+      "matching_valid_source_rows": 117,
+      "column_names": [
+        "Goods code",
+        "Add code",
+        "Order No.",
+        "Start date",
+        "End date",
+        "Origin",
+        "Measure type",
+        "Excluded country code",
+        "Origin code",
+        "Meas. type code",
+        "Excluded country"
+      ]
+    },
+    {
+      "file": "Measure footnotes.xlsx",
+      "original_raw_rows": 133430,
+      "matching_valid_source_rows": 485,
+      "column_names": [
+        "Goods code",
+        "Add code",
+        "Order No.",
+        "Origin code",
+        "Start date",
+        "End date",
+        "Meas. type code",
+        "Origin",
+        "Measure type",
+        "Footnote"
+      ]
+    }
+  ],
+  "caution": [
+    "TARIC measure conditions are not themselves a full origin certificate determination.",
+    "GSP / FTA product-specific rules of origin are in distinct legal sources and remain unvalidated.",
+    "Same source measure may serve multiple CN8 descendants and multiple eligible country groups.",
+    "Future 2027+ duty scenarios not confirmed from the 2026-11-01 snapshot."
+  ]
+}

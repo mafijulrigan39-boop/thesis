@@ -1,0 +1,486 @@
+Goods code,Add code,Order No.,Origin code,Start date,End date,Meas. type code,Origin,Measure type,Footnote
+0300000000,,,1011,01-01-2022,,750,ERGA OMNES,Import control of organic products,CD808
+0300000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+0300000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+0306170000,,,3000,11-12-2013,09-01-2027,719,"Non-cooperating countries in fighting illegal, unreported and unregulated fishing","Control on illegal, unreported and unregulated fishing",CD669
+0306170000,,,1008,01-08-2024,,410,All third countries,Veterinary control,CD624
+0306170000,,,1008,01-08-2024,,410,All third countries,Veterinary control,CD686
+0306170000,,,1008,01-08-2024,,410,All third countries,Veterinary control,CD737
+0306170000,,,1011,10-01-2026,,719,ERGA OMNES,"Control on illegal, unreported and unregulated fishing",CD590
+0306179200,,,2020,01-01-2015,,142,GSP - General arrangements,Tariff preference,TM547
+0306179220,,092802,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,EU001
+0306179220,,092802,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,TM062
+0306179220,,092802,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,TM603
+0306179900,,,2020,01-01-2015,,142,GSP - General arrangements,Tariff preference,TM547
+0306179910,,092826,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,EU001
+0306179910,,092826,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,TM062
+0306179910,,092826,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,TM603
+1900000000,,,1011,01-01-2022,,750,ERGA OMNES,Import control of organic products,CD808
+1900000000,,,1011,20-07-2025,,695,ERGA OMNES,Additional duties,TM01026
+1900000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+1900000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+1902300000,,,CN,01-02-2016,,713,China,Import control on genetically modified organisms (GMO) and products containing GMOs,CD680
+1902300000,,,1011,01-02-2016,,713,ERGA OMNES,Import control on genetically modified organisms (GMO) and products containing GMOs,CD680
+1902301040,,,1011,01-01-2024,,495,ERGA OMNES,Declaration of subheading submitted to legal restrictions (declared net mass),CD804
+1902301040,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+1902301080,,,1008,15-07-2026,,410,All third countries,Veterinary control,CD624
+1902301080,,,1008,15-07-2026,,410,All third countries,Veterinary control,CD626
+1902301080,,,1008,15-07-2026,,410,All third countries,Veterinary control,CD737
+2400000000,,,1011,20-07-2025,,695,ERGA OMNES,Additional duties,TM01026
+2400000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+2400000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+2401203510,,,1011,01-01-2009,,465,ERGA OMNES,Restriction on entry into free circulation,CD376
+2401203520,,,1011,01-01-2009,,465,ERGA OMNES,Restriction on entry into free circulation,CD376
+2401203520,,,2020,01-01-2014,,142,GSP - General arrangements,Tariff preference,TM547
+2401203591,,092913,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,EU001
+2401203591,,092913,1011,01-01-2026,31-12-2026,123,ERGA OMNES,Non preferential tariff quota under end-use,TM862
+2401203591,,,2020,01-01-2014,,142,GSP - General arrangements,Tariff preference,TM547
+2401203591,,,1011,01-01-2022,,483,ERGA OMNES,Declaration of subheading submitted to legal restrictions (unit price),CD651
+2401203591,,,VN,01-01-2026,31-12-2026,142,Viet Nam,Tariff preference,TM999
+2401203599,,,2020,01-01-2014,,142,GSP - General arrangements,Tariff preference,TM547
+2401203599,,,VN,01-01-2026,31-12-2026,142,Viet Nam,Tariff preference,TM999
+2401208510,,,1011,01-01-2009,,465,ERGA OMNES,Restriction on entry into free circulation,CD376
+2401208590,,,2020,01-01-2014,,142,GSP - General arrangements,Tariff preference,TM547
+2401208590,,,VN,01-01-2026,31-12-2026,142,Viet Nam,Tariff preference,TM999
+3900000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+3900000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+3923000000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+3923210000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3923210000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3924000000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+3924100011,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3924100011,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3924100011,,,1011,01-02-2023,,475,ERGA OMNES,Restriction on entry into free circulation,CD761
+3924100011,,,1011,01-02-2023,,475,ERGA OMNES,Restriction on entry into free circulation,CD997
+3924100019,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3924100019,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3924100019,,,CN,01-02-2023,,475,China,Restriction on entry into free circulation,CD761
+3924100019,,,CN,01-02-2023,,475,China,Restriction on entry into free circulation,CD997
+3924100090,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3924100090,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3924900000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3924900000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3924900010,A782,,CN,29-11-2025,,552,China,Definitive anti-dumping duty,CD01027
+3924900010,A783,,CN,29-11-2025,,552,China,Definitive anti-dumping duty,CD01027
+3924900010,A784,,CN,29-11-2025,,552,China,Definitive anti-dumping duty,CD01027
+3924900010,A785,,CN,29-11-2025,,552,China,Definitive anti-dumping duty,CD01027
+3924900010,A786,,CN,29-11-2025,,552,China,Definitive anti-dumping duty,CD01027
+3924900010,A953,,CN,29-11-2025,,552,China,Definitive anti-dumping duty,CD01027
+3924900010,,,TR,01-01-2010,,570,Türkiye,Anti-dumping/countervailing duty - Control,TM303
+3926000000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+3926200000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3926200000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3926909700,,,1011,20-02-2019,,705,ERGA OMNES,Import prohibition on goods for torture and repression,CD990
+3926909700,,,1011,20-02-2019,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR016
+3926909700,,,1011,20-02-2019,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR017
+3926909700,,,1011,20-02-2019,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR018
+3926909700,,,1011,20-02-2019,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR023
+3926909700,,,1008,01-08-2024,,410,All third countries,Veterinary control,CD624
+3926909700,,,1008,01-08-2024,,410,All third countries,Veterinary control,CD686
+3926909700,,,1008,01-08-2024,,410,All third countries,Veterinary control,CD737
+3926909700,,,1011,25-06-2025,,724,ERGA OMNES,Import control of fluorinated greenhouse gases,CD917
+3926909705,,,1011,01-01-2007,,105,ERGA OMNES,Non preferential duty under end-use,EU001
+3926909710,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3926909710,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3926909710,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909722,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909723,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909727,,,1011,01-01-2019,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3926909727,,,1011,01-01-2019,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3926909727,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909730,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909733,,,1011,01-01-2018,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3926909733,,,1011,01-01-2018,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3926909733,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909740,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909743,,,1011,01-01-2021,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3926909743,,,1011,01-01-2021,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3926909743,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909748,,,1011,01-01-2021,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3926909748,,,1011,01-01-2021,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+3926909748,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,EU001
+3926909748,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,TM861
+3926909758,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,EU001
+3926909758,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,TM861
+3926909777,,,1011,01-01-2022,,496,ERGA OMNES,Declaration of subheading submitted to legal restrictions (declared supplementary unit),CD805
+3926909777,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+3926909790,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+3926909790,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+4100000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+4100000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+4104000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+4104000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+4104000000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+4104411910,,,1011,01-01-2026,,112,ERGA OMNES,Autonomous tariff suspension,TM861
+4200000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+4200000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+4202120000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+4202120000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+4202120000,,,1011,25-06-2025,,724,ERGA OMNES,Import control of fluorinated greenhouse gases,CD917
+4202129900,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+4202129910,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+4202129910,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+4202210000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+4202210000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+4202210000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+4202210010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+4202210010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+4202221000,,,2020,01-01-2026,,142,GSP - General arrangements,Tariff preference,TM547
+4202229000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+4202229010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+4202229010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+4202929100,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+4202929110,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+4202929110,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+4202929190,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+4202929190,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+4202929800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+4202929800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+4202929800,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+4202929810,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+4202929810,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+4600000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+4600000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+4600000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+4600000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+4602199010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+4602199010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+5300000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+5300000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+5310000000,,092501,1011,01-09-2026,31-08-2027,122,ERGA OMNES,Non preferential tariff quota,CD605
+5310000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+5310000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+5310000000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+5700000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+5700000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+5700000000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+5700000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+5700000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+5702990000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6100000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+6100000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+6101000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6101000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6101000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6101000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6102000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6102000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6102000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6102000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6103000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6103000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6103000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6103000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6103490010,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6103490099,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6104000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6104000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6104000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6104000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6104590000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6104690010,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6104690099,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6105000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6105000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6106000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6106000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6107000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6107000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6108000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6108000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6109000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6109000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6109902000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6109909000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6110000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6110000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6110000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6110000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6110129010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6110129010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6110909090,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6111000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6111000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6111000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6111000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6111909090,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6112110000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6112110000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6112120000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6112120000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6112410000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6112410000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6113000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6113000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6114000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6114000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6114000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6114000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6115000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6115000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6116000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6116000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6116000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6116000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6116102019,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6116102091,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6200000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+6200000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+6201000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6201000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6201000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6201000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6201301000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6201301091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6201301091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6201309000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6201309091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6201309091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6201401000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6201409000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6201900000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6201900010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6201900010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6202000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6202000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6202000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6202000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6202301000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6202301091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6202301091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6202309000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6202309091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6202309091,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6202401000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6202409000,,,1011,01-01-2022,,482,ERGA OMNES,Declaration of subheading submitted to legal restrictions (net weight/supplementary unit),CD651
+6202900000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6202900010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6202900010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6203000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6203000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6203000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6203000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6203399000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6203499000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6204000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6204000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6204000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6204000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6204329010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204329010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204399000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6204399010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204399010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204420010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204420010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204440010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204440010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204499000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6204499010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204499010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204520010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204520010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204530010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204530010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204591010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204591010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204623110,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204623110,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204623310,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204623310,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204623910,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204623910,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204625910,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204625910,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204629010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204629010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204631810,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204631810,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204639010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204639010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204691810,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204691810,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204695010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204695010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6204699000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6204699010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6204699010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6205000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6205000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6205200010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6205200010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6205901010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6205901010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6205908010,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6205908090,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6206000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6206000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6206300010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6206300010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6206901010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6206901010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6207110000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6207110000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6207210000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6207210000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6208910018,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6208910018,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6209000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6209000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6210109800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6210109800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6210200000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6210200000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6210300000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6210300000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6210400000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6210400000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6210500000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6210500000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6211110000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6211110000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6211320000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6211320000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6211320000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6211329000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6211330000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6211330000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6211330000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6211339000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6211420000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6211420000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6211420000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6211429000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6211430000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6211430000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6211430000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6211439000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6211490000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6211490000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6211490000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6211490000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6300000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+6300000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+6302000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6302000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6302210021,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6302210021,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6302210081,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6302210081,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6302910010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6302910010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6304000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6304000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6304191010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6304191010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6304920000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+6304920010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6304920010,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6305000000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+6306000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6306000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6306900011,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6306900011,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6307900000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+6307909800,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6307909800,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,CD990
+6307909800,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR017
+6307909800,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR018
+6307909800,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR041
+6307909891,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6307909891,,090106,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6400000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+6400000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+6402000000,,,2020,01-01-2015,,142,GSP - General arrangements,Tariff preference,TM547
+6402910000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6402910000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6402910000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6402993900,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6402993900,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6402999100,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6402999100,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6402999300,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6402999300,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6402999600,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6402999600,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6402999800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6402999800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6403000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6403910000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6403910000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6403910000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6403911100,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6403911300,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6403911600,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6403911800,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6403919800,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6403990000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6403991100,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6403991100,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6403993800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6403993800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6403999600,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6403999600,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6403999800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6403999800,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6404000000,,,2020,01-01-2015,,142,GSP - General arrangements,Tariff preference,TM547
+6404000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6404110000,,,1011,25-06-2025,,724,ERGA OMNES,Import control of fluorinated greenhouse gases,CD917
+6404190000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6404199000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6404199000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6500000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+6500000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+6505000000,,,1011,18-10-2015,,746,ERGA OMNES,Import control on seal products,CD603
+6505000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6505000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6505000000,,,1011,20-05-2023,,710,ERGA OMNES,Import control - CITES,CD370
+6505003000,,,1011,01-01-2012,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6505009000,,,1011,01-01-2012,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+6505009000,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,CD990
+6505009000,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR017
+6505009000,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR018
+6505009000,,,1011,20-08-2025,,705,ERGA OMNES,Import prohibition on goods for torture and repression,TR041
+6505009010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,CD001
+6505009010,,090104,2301,01-01-2026,31-12-2026,122,Certain handicraft products (Handicrafts),Non preferential tariff quota,TM589
+6900000000,,,1011,21-05-2026,,755,ERGA OMNES,Import control - Waste,CD572
+6900000000,,,1011,21-05-2026,,755,ERGA OMNES,Import control - Waste,CD573
+6900000000,,,1011,21-05-2026,,755,ERGA OMNES,Import control - Waste,CD574
+6900000000,,,1011,21-05-2026,,755,ERGA OMNES,Import control - Waste,CD577
+6900000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+6900000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+6911000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+6911000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+6911100090,,,TR,16-11-2012,,570,Türkiye,Anti-dumping/countervailing duty - Control,TM303
+7600000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+7600000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+7602001900,,,1011,21-05-2026,31-12-2026,755,ERGA OMNES,Import control - Waste,CD572
+7602001900,,,1011,21-05-2026,31-12-2026,755,ERGA OMNES,Import control - Waste,CD573
+7602001900,,,1011,21-05-2026,31-12-2026,755,ERGA OMNES,Import control - Waste,CD574
+7602001900,,,1011,21-05-2026,31-12-2026,755,ERGA OMNES,Import control - Waste,CD577
+8712000000,,,1011,25-06-2025,,724,ERGA OMNES,Import control of fluorinated greenhouse gases,CD917
+8712000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+8712003000,B772,,CN,24-10-2025,,552,China,Definitive anti-dumping duty,CD659
+8712003000,B773,,CN,24-10-2025,,552,China,Definitive anti-dumping duty,CD659
+8712003000,B774,,CN,24-10-2025,,552,China,Definitive anti-dumping duty,CD659
+8712003000,C329,,CN,24-10-2025,,552,China,Definitive anti-dumping duty,TM882
+8712003000,,,TR,15-07-2005,,570,Türkiye,Anti-dumping/countervailing duty - Control,TM303
+8712003000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+8712003020,C035,,KH,24-10-2025,,552,Cambodia,Definitive anti-dumping duty,CD690
+8712003020,C036,,KH,24-10-2025,,552,Cambodia,Definitive anti-dumping duty,CD690
+8712003020,C037,,KH,24-10-2025,,552,Cambodia,Definitive anti-dumping duty,CD690
+9000000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+9000000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+9400000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+9400000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+9404000000,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+9404000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",EU003
+9404000000,,,1011,01-07-2016,,117,ERGA OMNES,"Suspension - goods for certain categories of ships, boats and other vessels and for drilling or production platforms",TM510
+9404000000,,,1011,01-11-2018,,119,ERGA OMNES,Airworthiness tariff suspension,CD333
+9500000000,,,1011,01-11-2026,,107,ERGA OMNES,Low-value consignment customs duty,TM01066
+9500000000,,,1011,01-11-2026,,800,ERGA OMNES,Union handling fee,TM01086
+9503009500,,,1011,15-08-2009,,745,ERGA OMNES,Import control on cat and dog fur,CD568
+9503009530,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,EU001
+9503009530,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,TM861
+9503009540,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,EU001
+9503009540,,,1011,01-01-2026,,115,ERGA OMNES,Autonomous suspension under end-use,TM861

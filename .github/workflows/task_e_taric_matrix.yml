@@ -1,0 +1,28 @@
+name: Task E official TARIC 200 CN8 tariff and preference matrix
+on:
+  push:
+    paths:
+      - ".github/workflows/task_e_taric_matrix.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build from DG TAXUD official Nov 2026 CIRCABC spreadsheets
+        run: python task_e_tariff_matrix/build_official_taric2026.py
+      - name: Preserve originals, candidate rates, explicit legal source receipts
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add task_e_tariff_matrix/nov2026/
+          if ! git diff --staged --quiet; then
+            git commit -m "Archive official TARIC 2026-11 snapshot and source-qualified product duty matrix"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

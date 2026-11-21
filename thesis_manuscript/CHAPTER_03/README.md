@@ -4,7 +4,7 @@
 
 | Section | Status |
 |---|---|
-| [3.1 Explanation of Selected Theory](3_1_EXPLANATION_OF_SELECTED_THEORY.md) | First cited academic draft; primary trade-cost/preferential-access theory, supplementary competitiveness and GVC perspectives |
+| [3.1 Explanation of Selected Theory](3_1_EXPLANATION_OF_SELECTED_THEORY.md) | **Revised after deep research-design and QA audit (2026-11-22)**; relative trade costs as primary foundation, explicit eligibility and inference boundaries |
 | 3.2 Application of Theory to Research Variables | Pending; requires explicit observed/constructed variable dictionary |
 | 3.3 Conceptual Framework Diagram | Pending; must distinguish theoretical channels from observed measurements |
 | 3.4 Support with Academic Citations | Pending; comprehensive theory-to-link justification and reference reconciliation |
@@ -14,3 +14,10 @@
 **Design caution:** The study is an observational 2025 EU product–origin cross-section with separately dated 2026 tariff candidates and hypothetical static scenario calculations. Structural gravity is a conceptual theory here, **not an estimated gravity regression**. GVC/firm heterogeneity mechanisms are unobserved and must not be claimed as tested. Post-hoc hypotheses are exploratory, not causal.
 
 **Status:** First draft; full text/source proofreading and supervisor approval remain pending.
+
+## Reassessment and execution plan
+
+- [Deep 3.1 theory-selection audit](3_1_THEORY_SELECTION_REASSESSMENT.md)
+- [Full theory-to-execution research plan](../../report_writing/CHAPTER_03_THEORY_AND_RESEARCH_EXECUTION_PLAN.md)
+
+**Important:** 2025 core numerical analysis is independently QA-verified. 2026 tariff sources are source-dated candidates, 2027-roster Article 33 comparisons are illustrative, and post-EBA outcomes are unobserved. Work on Sections 3.2–3.4 is still pending.

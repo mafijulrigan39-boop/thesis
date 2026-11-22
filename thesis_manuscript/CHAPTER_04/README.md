@@ -8,7 +8,7 @@
 |---|---|
 | [4.1 Research Design](4_1_RESEARCH_DESIGN.md) | Completed cited first draft; method selection, three distinct evidence streams, five-RQ mapping, validity bounds |
 | [4.2 Methodological Scope and Documentary Thematic Analysis](4_2_DOCUMENTARY_THEMATIC_ANALYSIS.md) | Completed first draft: directed deductive coding of official policy documents, with 15 provision-level evidence units; no interviews or independent thematic dataset |
-| [4.3 Quantitative Methods and Statistical Tools](4_3_QUANTITATIVE_METHODS_AND_STATISTICAL_TOOLS.md) | First cited academic draft: actual Python 3.12, 9,999 permutations, 1,999 bootstrap draws, six sign tests, BH adjustment and deterministic policy ratios |
+| [4.3 Quantitative Methods and Statistical Tools](4_3_QUANTITATIVE_METHODS_AND_STATISTICAL_TOOLS.md) | Rewritten self-contained with equations, 2025–2026 data, worked examples, H1–H3 numerical outputs, all scenario tables, exact parameters, audit steps and APA citations |
 | 4.4 Sampling Techniques and Data Sources | Pending; source list, year/reporter/origin filters, purposive top-200 selection, origin and tariff coverage |
 | 4.5 Data Analysis Procedures | Pending; versioned source retrieval, data joins, missingness, hypotheses and QA |
 
@@ -24,3 +24,6 @@
 - [Qualitative method and boundaries](4_2_DOCUMENTARY_THEMATIC_ANALYSIS.md)
 
 **Status clarification:** Revisions to 4.1 align the design language with the narrowly scoped coding actually recorded for Section 4.2; no independently sampled interview or narrative qualitative strand exists. Supervisor can determine if an embedded mixed-method label is preferred, but the actual study procedures must remain unchanged.
+
+
+**4.3 revision:** The methodology section includes mathematical steps and numerical worked checks **within the manuscript**, without requiring a reader to open an external code repository. It intentionally interleaves methodological illustration and outcome figures at the author's request; Chapter 5 should not duplicate tables without editorial decision.

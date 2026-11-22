@@ -27,3 +27,7 @@
 
 
 **4.3 revision:** The methodology section includes mathematical steps and numerical worked checks **within the manuscript**, without requiring a reader to open an external code repository. It intentionally interleaves methodological illustration and outcome figures at the author's request; Chapter 5 should not duplicate tables without editorial decision.
+
+## Independent calculation verification
+
+- [Section 4.3 mathematical proof audit and results-defence standard](4_3_INDEPENDENT_MATHEMATICAL_PROOF_AUDIT.md): 40/40 scenarios, 14/14 annual ratio screens, six sign tests plus BH, deterministic quantities and random-seeded H1/H2/bootstraps independently reproduced. **Numerical PASS** with documented legal and inferential qualifications.
